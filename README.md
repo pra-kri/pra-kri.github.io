@@ -3,7 +3,7 @@ Github Pages Site
 
 
 ### Original theme: Hyde
-Created by: @mdo (Mark Otto)
+Theme created by: @mdo (Mark Otto)
 
 ### License 
 

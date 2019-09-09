@@ -10,16 +10,27 @@ Via Negativa: learn what *NOT* to do. Have an image of who you *don't* want to e
 It's OK if you do not reach the heights of the ideals. But its not really acceptable to make the dumb choices and mistakes that your anti-ideals make. Maybe this is one area of life where disdain and arrogance can really be used productively. 
 
 <details><summary>CLICK TO EXPAND !</summary>
-<p>
 
-#### Testing out collapsible boxes in markdown...Hopefully works in Jekyll.
+<table style="width:100%">
+  <tr>
+    <th>aaaaa</th>
+    <th>bbbbbb</th>
+    <th>ccccc</th>
+  </tr>
+  <tr>
+    <td>aa</td>
+    <td>bb</td>
+    <td>cc</td>
+  </tr>
+  <tr>
+    <td>aaa</td>
+    <td>bbb</td>
+    <td>ccc</td>
+  </tr>
+</table>
 
-```python
-print("nice, worked.")
-```
-
-</p>
 </details>
+
 
 
 <table style="width:140%">
@@ -35,6 +46,7 @@ print("nice, worked.")
       <br>
       <b> Anti-Ideal: </b> Don't be one of those idiots who have nothing interesting to say. The types who can't write or think well, and fill their words with empty fluff. Maybe it's because they have nothing of value to say. Maybe they have underdeveloped opinions and just think what they're told to think - <i>'useful idiots'</i>. No individuality in their perspective whatsoever. Intellectual sheep who conform. 
       <br>
+      <details><summary>CLICK TO EXPAND !</summary> abcdefghijkl testing expand functionality within table... </details>
     </td>
     <td>aaaaa</td>
   </tr>

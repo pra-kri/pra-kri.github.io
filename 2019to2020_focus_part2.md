@@ -9,6 +9,19 @@ Via Negativa: learn what *NOT* to do. Have an image of who you *don't* want to e
 
 It's OK if you do not reach the heights of the ideals. But its not really acceptable to make the dumb choices and mistakes that your anti-ideals make. Maybe this is one area of life where disdain and arrogance can really be used productively. 
 
+<details><summary>CLICK TO EXPAND !</summary>
+<p>
+
+#### Testing out collapsible boxes in markdown...Hopefully works in Jekyll.
+
+```python
+print("nice, worked.")
+```
+
+</p>
+</details>
+
+
 <table style="width:140%">
   <tr>
     <th>Skill</th>

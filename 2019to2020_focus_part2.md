@@ -1,3 +1,8 @@
+---
+layout: page
+title: 2019/2020 - Focus - I
+---
+
 ### The Skills, Knowledge.
 <br>
 ##### 1. Writing

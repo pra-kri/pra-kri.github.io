@@ -66,3 +66,11 @@ Prabesh Krishnakumar
 * 2014 to 2017 - BA Physics, University of Oxford
 * 2017 to 2019 - Worked for 2 years, mostly with Python, in finance-related firms.
 * 2019 to 2020 - MSc Computer Science, University of Warwick
+
+
+### temp - Testing collapsible boxes...
+
+<button class="collapsible">Open Text</button>
+<div class="content">
+  <p> Insert text here....12345678...</p>
+</div>

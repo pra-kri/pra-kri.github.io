@@ -66,33 +66,3 @@ Prabesh Krishnakumar
 * 2014 to 2017 - BA Physics, University of Oxford
 * 2017 to 2019 - Worked for 2 years, mostly with Python, in finance-related firms.
 * 2019 to 2020 - MSc Computer Science, University of Warwick
-
-
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-
-</script>
-
-
-
-### temp - Testing collapsible boxes...
-
-<button class="collapsible">Open Text</button>
-<div class="content">
-  <p> Insert text here....12345678...</p>
-</div>

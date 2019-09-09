@@ -50,11 +50,11 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
     <td>aaaaa</td>
   </tr>
   <tr>
-    <td><b>2. Probability, Information, ML</b></td>
+    <td><b>2. Statistical Modelling </b></td>
     <td><details><summary><sup>click to expand</sup></summary>
-      <b> Ideal: </b> Build a deep, intuitive understanding of randomness, uncertainty, information and prediction - from a technical, quantitative perspective. Learn how to use the techniques effectively and quickly in R&D and entrepreneurship. Applications that are 'close to the money' and close to useful discoveries. Really try to understand the intuition and core principles. Study Machine Learning from a Probabilistic and Information-Theoretic perspective. 
+      <b> Ideal: </b> Build a deep, intuitive understanding of randomness, uncertainty, information and prediction - from a quantitative perspective. Study at the intersection of Probability Theory, Information Theory and Machine Learning. Learn how to use the techniques effectively and correctly in R&D and entrepreneurship. Applications that are 'close to the money' or close to useful discoveries.  
       <br>
-      <b> Anti-Ideal: </b>Study all the ways that people get tricked and lied to, through deceptive statistics. Find out how all the idiots misapply machine learning models and screw things up. Find out how companies and governments and ideological groups can lie through dishonest statistics. 
+      <b> Anti-Ideal: </b>Study all the ways that people get tricked and lied to, through deceptive statistics and machine learning models. Find out how both idiots and liars can manipulate decisions through misleading quantitative models.  
       <br> </details>
     </td>
     <td>aaaaa</td>
@@ -70,11 +70,11 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
     <td>SICP, Clean Code, The Mythical Man Month</td>
   </tr>
   <tr>
-    <td><b>4. Investing, VC, Capital allocation</b></td>
+    <td><b>4. Investing, VC, Capital Allocation</b></td>
     <td><details><summary><sup>click to expand</sup></summary>
-      <b> Ideal: </b> Build a deep undestanding of investing. Where should you allocate capital (and time) in a free market? What signals can you use to predict growth and business value in companies? Quality of founders or management? Fundamental analysis? Quant. analysis? Macroeconomic trends? Look at different investors in different fields. Value (Buffett, Munger, Klarman...), VC (Paul Graham, Peter Thiel - Zero to One, Tim Ferriss' interviews with a LOT of angel investors), Quant Traders (Taleb, Spitznagel, Thorp...), Macro (Dalio)...etc 
+      <b> Ideal: </b> Build a deep understanding of investing. Where should you allocate capital (and time) in a free market? What signals can you use to predict growth and value in companies? Founder quality, fundamental analysis, quant analysis, macro...etc.? Learn from investors in different fields. Value (Buffett, Munger, Klarman...), VC (Paul Graham, Peter Thiel - Zero to One, Tim Ferriss' interviews with a LOT of angel investors), Quant Traders (Taleb, Spitznagel, Thorp, AQR, Winton,...), Global Macro (Dalio, Soros)...etc 
       <br>
-      <b> Anti-Ideal: </b>Learn how all the bad investors lose money. How should you *NOT* manage your risk? Find all the ways that mediocre portfolio managers manage their investments. 
+      <b> Anti-Ideal: </b>Learn how all the bad investors lose money. How should you *NOT* manage your risk? Find all the ways that mediocre portfolio managers manage their investments. And for startups, learn how to tell when a startup looks crap: what signals should you watch out for? This is useful both from an investing perspective *and* a startup joiner perspective. 
       <br> </details>
     </td>
     <td>aaaaa</td>

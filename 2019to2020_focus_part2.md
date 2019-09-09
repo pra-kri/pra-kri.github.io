@@ -37,7 +37,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
   <tr>
     <th>Skill</th>
     <th>Ideal vs. Anti-Ideal</th>
-    <th>Best Resources + Role Models</th>
   </tr>
   <tr>
     <td><b>1. Writing</b></td>
@@ -47,7 +46,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
       <b> Anti-Ideal: </b> Don't be one of those idiots who have nothing interesting to say. The types who can't write or think well, and fill their words with empty fluff. Maybe it's because they have nothing of value to say. Maybe they have underdeveloped opinions and just think what they're told to think - <i>'useful idiots'</i>. No individuality in their perspective whatsoever. Intellectual sheep who conform. 
       <br> </details>
     </td>
-    <td>aaaaa</td>
   </tr>
   <tr>
     <td><b>2. Statistical Modelling </b></td>
@@ -57,7 +55,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
       <b> Anti-Ideal: </b>Study all the ways that people get tricked and lied to, through deceptive statistics and machine learning models. Find out how both idiots and liars can manipulate decisions through misleading quantitative models.  
       <br> </details>
     </td>
-    <td>aaaaa</td>
   </tr>
   <tr>
     <td><b>3. SICP</b></td>
@@ -67,7 +64,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
       <b> Anti-Ideal: </b>Learn what crappy and mediocre hackers do. Look at all the ways they fail to hide complexity behind clean interfaces. Look at all the ways you can screw up technical decisions to exponentially slow down productivity. Read 'spaghetti code'. Read 'lasagne code'. Read code written by sh**ty developers with no clarity of thought, or inexperienced developers who were rushed.In fact, read your own code and criticise it...
       <br> </details>
     </td>
-    <td>SICP, Clean Code, The Mythical Man Month</td>
   </tr>
   <tr>
     <td><b>4. Investing, VC, Capital Allocation</b></td>
@@ -77,7 +73,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
       <b> Anti-Ideal: </b>Learn how all the bad investors lose money. How should you *NOT* manage your risk? Find all the ways that mediocre portfolio managers manage their investments. And for startups, learn how to tell when a startup looks crap: what signals should you watch out for? This is useful both from an investing perspective *and* a startup joiner perspective. 
       <br> </details>
     </td>
-    <td>aaaaa</td>
   </tr>
   <tr>
     <td><b>5. Policy, Risk, Governance</b></td>
@@ -87,7 +82,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
       <b> Anti-Ideal: </b>Don't be like those naive idiots who introduce massive amounts of systemic risk through dumb policies, while thinking they're 'heroic'. Usually done by lefties for some reason... These types of idiots rarely seem to understand systemic risk and 2nd order consequences. They don't seem to grasp the concept of 'trade-off' (or *sacrifice* - as it's known in the realm of ethics).  You might occasionally hear them say colourful statements that resemble: 'Brexit is bad and racist hurr durr 2nd referendum plsss. im so virtuous look at me'. And then if you ask them why they think the EU is so great, they might start stuttering nervously about marginal economic benefits that the EU brings, and claim that everyone who voted for Brexit is clearly racist and unintelligent. And the whole time they think they're smart and virtuous. Cowards. Willing to sell sovereignity for some money. Maybe these morons would sell sovereignity, border-control and regulatory power to the US, if they offerred us an extra 6% extra GDP? 'hurr durr the economy'. I've found that these are also the same idiots who may occasionally mention phrases like 'but that wasn't real communism maaaaan' or 'hurr durr pay gap womens are still oppressed by the patriarchy', without looking at any issues and statistics in depth. Cowards who tend to sell liberty for comfort. Or maybe they love signalling their 'virtue'? 'Oh the Gulags? Oh the Nazi concentration camps? Systemic risk? Corruption? Genocide? Totalitarianism? Naaaa duuuude, those things will *never* happen here. That's why I voted for more government power - because I'm so generous and I care about the oppressed. Big daddy gov will protect us all' - said the sheep who sold freedom for comfort, moments before being sent to a gulag. 
       <br> </details>
     </td>
-    <td>aaaaa</td>
   </tr>
 </table>
 

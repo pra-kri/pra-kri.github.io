@@ -13,7 +13,7 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
 
 <table style="width:100%">
   <tr>
-    <th>aaaaa</th>
+    <th>AAAA</th>
     <th>bbbbbb</th>
     <th>ccccc</th>
   </tr>

@@ -11,8 +11,6 @@ It's OK if you do not reach the heights of the ideals. But its not really accept
 
 
 <table style="width:140%">
-  <col width="50">
-  <col width="50">
   <tr>
     <th>Skill</th>
     <th>Ideal vs. Anti-Ideal</th>

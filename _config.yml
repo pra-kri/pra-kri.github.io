@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+
+
+
+# Setup
+title:            pra-kri
+tagline:          'Prabesh K'
+description:      'Thoughts + essays + code on decision-making, uncertainty, and related areas.'
+url:              https://pra-kri.github.io
+baseurl:          /pra-kri.github.io/
+
+author:
+  name:           'P.K.'
+  url:            https://github.com/pra-kri/pra-kri.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/pra-kri/pra-kri.github.io

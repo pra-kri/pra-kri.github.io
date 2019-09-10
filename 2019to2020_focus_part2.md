@@ -3,7 +3,11 @@ layout: page
 title: 2019/2020 - Focus - II
 ---
 
-Focus on these skills. They should all follow these principles:
+
+<details><summary><sup><b>NOTE:</b>Click small text next to arrows to expand and see more details.</sup></summary>.............</details>
+
+
+Focus on mastering skills that follow these principles. They will probably be exponentially more useful to you over time and you'll be able to look at your work with a sense of pride:
 
 <table style="width:140%">
   <tr>
@@ -12,7 +16,7 @@ Focus on these skills. They should all follow these principles:
   </tr>
   <tr>
     <td><b>1. Self-Reliant</b></td>
-    <td> <details><summary><sup>Useful in small teams + entrepreneurial ventures; Allows risk-taking (<i>~courage</i>)</sup></summary>
+    <td> <details><summary><sup>Useful in small teams + entrepreneurial ventures; Allows independence and risk-taking (<i>~courage</i>)</sup></summary>
       <b> Ideal: </b> Is it independent and self-reliant? Can you create value and wealth in entrepreneurial ventures with small teams? ('front-office', close-to-the-money, revenue-generating?). Will it help you take risks in the open market?
       <br>
       <b> Anti-Ideal: </b>Or is it a heavily dependent, specialised skill that's useless outside of large corporations? Will it make you fragile and dependent on corporate 'performance' reviews, your manager's opinion, and the whims of the geniuses working in HR departments? Is it a skill that only pays if you offer your obedience to a bigcorp? 
@@ -21,7 +25,7 @@ Focus on these skills. They should all follow these principles:
   </tr>
   <tr>
     <td><b>2. Timeless</b></td>
-    <td> <details><summary><sup>Stays valuable decades into the future; Can compound knowledge over time (<i>~wisdom</i>).</sup></summary>
+    <td> <details><summary><sup>Stays valuable decades into the future; Can compound knowledge and experience over time (<i>~wisdom</i>).</sup></summary>
       <b> Ideal: </b> Can you compound your knowledge and understanding of the field over decades? Can you pick up real 'wisdom' and experience in the field? Does it have timeless principles that you can apply 20 years into the future?
       <br>
       <b> Anti-Ideal: </b>Or are you learning something that'll be useless in 10 years time? Is it just a dumb fad that you'll eventually forget?
@@ -31,7 +35,7 @@ Focus on these skills. They should all follow these principles:
   <tr>
     <td><b>3. Craft-Like</b></td>
     <td> <details><summary><sup>Rewards skill, creativity and sometimes contrarianism; High quality work might have an elegant, artistic feel to it;(<i>~clarity and independence of thought</i>).</sup></summary>
-      <b> Ideal: </b> Are there noticeable skill-gaps between the best and the mediocre? Is there elegance and simplicity in high-quality work? Can you master the craft so that you're better than the competition? Will it reward creativity, skill or contrarian thinking?
+      <b> Ideal: </b> Are there noticeable skill-gaps between the best and the mediocre? Is there elegance and simplicity in high-quality work? Can you master the craft so that you're better than the competition? Will it reward creativity, skill or contrarian thinking? 
       <br>
       <b> Anti-Ideal: </b>Or is the work mostly the same, regardless of who does it? Are you able to teach a 'Gender Studies & Post-Colonial Poetry MSc' grad how to master it in less than 12 months? (or a STEM graduate, in under 6 months?)
       </details>
@@ -70,17 +74,7 @@ Sure, that's antagonistic and arrogant, but that's OK. At least you'll be less l
     </td>
   </tr>
   <tr>
-    <td><b>3. SICP</b></td>
-    <td><details><summary><sup>click to expand</sup></summary>
-      <b> Ideal: </b> Master the ideas in 'Structure and Interpretation of Computer Programs'. Learn how to be a 'great hacker'. You don't have to be the best software architect; just remember the value you can add to a team or project if you know how to architect and design clean, elegant systems.
-      <br>
-      <b> Anti-Ideal: </b>Learn what crappy and mediocre hackers do. Look at all the ways they fail to hide complexity, and screw up technical decisions to exponentially slow productivity. Read 'spaghetti code'. Read 'lasagne code'. Read crappy documentation. Read code written by sh**ty developers with no clarity of thought, or inexperienced developers who were rushed. In fact, read your own code and criticise it (harshly)...
-      <br> 
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td><b>4. Investing, VC, Capital Allocation</b></td>
+    <td><b>3. Investing, VC, Capital Allocation</b></td>
     <td><details><summary><sup>click to expand</sup></summary>
       <b> Ideal: </b> Build a deep understanding of investing. Where should you allocate capital (and time) in a free market? What signals can you use to predict growth and value in companies? Learn from investors in different fields. Value (Buffett, Munger, Klarman...), VC (Paul Graham, Peter Thiel - Zero to One, Tim Ferriss' interviews with a LOT of angel investors), Quant Traders (Taleb, Spitznagel, Thorp, AQR, Winton,...), Global Macro (Dalio, Soros)...etc 
       <br>
@@ -90,12 +84,22 @@ Sure, that's antagonistic and arrogant, but that's OK. At least you'll be less l
     </td>
   </tr>
   <tr>
-    <td><b>5. Policy, Risk, Governance</b></td>
+    <td><b>4. Policy, Risk, Governance</b></td>
     <td><details><summary><sup>click to expand</sup></summary>
       <b> Ideal: </b> Study the trade-offs, risks and 2nd order consequences associated with large-scale, centralised decisions in different fields. Be an educated voter and citizen, basically. Political, medical, economic decisions are all important. Epistemic humility and awareness of risk might be the key here.
       <br>
       <b> Anti-Ideal: </b>Don't be like those naive idiots who introduce massive amounts of systemic risk through dumb policies. Usually done by lefties for some reason... These types of idiots rarely seem to understand systemic risk and 2nd order consequences. They don't seem to grasp the concept of 'trade-off' (or *sacrifice* - as you might call it from an ethical lens). You might occasionally hear them say colourful statements like "Brexit is bad and racist hurr durr 2nd referendum plsss. im so virtuous look at me". And then if you ask them why they think the EU is so great, they might start stuttering nervously about marginal economic benefits that the EU brings, and claim that everyone who voted for Brexit is clearly racist and unintelligent. And the whole time they think they're smart and virtuous. Cowards. Willing to sell sovereignity for some money. Maybe these morons would sell sovereignity, border-control and regulatory power to the US, if they offerred us an extra 6% extra GDP? 'hurr durr the economy'. I've found that these are also the same idiots who may occasionally mention phrases like "but that wasn't real communism maaaaan" or "hurr durr pay gap! womens are still oppressed by the patriarchy" without looking at any issues and statistics in depth. Cowards who tend to sell liberty for comfort. <br><br>
       'Oh the Gulags? Oh the Nazi concentration camps? Systemic risk? Corruption? Genocide? Totalitarianism? Naaaa duuuude, those things will *never* happen here. That's why I voted for more government power - because I'm so generous and I care about the oppressed. Big daddy gov will protect us all' - said the sheep who sold freedom for comfort, moments before being sent to a gulag. 
+      <br> 
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td><b>5. (optional) SICP</b></td>
+    <td><details><summary><sup>click to expand</sup></summary>
+      <b> Ideal: </b> Master the ideas in 'Structure and Interpretation of Computer Programs'. Learn how to be a 'great hacker'. You don't have to be the best software architect; just remember the value you can add to a team or project if you know how to architect and design clean, elegant systems.
+      <br>
+      <b> Anti-Ideal: </b>Learn what crappy and mediocre hackers do. Look at all the ways they fail to hide complexity, and screw up technical decisions to exponentially slow productivity. Read 'spaghetti code'. Read 'lasagne code'. Read crappy documentation. Read code written by sh**ty developers with no clarity of thought, or inexperienced developers who were rushed. In fact, read your own code and criticise it (harshly). Again, you don't have to write the greatest software - just don't make stupid, irreversible architectural decisions.
       <br> 
       </details>
     </td>

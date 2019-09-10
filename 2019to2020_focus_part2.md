@@ -1,11 +1,7 @@
 ---
 layout: page
-title: 2019/2020 - Focus - II
+title: 2019/2020 - Skills
 ---
-
-
-<details><summary><sup><b>NOTE:</b>Click small text next to arrows to expand and see more details.</sup></summary>.............</details>
-
 
 Focus on mastering skills that follow these principles. They will probably be exponentially more useful to you over time and you'll be able to look at your work with a sense of pride:
 
@@ -16,7 +12,7 @@ Focus on mastering skills that follow these principles. They will probably be ex
   </tr>
   <tr>
     <td><b>1. Self-Reliant</b></td>
-    <td> <details><summary><sup>Useful in small teams + entrepreneurial ventures; Allows independence and risk-taking (<i>~courage</i>)</sup></summary>
+    <td> <details><summary><sup>Useful in small teams + entrepreneurial ventures; Allows independence and risk-taking (<i>~courage</i>) ...<b>(Read more)</b></sup></summary>
       <b> Ideal: </b> Is it independent and self-reliant? Can you create value and wealth in entrepreneurial ventures with small teams? ('front-office', close-to-the-money, revenue-generating?). Will it help you take risks in the open market?
       <br>
       <b> Anti-Ideal: </b>Or is it a heavily dependent, specialised skill that's useless outside of large corporations? Will it make you fragile and dependent on corporate 'performance' reviews, your manager's opinion, and the whims of the geniuses working in HR departments? Is it a skill that only pays if you offer your obedience to a bigcorp? 
@@ -25,7 +21,7 @@ Focus on mastering skills that follow these principles. They will probably be ex
   </tr>
   <tr>
     <td><b>2. Timeless</b></td>
-    <td> <details><summary><sup>Stays valuable decades into the future; Can compound knowledge and experience over time (<i>~wisdom</i>).</sup></summary>
+    <td> <details><summary><sup>Stays valuable decades into the future; Can compound knowledge and experience over time (<i>~wisdom</i>) ...<b>(Read more)</b></sup></summary>
       <b> Ideal: </b> Can you compound your knowledge and understanding of the field over decades? Can you pick up real 'wisdom' and experience in the field? Does it have timeless principles that you can apply 20 years into the future?
       <br>
       <b> Anti-Ideal: </b>Or are you learning something that'll be useless in 10 years time? Is it just a dumb fad that you'll eventually forget?
@@ -34,7 +30,7 @@ Focus on mastering skills that follow these principles. They will probably be ex
   </tr>
   <tr>
     <td><b>3. Craft-Like</b></td>
-    <td> <details><summary><sup>Rewards skill, creativity and sometimes contrarianism; High quality work might have an elegant, artistic feel to it;(<i>~clarity and independence of thought</i>).</sup></summary>
+    <td> <details><summary><sup>Rewards skill, creativity and sometimes contrarianism; High quality work might have an elegant, artistic feel to it;(<i>~clarity and independence of thought</i>) ...<b>(Read more)</b></sup></summary>
       <b> Ideal: </b> Are there noticeable skill-gaps between the best and the mediocre? Is there elegance and simplicity in high-quality work? Can you master the craft so that you're better than the competition? Will it reward creativity, skill or contrarian thinking? 
       <br>
       <b> Anti-Ideal: </b>Or is the work mostly the same, regardless of who does it? Are you able to teach a 'Gender Studies & Post-Colonial Poetry MSc' grad how to master it in less than 12 months? (or a STEM graduate, in under 6 months?)

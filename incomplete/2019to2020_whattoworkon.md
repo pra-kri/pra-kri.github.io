@@ -1,7 +1,3 @@
----
-layout: page
-title: 2019/2020 - Focus - I
----
 
 ### What Should You Work On?
 

@@ -4,8 +4,8 @@ title: 2019/2020 - Focus - II
 ---
 
 Focus on these skills. They are all:
-* **Self-Reliant** - Useful in small teams, entrepreneurial ventures and the open market; Allows risk-taking (*~courage*).
-* **Timeless** - Stays valuable decades into the future; Can compound knowledge/experience over time (*~wisdom*).
+* **Self-Reliant** - Useful in small teams, entrepreneurship and open markets; Allows risk-taking (*~courage*).
+* **Timeless** - Stays valuable decades into the future; Can compound knowledge over time (*~wisdom*).
 * **Craft-Like** - High skill-ceiling; High quality work might have an elegant, artistic feel to it; Rewards skill, creativity, and sometimes contrarianism (*~clarity and independence of thought*). 
 
 And, focus on this idea: Learn what *not* to do. Have an image of the idiots who you *don't* want to end up like: an **'Anti-Ideal'**. 

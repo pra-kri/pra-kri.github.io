@@ -9,7 +9,7 @@ plugins:
 # Setup
 title:            pra-kri
 tagline:          'Prabesh K'
-description:      'Thoughts + essays + code on decision-making, uncertainty, and related areas.'
+description:      'Notebook: thoughts + essays + code on decision-making, uncertainty, and related areas.'
 url:              https://pra-kri.github.io
 baseurl:          /pra-kri.github.io/
 

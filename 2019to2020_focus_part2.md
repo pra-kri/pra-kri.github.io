@@ -30,7 +30,7 @@ Focus on mastering skills that follow these principles. They will probably be ex
   </tr>
   <tr>
     <td><b>3. Craft-Like</b></td>
-    <td> <details><summary><sup>Rewards skill, creativity and sometimes contrarianism; High quality work might have an elegant, artistic feel to it;(<i>~clarity and independence of thought</i>) ...<b>(Read more)</b></sup></summary>
+    <td> <details><summary><sup>Rewards skill, creativity and sometimes contrarianism (<i>~clarity of thought</i>) ...<b>(Read more)</b></sup></summary>
       <b> Ideal: </b> Are there noticeable skill-gaps between the best and the mediocre? Is there elegance and simplicity in high-quality work? Can you master the craft so that you're better than the competition? Will it reward creativity, skill or contrarian thinking? 
       <br>
       <b> Anti-Ideal: </b>Or is the work mostly the same, regardless of who does it? Are you able to teach a 'Gender Studies & Post-Colonial Poetry MSc' grad how to master it in less than 12 months? (or a STEM graduate, in under 6 months?)

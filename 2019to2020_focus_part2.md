@@ -4,9 +4,9 @@ title: 2019/2020 - Focus - II
 ---
 
 Focus on these skills. They are all:
-* **Timeless** - 30 years into the future it should still be a valuable skill.
-* **Self-Reliant** - useful in small teams, entrepreneural ventures and the open market.
-* **Craft-Like** - high skill-ceiling; rewards creativity, skill and contrarian thinking.
+* **Timeless** - 30 years into the future it should still be a valuable skill; can compound knowledge over decades.
+* **Self-Reliant** - useful in small teams, entrepreneurial ventures and the open market; allows risk-taking.
+* **Craft-Like** - high skill-ceiling; rewards creativity, skill and contrarian thinking; high-quality work might have an artistic, elegant feel to it; might have large skill gaps between the best and the mediocre.
 
 And, focus on this idea: Learn what *not* to do. Have an image of the idiots who you *don't* want to end up like: an **'Anti-Ideal'**. 
 

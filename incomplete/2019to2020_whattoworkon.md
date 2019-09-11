@@ -1,4 +1,6 @@
 
+
+
 ### What Should You Work On?
 
 The majority of your life will be spent working. There are countless ways to burn your years away: too many things to study and work on. So how do you decide what to focus on? What skills should you pick up? How do you make sure that, when you're older, you won't feel like you aged *wrong*, and wasted years working on dumb sh**.

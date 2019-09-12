@@ -50,7 +50,9 @@ title: Ideas Notebook
 ##### --. (todo) Ethics and virtue as self-imposed constraints: If its not self-imposed out of a sense of self-respect, then is it cheap obedience out of fear?
 
 ##### 11. (todo) Wisdom as the sum of Courage over time
-Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom and experience you gained. If it wasn't scary, then you probably didn't learn sh\*\*. 
+Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom and experience you gained. If it wasn't scary, then you probably didn't learn sh\*\*. <br>
+And an extra note: Curiosity helps too. If you're actually curious about the topic, you learn much faster and in more depth.<br>
+So, in a very nerdy way, it's something like: d(Wisdom)/dt = c*(Courage) + k*(Curiosity).
 
 ##### 10. (todo) Evolutionary attractiveness of the 'shadow': Why do people like Anti-Heroes and Femme Fatales?
 
@@ -58,11 +60,14 @@ Sum up (or *integrate*) the number of courageous actions you took last year. Tha
 
 ##### 8. (todo) A genuine question about p-values and disconfirmation of knowledge...
 
+##### -. (todo) Disconfirmatory research papers - are there papers like that? 
+i.e. 'We couldn't find any results that are definitely 'positively' true, but we managed to show that all these other possibilities are definitely NOT true'. Are there research papers like that? 
+
 ##### 7. (todo) The Need to be Activated: Brain regions and a framework for viewing emotions that come from 'lack of something' (e.g. boredom from lack of stimulation, loneliness from lack of connection, agitation from lack of action).
 Just like your circadian rhythm cycles through states once a day or so, are there similar cyclical activation requirements in many parts of your brain? Are there parts of your brain that need to be activated once every few hours, or days? Is that the neural basis for emotions like boredom and loneliness - not enough activation of certain regions? Is there an activation requirement for the neural regions associated with aggression and competition? Do we all occasionally need something to fight against - an opportunity to commit acts of heroism or sacrifice? Or are we perfectly fine with comfort, cushy office jobs and mindless consumerism in the evenings? I wonder if this is linked to the accelerating depression rates and mental health issues. If Rafiki (and Mufasa's ghost) didn't remind Simba to heroically take his place in the kingdom, would he have spent the rest of his days feeling existentially anxious, playing video games, uploading instagram photos, and watching videos on netflix (or other *less conventional* websites)? 
 
 ##### 8. (todo) Viewing psychology through the lens of 'sub-personalities', and being 'possessed' by ancient neural forces that are much older and deeper than you. 
-'You don't get angry. *Anger gets you*.' - JBP (Also: you don't get interested. Interesting things *capture* you. It's not your *choice* - you barely have any control over your curiosity. If you had full control of your interest, then procrastination wouldn't exist... You'd just control your emotions to become excited...)
+'You don't get angry. *Anger gets you*.' - JBP (Also: you don't get interested. Interesting things *capture* you. It's not your *choice* - you barely have any control over your curiosity. If you had full control of your interest, then procrastination wouldn't exist... You'd just control your emotions to become interested and focused...)
 
 ##### 6. (todo) Brain Hemispheres: Structural differences and consequences (esp. for processing novelty + uncertainty)
 

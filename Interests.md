@@ -167,7 +167,7 @@ The central idea that I'm curious about: <br>
 **Interesting Articles/Papers** (links to external sites)
 
 
-| Topic | Title | Type |
+| Type | Title | 10 |
 | --- | --- | --- |
 | Talk | [You and Your Research - Richard Hamming ](https://homepages.inf.ed.ac.uk/wadler/papers/firbush/hamming.pdf) | 10 |
 | Neuroscience | [The Neuromodulator of Exploration - Colin DeYoung](https://www.frontiersin.org/articles/10.3389/fnhum.2013.00762/full?utm_source=newsletter&utm_medium=web&utm_campaign=Neuroscience-w49-2013) | 10 |
@@ -184,6 +184,7 @@ The central idea that I'm curious about: <br>
 | Guide | [Getting Real - Basecamp/37 Signals](https://basecamp.com/books/getting-real) | 10 |
 | Guide | [A Guide to Bayesian Statistics - Count Bayesie](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics) | 10 |
 | Letters | [Collection of Hedge Fund Letters - Milton FMR Institure](https://miltonfmr.com/hedge-fund-letters/) | 10 |
+| Lectures | Ergodicity Economics | 10
 
 
 # Actual bio...

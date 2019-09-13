@@ -62,7 +62,8 @@ Below are a few craft-like skills that reward both logical thinking (*science*) 
   <tr>
     <td><b>2. Computational + Statistical Modelling </b></td>
     <td><details><summary><sup> Probability Theory, Information Theory, Machine Learning. ...(Read more)</sup></summary>
-      <b> Ideal: </b> Build a deep, intuitive understanding of randomness, uncertainty, information and prediction - from a quantitative and computational perspective. <b>Probability Theory, Information Theory, Machine Learning, Complexity</b>. Focus less on theory, and more on proper application in R&D, entrepreneurship and investing/trading: problems that are 'close to the money'. Practice > Theory.
+      <b> Ideal: </b> Build a deep, <b>intuitive</b> understanding of randomness, uncertainty, information and prediction - from a quantitative and computational perspective. <u>You want a 'latticework' of interconnected knowledge that combines <b>Probability Theory, Information Theory, Machine Learning & Complexity</b></u>. Focus less on theoretical discoveries, and more on proper application in R&D, entrepreneurship and investing: problems that are 'close to the money'. <br>
+      (Practice > Theory). (Intuition > Formality). (Well-developed latticework of knowledge > Disconnected series of facts).  
       <br>
       <b> Anti-Ideal: </b>Study all the ways that people get tricked and lied to, by deceptive statistics and machine learning models. Find out how both idiots and liars can manipulate decisions through misleading quantitative models and stupid assumptions. (apparently this is a good book that talks a lot about assumptions and mistakes: <i>'Statistical Models: Theory and Practice</i> - D. Freedman)
       <br> 

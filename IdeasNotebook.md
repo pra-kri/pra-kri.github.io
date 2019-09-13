@@ -17,6 +17,24 @@ title: Ideas Notebook
 
 ##### --. (todo) The volatility tax: log-returns, losing 50% means you need to gain 100%.
 
+##### --. (todo) Sleep position and cerebrospinal fluid movement
+Learnt something interesting: apparently your sleep position affects how well your cerebrospinal fluid cleans out your brain. (brain needs to be cleaned of all its metabolic waste). 
+
+##### --. (todo) Checklists as outsourced intelligence. (a bit like this page... meta..)
+Use checklists compiled over months or even years to remind you of the small details that you might forget when making decisions. But careful not to let too many small details overwhelm you though. Maybe checklists should primarily be used for risk-management, to check if you've successfully avoided all the pitfalls? (I think this is what Atul Gawande's 'The Checklist Manifesto' talks about, but still need to read it...)
+
+##### --. (todo) Dynamics and movement of ideas: a quicker way to learn things?
+For some reason I learn faster when thinking visually and spatially, with movement and dyanmics between my ideas. Is that because visually imagining the movement and placement of 'blocks' of ideas activates more parts of my brain at the same time? Or maybe because we're wired to work well with real-world, dynamic objects? 
+
+##### --. (todo) Fragility, Compression, Redundancy and the Levenshtein Distance
+In information theory and compression, if you compress a message too much and remove all redundancy, it makes the message that much more fragile and prone to being permanently unreadable after damage. (e.g. the word 'because' can change a letter or two and you can still guess what word it is, since it's long and has quite a few redundant letters. Its 'Levenshtein distance' to the cloesst word is quite large.  But you can't do the same with the word 'cat'. A single letter-change might change the entire meaning.) Similarly, is there redundant code in DNA to make sure mutations aren't too catastrophic? Also: maybe that's a sneaky marketing (or phishing) technique. Make your company or domain name very close to a common typo, and maybe you get more visits? free advertising.
+
+##### --. (todo) Flow of electricity in the brain: Is it deterministic?
+Electricity flows down the path of least resistance. Your brain (and maybe consciousness) works because of electrical signals. So does that mean that your mind just thinks of thoughts that sparked through the *path of least electrical resistance*? And so when you form neural connections through learning  (or addiction), is that just an act of carving low-resistance pathways in your brain? And how do you *choose* to take the more electrically resistant path? If electrical flow is deterministic...
+
+##### --. (todo) Writing with blood (Nietzsche).
+'Of all that is written, I love only what a person hath written with his blood' - from Thus Spoke Zarathustra. How many of your ideas are actually yours? Are you writing with your own blood? Or, are you mostly regurgitating stuff that you've read? And if so, how can you take ownership of that knowledge? Will you test it in real life - under risk and uncertainty?   
+
 ##### --. (todo) Trading and investing ideas: look at mathematical derivatives and integrals, maybe. Instead of absolute values (y), what happens if you look at dy/dt? Or what about dy/dx? Or integrate y w.r.t. t or x, but with limited windows? ...etc
 
 ##### --. (todo) Inhibitory wisdom: Risk management and what NOT to do.

@@ -54,13 +54,4 @@ And how can you view this question from different fields?
       </ul>
     </td>
   </tr>
-</table>
-
-<br>
-
-### About Me
-Prabesh Krishnakumar
-* 1995 - Born in London
-* 2014 to 2017 - BA Physics, University of Oxford
-* 2017 to 2019 - Worked for 2 years, mostly with Python, in finance-related firms.
-* 2019 to 2020 - MSc Computer Science, University of Warwick
+  </table>

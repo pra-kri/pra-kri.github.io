@@ -1,10 +1,10 @@
 ---
 layout: page
-title: 2019/2020 - MSc 
+title: MSc 
 ---
 
 <p class="message">
-  Notes and reminders: How should you spend time during your MSc?
+  Notes and reminders: How should you spend time during your MSc? 12 months (Sep 2019 -> Sep 2020).
   
   <ul>
   <li>Mostly, you want to pick up knowledge to help you make decisions under uncertainty, and make independent, contrarian bets. The sort of knowledge that will help you take action under uncertainty (entrepreneurship, investing), and manage risks properly.</li>

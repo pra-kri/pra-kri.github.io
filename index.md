@@ -35,13 +35,13 @@ And how can you view this question from different fields?
     </td>
   </tr>
   <tr>
-    <td><b>Ethics/Behaviour</b></td>
+    <td><b>Ethics, Behaviour</b></td>
     <td>
       <ul>
         <li>Voluntary exploration of uncertainty (courage, curiosity, adventure)</li>
         <li>Constraining uncertainty and risk (wisdom, what *not* to do, tradition/conservatism, law)</li>
         <li>Constraining uncertainty in relationships (trust, honesty, contracts, 'sins of omission')</li>
-        <li>Filtering uncertainty (signal vs noise, 80/20, knowing what to ignore, 'clarity of thought')</li>
+        <li>Filtering noise under uncertainty (signal vs noise, 80/20, knowing what to ignore, 'clarity of thought')</li>
       </ul>
     </td>
   </tr>

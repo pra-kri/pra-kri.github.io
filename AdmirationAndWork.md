@@ -74,9 +74,9 @@ Below are a few craft-like skills that reward both logical thinking (*science*) 
   <tr>
     <td><b>3. SICP </b></td>
     <td><details><summary><sup> 'Great Hackers', Structure and Interpretation of Computer Programs ...(Read more)</sup></summary>
-      <b> Ideal: </b> If you ever want to chase market opportunities quickly and effectively in small teams in a technical capacity, you really need to be a 'Great Hacker', or at least not a bad one. Read and master 'The Structure and Interpretation of Computer Programs' and learn the general principles of building good architecture. At the very least, you should be able to write well-structured, clean code. 
+      <b> Ideal: </b> If you ever want to chase market opportunities quickly and effectively in small teams in a technical capacity, you really need to be a 'Great Hacker', or at least not a bad one. <u>Fundamentally, you need to be able to self-reliantly <b>build</b> software to chase market opportunities and solve problems. That's all.</u> Read and master 'The Structure and Interpretation of Computer Programs' and learn the general principles of building good architecture. At the very least, you should be able to write well-structured, clean code. 
       <br>
-      <b> Anti-Ideal: </b>Spaghetti code. Lasagne code. Exponential productivity decreases. Making reallllly stupid, almost irreversible, technical decisions that prevents you from building the next thing. A codebase that starts to look more like a liability than an asset. See: <i>'The Total Cost of Owning a Mess'</i>(Ch.1 of Clean Code, by R.Martin), and maybe 'The Mythical Man-Month'.
+      <b> Anti-Ideal: </b>Spaghetti code. Lasagne code. Exponential productivity decreases. Making stupid, almost irreversible, technical decisions that prevents you from building the next thing. A codebase that starts to look more like a liability than an asset. See: <i>'The Total Cost of Owning a Mess' (from Clean Code, by R. Martin)</i>.
       <br> 
       </details>
     </td>
@@ -84,7 +84,7 @@ Below are a few craft-like skills that reward both logical thinking (*science*) 
   <tr>
     <td><b>4. Risk vs. Return <sub>(Investing, VC, Capital)</sub></b></td>
     <td><details><summary><sup> Mitigate risk first, then aggressively hunt returns. ...(Read more)</sup></summary>
-      <b> Ideal: </b> There are a few fields full of interesting writers who stress the imporance of wisdom (<i>risk-management, epistemic humility</i>), courage (<i>risk-taking, skin-in-the-game</i>) and independent thinking (<i>filtering signal from noise</i>). The central principle is something like: <b>How can you minimise risk while maximising returns</b>? A few fields that come to mind are:<u> 1.Investing, 2.Startups + Silicon Valley, 3.Intelligence + Military Strategy, 4.Medicine, 5.Policy, Risk, Governance.</u> They're all fields where navigating risk and uncertainty are crucial - not just a casual afterthought. 
+      <b> Ideal: </b> There are a few fields full of interesting writers who stress the imporance of wisdom (<i>risk-management, epistemic humility</i>), courage (<i>risk-taking, skin-in-the-game</i>) and independent thinking (<i>filtering signal from noise</i>). The central principle is something like: <u>How can you minimise risk while maximising returns</u>? A few fields that come to mind are:<u> 1.Investing, 2.Startups + Silicon Valley, 3.Intelligence + Military Strategy, 4.Medicine, 5.Policy, Risk, Governance.</u> They're all fields where navigating risk and uncertainty are crucial - not just a casual afterthought. 
       <br>
       For now, focus on building a deep understanding of the first field: <b>investing, VC and capital allocation</b>. Where should you allocate capital (and time) in the market? What signals can you use to predict growth and value in companies? Learn from investors in different fields. Value (Buffett, Munger, Klarman...), VC (Paul Graham, Peter Thiel - Zero to One, Tim Ferriss' interviews with a LOT of angel investors), Quants (Taleb, Spitznagel, Thorp, AQR, Winton, ...), Global Macro (Dalio, Soros)...etc. 
       <br>

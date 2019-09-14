@@ -5,10 +5,13 @@ title: Admiration & Work
 
 ### An Admiration-Based Approach to Work
 
-**Ideally, knowledge should be powerful**; it should help you become a better decision maker under risk and uncertainty; it should help you gain control over your own time so you can sacrifice that time for what you deeply care about (i.e. the freedom to choose your sacrifices and constraints, the freedom to take risks); it should develop your character and make your conversations and relationships more colourful; it should make your life more meaningful; it should help you carve out your own place in society and give you more opportunities to be a bit more like the men you admire. Your knowledge, and your work, should have a sense of humanity and admiration behind it.
+<details><summary><b>Ideally, knowledge should be powerful</b>; <sub>...Read more</sub></summary> Your knowledge should help you become a better decision maker under risk and uncertainty; it should help you gain control over your own time so you can sacrifice that time for what you deeply care about (i.e. the freedom to choose your sacrifices and constraints, the freedom to take risks); it should develop your character and make your conversations and relationships more colourful; it should make your life more meaningful; it should help you carve out your own place in society and give you more opportunities to be a bit more like the men you admire. Your knowledge, and your work, should have a sense of humanity and admiration behind it. 
 
 **And what if it's not like that?**  Then maybe you're working on stupid sh\*t. If it doesn't help you become more interesting and admirable, and if your conversations and relationships are *less* colourful because of your work, and it doesn't help you pick up responsibility and take your place in your community... then what the f\*\*k? What are you? A drone-like insect? Sounds great, have fun. Maybe one day you'll get the pleasant opportunity to learn what 'regret' and 'wasted life' means. (*For a similar but more polite and classy argument see 'On The Shortness of Life' by Seneca*)
+</details>
 
+<details><summary><b>A Few Principles</b>; <sub>...Read more</sub></summary> 
+  
 <table style="width:140%">
   <tr>
     <th>Principles</th>
@@ -43,6 +46,8 @@ title: Admiration & Work
     </td>
   </tr>
 </table>
+
+</details>
 
 Below are a few craft-like skills that reward both logical thinking (*science*) and creativity (*art*). More importantly though, they're skills that are self-reliant and useful in the open market (*entrepreneurship, close-to-the-money*), and they're fields where you can *pick up wisdom and gain respect over time*.   
 

@@ -12,6 +12,13 @@ title: MSc
   </ul>
 </p>
 
+
+
+<details><summary> <b>Strategy Note 0: 4 Hours of Deep Work MAX.</b> <sub>...(Read more) </sub></summary>
+  4 hours of intense focus per day. That's all you should be aiming at, and most days you'll probably end up doing maybe 3. Anything more than that is overkill. The rest of your time should be free to do whatever you want. 3 or 4 hours of intense focus is worth more than 10 hours of mediocre, unfocused attention. 
+  
+</details>
+
 <details><summary> <b>Strategy Note 1: Coursework > Exams:</b> <sub>...(Read more) </sub></summary>
 <ul>
   <li> Term 1 coursework makes up **25.00%** of the degree. (<i>25! Important to do well here... 1st term...</i>)</li>
@@ -125,27 +132,11 @@ title: MSc
     <td> 0000 </td>
     <td> <details><summary>'AM207'</summary> Go through these 2 resources: AM207 (Harvard Course), Bayesian Methods for Hackers (open source textbook).</details></td>
       </tr>
-  <tr>
-    <td> / </td>
-    <td> Macroeconomics (R.Dalio) </td>
-    <td> 0000 </td>
-    <td> <details><summary>Big Debt Crises - R.Dalio</summary> Understand the general ideas behind all the macro material that Ray Dalio has published over the last few years. Seems like really useful stuff.</details></td>
-      </tr>
-  <tr>
-    <td> / </td>
-    <td> Valuation </td>
-    <td> 0000 </td>
-    <td> <details><summary>Valuation</summary> Understand how to conventionally value companies. Read a combination of: Valuation by McKinsey, Valuation by Damodaran, and that book by Benjamin Graham.</details></td>
-      </tr>
-  <tr>
-    <td> / </td>
-    <td> Complexity </td>
-    <td> 0000 </td>
-    <td> <details><summary>Y.Bar-Yam's Textbook</summary> Understand the main ideas behind complexity.</details></td>
-      </tr>
+  
   <tr>
     <td> / </td>
     <td> Investment Checklist/Notebook </td>
     <td> 0000 </td>
     <td> <details><summary>(multiple sources)</summary> Re-read all those books + read new books + read blog posts on ideas from Quant Finance, and all the interesting ideas/mental models. Just quick paragraphs, and questions, as a list, on a single page. A few ideas: the investment ideas from Spitznagel's Dao Of Capital, ideas about Risk Parity, ideas about Volatility Tax, ideas from Tim Ferriss' interview with HF and VC guys, ideas from The Intelligent Investor, Margin of Safety, Common Stocks and Uncommon Profits...etc. Literally just build a list of paragraphs - each one explaining a certain investment thesis, or a risk-management idea, and add a question/statement exploring how you might be able to exploit this. </details></td>
       </tr>
+      </table>

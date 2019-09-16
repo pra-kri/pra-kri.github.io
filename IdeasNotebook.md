@@ -13,10 +13,23 @@ title: Ideas Notebook
 </p>
 
 
+
+##### --. Entropy in the brain, immune system, ..etc
+Is the novelty or unexpectedness of a piece of information related to the amount of entropy it introduces into the neural connections in your brain? If a new piece of information 'affects' you and makes you re-think something that you initially believed to be true, did it introduce a large amount of entropy in your nerve connections? The feeling you get when things just 'click' and make sense - is that related to minimising entropy, or at least reaching some local minima? Maybe dopamine acts as a network strengthening agent, to reduce entropy, in a way...? What about the immune system? Are there any interesting ways entropy and your immune system are linked? Is the novelty of pathogen protein structure somehow related to how seriously your immune system takes it initially? What other biological systems (might) 'respond' to entropy? 
+
+##### --. Temporary Correlations
+Consider this situation: the correlation between variables A and B are not always be constant, and fluctuate over time. But if you knew they *did* correlate heavily under certain circumstances, can you *force* them to become temporarily correlated through manipulating the circumstances? What can you do to *temporarily 'crystallise' the correlation between A and B*? And more interestingly, how can you profit from it, before the correlation dissolves away? Is the risk/return ratio worth it? (interesting quote about RenTec that I read on some random answer on Quora: "Someone has to create the correlations in the markets." Don't know how legit it is though.) More importantly though... is correlation even the right tool?...(pls study).
+
+##### --. Monopolistic Poaching of Brains?
+If you were a company that was dominating the market in a certain technical field through propietary knowledge(e.g. Deep learning, quantitative trading, search engines...etc) but you didn't want to apply for a patent, and a *very* smart PhD seems to be publishing papers that are scarily close to your trade secrets, would it be profitable to hire them with an outrageous offer? Say, £300k+ starting? The cost of leaving them alone to publish research close to your 'edge' might be much more than the 300k you pay the researcher. Plus, you now have another researcher working with you, AND they probably signed a non-compete to join you anyways, AND they can still be profitable. And they can no longer join one of your main competitors. If Ed Thorp hired Black, Scholes and Merton before they published their formulae, would he have been able to keep that knowledge propietary for much longer? 
+
+##### --. Information Theory and Quants
+Jim Simons, Elwyn Berlekamp, Ed Thorp, Leonard Baum (Baum-Welch algorithm...) and a few other guys - a lot of quants have an Information-Theory background, or at least were closely linked to the subject. Simons was a code-breaker during the Cold War. Ed Thorp worked with ***Claude Shannon*** (!!!) and J.L.Kelly  (Kelly criterion...)for various gambling techniques and tools. Lots of connections to information theory, computational linguistics, code breaking...etc. But when I look at online quant resources, there's hardly any mention of information theory. Instead, a bunch of guys write shitty tutorials on 'Markowitz Portfolio Optimisation' and 'Value at Risk'... strange... Either Information Theory is useless so it doesn't get mentioned often, or it's very useful, so people actively avoid mentioning it. Or more realistically, the quants who are actually making money don't need to write crappy posts and websites like this one (and worse: blogs mentioning anything like 'Efficient Market Hypothesis'). Plus, they're probably not allowed to disclose much information... Also, quite recently, N.N.Taleb has spoken about entropy, mutual information and 'Elements of Information Theory' a few times on Twitter.  So studying Information Theory might be a good bet this year...
+
 ##### --. (todo) The volatility tax: log-returns, losing 50% means you need to gain 100%.
 
 ##### --. (todo) Sleep position and cerebrospinal fluid movement
-Learnt something interesting: apparently your sleep position affects how well your cerebrospinal fluid cleans out your brain. (brain needs to be cleaned of all its metabolic waste). 
+Learnt something interesting: apparently your sleep position affects how well your cerebrospinal fluid cleans out your brain. Sleeping on your side is most efficient apparently. (brain needs to be cleaned of all its metabolic waste at night). (also: apparently Dolphins can tell one hemisphere to go to sleep, while the other stays awake... Do both sides of the brain get cleared of toxins at the same time? Or only the sleeping side?)
 
 ##### --. (todo) Checklists as outsourced intelligence. (a bit like this page... meta..)
 Use checklists compiled over months or even years to remind you of the small details that you might forget when making decisions. But careful not to let too many small details overwhelm you though. Maybe checklists should primarily be used for risk-management, to check if you've successfully avoided all the pitfalls? (I think this is what Atul Gawande's 'The Checklist Manifesto' talks about, but still need to read it...)
@@ -72,9 +85,7 @@ So, in a very nerdy way, it's something like: d(Wisdom)/dt = c*(Courage) + k*(Cu
 
 ##### 10. (todo) Evolutionary attractiveness of the 'shadow': Why do people like Anti-Heroes and Femme Fatales?
 
-##### 9. (todo) The Unexpected Important of Speech: words affect life-paths much more than you thought...
-
-##### 8. (todo) A genuine question about p-values and disconfirmation of knowledge...
+##### --. (todo) A genuine question about p-values and disconfirmation of knowledge...
 
 ##### -. (todo) Disconfirmatory research papers - are there papers like that? 
 i.e. 'We couldn't find any results that are definitely 'positively' true, but we managed to show that all these other possibilities are definitely NOT true'. Are there research papers like that? 

@@ -12,7 +12,8 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
-
+##### 'Universe selection' in statistical modelling
+Obvious reminder: if a model doesnt have any predictive power for 100 stocks of various types, maybe the model would start to get more useful if you split the 100 into groups by industry or sector or some other criteria. 
 
 ##### --. Entropy in the brain, immune system, ..etc
 Is the novelty or unexpectedness of a piece of information related to the amount of entropy it introduces into the neural connections in your brain? If a new piece of information 'affects' you and makes you re-think something that you initially believed to be true, did it introduce a large amount of entropy in your nerve connections? The feeling you get when things just 'click' and make sense - is that related to minimising entropy, or at least reaching some local minima? Maybe dopamine acts as a network strengthening agent, to reduce entropy, in a way...? What about the immune system? Are there any interesting ways entropy and your immune system are linked? Is the novelty of pathogen protein structure somehow related to how seriously your immune system takes it initially? What other biological systems (might) 'respond' to entropy? 

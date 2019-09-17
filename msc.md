@@ -48,7 +48,9 @@ title: MSc
 </details>
 
 <details><summary> <b>Strategy Note 4: 1 Week Bets: 1ch./1wk.</b> <sub>...(Read more) </sub></summary>
-  Planning out what material to study on the side and which topics to master over the year seems too 'totalitarian' for your sense of curiosity. It actually makes you feel a bit anxious and imprisoned by your own stupid plan. In fact, your natural sense of disobedience makes you want to ignore your own dumb plan and pretend like it doesn't exist ('procrastination', they call it). That's probably the same reason why everyone fails their New Year's Resolutions: it's too totalitarian and controlling. A whole year of your behaviour is being forced obey a decision you made over a single week or so. Instead, what you *should* try to do is: <b>Make <u>1-week:1-chapter</u> bets</b>. At the start of every week, choose 1 chapter's worth of material from *any* book or topic that you're most curious about. Your goal that week is to master the knowledge and applications of that chapter, and then write a 1-page cheat-sheet/guide for that chapter to summarise the core principles. 1 week is enough time to learn a decent chunk of material, but short enough that if you choose the wrong chapter and regret it, you only lose 1 week of time. That's about 50 decent 'chapters' of knowledge per year, if you keep it up. 
+  Planning out what material to study on the side and which topics to master over the year seems too 'totalitarian' for your sense of curiosity. It actually makes you feel a bit anxious and imprisoned by your own stupid plan. In fact, your natural sense of disobedience makes you want to ignore your own dumb plan and pretend like it doesn't exist ('procrastination', they call it). That's probably the same reason why everyone fails their New Year's Resolutions: it's too totalitarian and controlling. A whole year of your behaviour is being forced to obey a decision you made over a single week or so. 
+  <br>
+  Instead, what you *should* try to do is: <b>Make <u>1-week:1-chapter</u> bets</b>. At the start of every week, choose 1 chapter's worth of material from *any* book or topic that you're most curious about. Your goal that week is to master the knowledge and applications of that chapter, and then write a 1-page cheat-sheet/guide for that chapter to summarise the core principles. 1 week is enough time to learn a decent chunk of material, but short enough that if you choose the wrong chapter and regret it, you only lose 1 week of time. That's about 50 decent 'chapters' of knowledge per year, if you keep it up. 
   <br>
   <small>(Inspired by: <b>1.</b> 'Shape Up', by some of the guys from Basecamp/37Signals; talks about 6-week bets when deciding what project to work on next, and <b>2.</b> the idea of the 'Rational Flaneur' from Antifragile.)</small> 
 </details>
@@ -134,15 +136,8 @@ title: MSc
       </tr>
   <tr>
     <td> / </td>
-    <td> Bayesian Stats + MCMC</td>
-    <td> 0000 </td>
-    <td> <details><summary>'AM207'</summary> Go through these 2 resources: AM207 (Harvard Course), Bayesian Methods for Hackers (open source textbook).</details></td>
-      </tr>
-  
-  <tr>
-    <td> / </td>
     <td> Investment Checklist/Notebook </td>
     <td> 0000 </td>
     <td> <details><summary>(multiple sources)</summary> Re-read all those books + read new books + read blog posts on ideas from Quant Finance, and all the interesting ideas/mental models. Just quick paragraphs, and questions, as a list, on a single page. A few ideas: the investment ideas from Spitznagel's Dao Of Capital, ideas about Risk Parity, ideas about Volatility Tax, ideas from Tim Ferriss' interview with HF and VC guys, ideas from The Intelligent Investor, Margin of Safety, Common Stocks and Uncommon Profits...etc. Literally just build a list of paragraphs - each one explaining a certain investment thesis, or a risk-management idea, and add a question/statement exploring how you might be able to exploit this. </details></td>
-      </tr>
-      </table>
+</tr>
+</table>

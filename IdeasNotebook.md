@@ -12,6 +12,12 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
+##### Kelly Criterion though Neural Networks?
+Can you train a neural network to make appropriate bet sizes? Will it converge to something well-known? (like the Kelly Criterion?). 
+
+##### Neural Networks to read other NNs??
+Can you get a neural network to read another neural network? In other words: the input to NN.1 is the whole of NN.2. Maybe NN1 can learn what NN2 is 'thinking' and how it might respond to new data? Sounds computationally complex, but what problems might this solve? Will it be worth the time and effort? Is that what GNNs do? 
+
 ##### 'Universe selection' in statistical modelling
 Obvious reminder: if a model doesnt have any predictive power for 100 stocks of various types, maybe the model would start to get more useful if you split the 100 into groups by industry or sector or some other criteria. 
 

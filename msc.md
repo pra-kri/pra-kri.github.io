@@ -55,6 +55,10 @@ title: MSc
   <small>(Inspired by: <b>1.</b> 'Shape Up', by some of the guys from Basecamp/37Signals; talks about 6-week bets when deciding what project to work on next, and <b>2.</b> the idea of the 'Rational Flaneur' from Antifragile.)</small> 
 </details>
 
+<details><summary> <b>Strategy Note 5: Practice + 'Tinkering' > Theory</b> <sub>...(Read more) </sub></summary>
+  Focus on building skills and intuition to build and research unknown ideas. Tinkering around and creating: that's the goal. Do NOT worry at all about theoretical formulae. Much of theory *follows* the invention that sparked the research. Not the other way round. The best researchers probably tinker around and invent things playfully and non-theoretically. <u>They usually come up with formal mathematical proofs AFTER the invention. </u> How else did they know what they were trying to prove? If you do not grasp the intuitive practical consequences of an idea, how can you formulate theory for it? By logically following and combining existing proofs? If it was that straightforwardly logical and un-playful, people would already have discovered the idea. 
+</details>
+
 <table style ="width:130%">
   <tr>
     <th> <b> Term </b> </th>

@@ -12,6 +12,15 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
+##### Are there any current tools in Machine Learning that are *not* being used enough in a 'dynamic' sense? (Ergodicity)
+Are there research topics related to ergodicity and dynamics over time that aren't being looked at deeply? 
+
+##### Intervention vs Post-hoc Analysis
+Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?
+
+##### Information Theory for Risk Management and Gambling - but not in finance or games...
+Can you use information theory in non-finance fields to decide which action to 'bet' on? Can you develop quick heuristics to help make decisions? If outcomes are linked and complex, can you model that as a network/graph? Then, can you apply information theory to the graph/network?
+
 ##### Kelly Criterion though Neural Networks?
 Can you train a neural network to make appropriate bet sizes? Will it converge to something well-known? (like the Kelly Criterion?). 
 

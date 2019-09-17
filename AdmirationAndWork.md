@@ -96,3 +96,8 @@ Below are a few craft-like skills that reward both logical thinking (*science*) 
   </tr>
 </table>
 
+
+To summarise: Aim for **close-to-the-money R&D** work with a real chance of failure (**risk**).
+* **close-to-the-money**: your actions should directly affect the primary target of the project. Usually, in business, that's revenue. But in some industries and domains it might be a different measure (e.g. medical projects might measure success in terms of lives saved). But whatever project you work on, make sure you work on things that *directly impact the final results in a measurable way*. 
+* **R&D**: creative, practical, brand-new work that hasn't been done before. Requires both logic and creativity and practical thinking. 
+* **Risk**: there should be a real chance of failure. If *anyone* could easily do it with minimal chance of failure, then its probably better to focus on something else instead. If everyone could do it easily, is it really a good opportunity? And if everyone could do it, then you are now just a replaceable commodity with no power or control over your working environment, pay and schedule. (see: low-skill employees and the stuff that they have to deal with)

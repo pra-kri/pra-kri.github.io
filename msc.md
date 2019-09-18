@@ -62,7 +62,7 @@ title: MSc
 <details><summary> <b>Strategy Note 6: A Dangerous Quote on Procrastination</b> <sub>...(Read more) </sub></summary>
  <i>'One of the most dangerous illusions you get from school is the idea that doing great things requires a lot of discipline. Most subjects are taught in such a boring way that it's only by discipline that you can flog yourself through them. So I was surprised when, early in college, I read a quote by Wittgenstein saying that he had no self-discipline and had never been able to deny himself anything, not even a cup of coffee.
 
-Now I know a number of people who do great work, and it's the same with all of them. They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in.'</i> - from <i>What You'll Wish You'd Known<i> by Paul Graham
+Now I know a number of people who do great work, and it's the same with all of them. They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in.'</i> - from <i>What You'll Wish You'd Known</i> by Paul Graham
 
 </details>
 

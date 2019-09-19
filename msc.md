@@ -66,6 +66,12 @@ Now I know a number of people who do great work, and it's the same with all of t
 
 </details>
 
+<details><summary> <b>Strategy Note 7: 80/20 - Antelope or Field-mice?</b> <sub>...(Read more) </sub></summary>
+  <i>'So ask yourself at the end of the day, 'Did I spend today chasing mice or hunting antelope?'</i>
+  <br>
+  An idea that Tim Ferriss talked about before. Are you hunting antelope or are you hunting field-mice? Are you focusing on chasing down the impactful targets and opportunities? Or did you just waste an entire day, week, month, or even sadly, an entire year, chasing nothing noteworthy?  
+   </details>
+
 <table style ="width:130%">
   <tr>
     <th> <b> Term </b> </th>

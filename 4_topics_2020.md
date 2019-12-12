@@ -14,15 +14,15 @@ At the start of the year, I made a (possibly) stupid bet:
 
 Obviously, this isn't a controversial or a brand new idea: almost every student you ever speak to will agree that this is true. They'll tell you how clearly exams are <b>not</b> representative of their real skillset, and that they mostly forget what they learn a month after exams. They'll tell you how stupid they think the education system really is.
 
-But rarely will you find a student that actually 'acts' this out. Instead, when exam season starts looming over the horizon, they forget their opinions and begrudgingly study hard and obediently do what they're told to do. In fact, maybe some of them are proud of it too. 
+But rarely will you find a student that actually 'acts' this out. Instead, when exam season starts looming over the horizon, they forget their opinions and begrudgingly study hard and obediently do what they're told to do. In fact, maybe some of them are proud of it too. Effectively, they're saying <i>'this system is stupid, but oh wowee I did really well in the system. woop woop look at me. so brave and proud.'</i>. 
 
 Since I've been reading too much stuff by Paul Graham, Tim Ferriss and Nassim Taleb, I thought it would be fun (and maybe 'honorable') for me to take a calculated risk and actually bet my future reputation on this idea - to back up my opinion with some real 'skin in the game'. Otherwise, I'll just be a powerless nerd whining about the education system.
 
 
-## An Un-Common Bet
+## An Uncommon Bet
 
 I want to study 4 main topics. And every moment I spend obediently grinding out coursework and revision is a moment that isn't spent on the 4 main topics.
-So clearly the stupid AND fun thing to do is: Ignore all your coursework and exams. 0% in an exam is actually strangely admirable (in my mind...).
+So clearly the unconventional AND fun thing to do is: Ignore all your coursework and exams. 0% in an exam is actually strangely admirable.
 
 Ignore all the other crap that you're 'supposed' to do. Approval and certification from your university doesn't mean anything to you. But a whole year to follow your curiosity and work on cool projects is almost priceless.
 So, over the next year, focus ONLY on the following topics:
@@ -32,6 +32,29 @@ So, over the next year, focus ONLY on the following topics:
 3. Machine Learning Limitations 
 4. Functional Programming (LISP, Haskell)
 
+<table style="width:140%">
+  <tr>
+    <th>Topic</th>
+    <th>Explanation</th>
+  </tr>
+  <tr>
+    <td><b>1. Gambling Mathematics</b></td>
+    <td>aaaaaaa</td>
+  </tr>
+  <tr>
+    <td><b>2. Statistical Model Limitations</b></td>
+    <td>aaaaa</td>
+  </tr>
+  <tr>
+    <td><b>3. Machine Learning Limitations</b></td>
+    <td>aaaaa</td>
+  </tr>
+  <tr>
+    <td><b>4. Functional Programming</b></td>
+    <td>aaaaa</td>
+  </tr>
+  </table>
+  
 
 (todo---- incomplete)
 

@@ -1,0 +1,37 @@
+---
+layout: page
+title: Contarian Education
+---
+
+<b>Disclaimer</b>: Sure, this is a public site, but all writing below is for myself. It's not unsolicited advice for other people. 
+<b>Informally speaking</b>: I don't know sh**, so don't listen to me... I'm just talking to myself.
+
+## A Common Opinion
+
+At the start of the year, I made a (possibly) stupid bet:
+* If I study hard for exams and coursework like all the other students, then I'll only know what's on the 'pre-packaged' syllabus, and I'll have no real competetive advantage against the 1000s of other students.
+* But if I ignore my grades and instead focus on the coolest problems I could find, and dedicate all my time to exploring those problems, then I'll work much harder and in much more depth. 
+
+Obviously, this isn't a controversial or a brand new idea: almost every student you ever speak to will agree that this is true. They'll tell you how clearly exams are <b>not</b> representative of their real skillset, and that they mostly forget what they learn a month after exams. They'll tell you how stupid they think the education system really is.
+
+But rarely will you find a student that actually 'acts' this out. Instead, when exam season starts looming over the horizon, they forget their opinions and begrudgingly study hard and obediently do what they're told to do. In fact, maybe some of them are proud of it too. 
+
+Since I've been reading too much stuff by Paul Graham, Tim Ferriss and Nassim Taleb, I thought it would be fun (and maybe 'honorable') for me to take a calculated risk and actually bet my future reputation on this idea - to back up my opinion with some real 'skin in the game'. Otherwise, I'll just be a powerless nerd whining about the education system.
+
+
+## An Un-Common Bet
+
+I want to study 4 main topics. And every moment I spend obediently grinding out coursework and revision is a moment that isn't spent on the 4 main topics.
+So clearly the stupid AND fun thing to do is: Ignore all your coursework and exams. 0% in an exam is actually strangely admirable (in my mind...).
+
+Ignore all the other crap that you're 'supposed' to do. Approval and certification from your university doesn't mean anything to you. But a whole year to follow your curiosity and work on cool projects is almost priceless.
+So, over the next year, focus ONLY on the following topics:
+
+1. Gambling Mathematics
+2. Statistical Model Failures
+3. Machine Learning Limitations 
+4. Functional Programming (LISP, Haskell)
+
+
+(todo---- incomplete)
+

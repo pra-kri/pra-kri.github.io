@@ -3,11 +3,11 @@ layout: page
 title: Essay Threads
 ---
 
-A list of essay titles that I'll (probably) never get around to exploring....
+A list of essay titles that I'll (probably) never get around to writing...
 
-* **On Comedians, Lazy Geniuses and Counter-Signalling**, or the strange respectability of countersignalling, the repulsiveness of pretending, credentialism as socially accepted pretending, and the ethics of information asymmetry.
-* **Time-Constrained Gambling for Productivity**, or 2-hour/2-week/6-week experiments.
-* **Path-Dependent Productivity**, or why you should 'make before you manage'(T.Ferriss) on a daily scale, and why you probably shouldn't 'wait until you have more experience' on a yearly scale.
+* **On Comedians, Lazy Geniuses and Counter-Signalling**, or the strange respectability of countersignalling, freedom for those who care least about their reputation, weaknesses as ornaments, the unattractiveness of pretending, and the ethics of information asymmetry.
+* **How to Gamble Your Hours Away**, or 2-hour/2-week/6-week experiments, and how to bet your time on what matters.
+* **One Act of Creation**, or why you should 'make before you manage'(T.Ferriss) on a daily scale, why you probably shouldn't 'wait until you have more experience' on a yearly scale, and path-dependent psychology.
 * **On Creativity and Contrarianism**, or when arrogant disobedience can be a virtue and conformity a vice.
 * **Dopamine, Play and Hunting**, or why we respect wolves more than rabbits, and Eustress vs Distress.
 * **'High Agency', 'Relentlessly Resourceful', 'Aggressive Tinkering', 'Default: Aggressive'**, or why it pays to know how to say 'sorry, I f\*\*\*ed up' in the most charming way possible.
@@ -18,5 +18,5 @@ A list of essay titles that I'll (probably) never get around to exploring....
 * **N-th Degree Knowledge Scaffolding**, or the value of re-reading a good book, and why writing helps you think.
 * **How can you be proud of consumerism?**, or the blandness of most proclaimed hobbies and interests.
 * **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection.
-* **Jensen's Inequality and Addiction**, or why dopmaine/reward uncertainty and the addiction mechanism might be linked to convexity.
+* **Jensen's Inequality and Addiction**, or why dopamine/reward uncertainty and the addiction mechanism might be linked to convexity.
 

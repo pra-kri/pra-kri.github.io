@@ -18,6 +18,6 @@ Mostly revolve around applied ethics and philosophy: things that'll help me take
 * **Unconditionality and Ethics**, or why it's only an ethical virtue if it involves a sacrifice; otherwise it's just 'obvious logic'. And the thought experiment involving 20th-century citizens...
 * **N-th Degree Knowledge Scaffolding**, or the value of re-reading a good book, and why writing helps you think.
 * **How can you be proud of consumerism?**, or the blandness of most proclaimed hobbies and interests.
-* **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection.
+* **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection, and 'waiting for uncertainty and using it as raw material' (Taleb, Antifragile).
 * **Jensen's Inequality and Addiction**, or why dopamine/reward uncertainty and the addiction mechanism might be linked to convexity.
 

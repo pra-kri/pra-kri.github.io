@@ -20,7 +20,7 @@ Mostly the topics revolve around applied ethics and philosophy: stuff that'll he
 * **Unconditionality and Ethics**, or why it's only an ethical virtue if it involves a sacrifice; otherwise it's just 'obvious logic'. And the thought experiment involving many 20th-century citizens...
 * **N-th Degree Knowledge Scaffolding**, or the value of re-reading a good book, why writing helps you think, and why some researchers gain value from giving lectures.
 * **How can you be proud of consumerism?**, or the blandness of most proclaimed hobbies and interests.
-* **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection, and 'waiting for uncertainty and using it as raw material' (Taleb, Antifragile).
+* **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection, 'waiting for uncertainty and using it as raw material' (Taleb, Antifragile), and Spitznagel's 'Dao of Capital' + 'roundabout' investing.
 * **Jensen's Inequality and Addiction**, or why dopamine/reward uncertainty and the addiction mechanism might be linked to convexity.
 * **100 at your wedding, 1000 at your funeral**, or 'finding your tribe', being invited onto a team that you respect, risk and sacrifice and service, selfishly offering sincere value in your own way (otherwise, it's obedience and domestication), how you might measure the value you offer, the unspoken advantages of networks and serendipity, the crucial end-step in Campbell's idea of the Hero's Journey, an exploration of 'localism' and criticisms of connected yet disconnected city-life (and the connections to modern Japanese literature)...
 

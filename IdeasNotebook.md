@@ -12,8 +12,22 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
-##### Are there any current tools in Machine Learning that are *not* being used enough in a 'dynamic' sense? (Ergodicity)
-Are there research topics related to ergodicity and dynamics over time that aren't being looked at deeply? 
+
+
+##### Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
+You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.<br>
+'The essence of investment management is the management of risks, not the management of returns.' - Benjamin Graham
+
+##### Gatekeepers and Rejection
+I've noticed that rejection feels fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' resentment at the rejection: I feel perfectly fine, and if anything it motivates me to improve my skills. 
+
+But when a rejection feels like it was based on surface level inaccurate information, and the rejection was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels *almost* unfair. Most commonly, 'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords, while the only tangible skill they themselves have is 'sending emails'. 
+
+It might be a good idea to avoid these leech-like gatekeeper types, for the sake of staying motivated - even if you lose out on possible opportunities.
+
+
+##### Belief for 
+ 
 
 ##### Intervention vs Post-hoc Analysis
 Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?

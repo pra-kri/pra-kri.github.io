@@ -18,6 +18,12 @@ title: Ideas Notebook
 You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.<br>
 'The essence of investment management is the management of risks, not the management of returns.' - Benjamin Graham
 
+##### Asymmetries between Losses and Gains...
+* *Magnitude Asymmetry*: a 10% loss can only be 'evened out' with an 11.1% profit. Similarly, 50% loss can only be evened out with a 100% profit. ('volatility tax' M.Spitznagel)
+* *Time Asymmetry*: losses are usually quick (crashes), profits are much slower to accumulate.
+* *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
+* Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
+
 ##### Gatekeepers and Rejection
 I've noticed that rejection feels fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' resentment at the rejection: I feel perfectly fine, and if anything it motivates me to improve my skills. 
 

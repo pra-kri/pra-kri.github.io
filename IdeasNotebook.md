@@ -14,40 +14,27 @@ title: Ideas Notebook
 
 
 
-##### Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
+##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.<br>
 'The essence of investment management is the management of risks, not the management of returns.' - Benjamin Graham
 
-##### Asymmetries between Losses and Gains...
+##### --. Asymmetries between Losses and Gains...
 * *Magnitude Asymmetry*: a 10% loss can only be 'evened out' with an 11.1% profit. Similarly, 50% loss can only be evened out with a 100% profit. ('volatility tax' M.Spitznagel)
 * *Time Asymmetry*: losses are usually quick (crashes), profits are much slower to accumulate.
 * *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
 * Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
 
-##### Gatekeepers and Rejection
+##### --. Gatekeepers and Rejection
 I've noticed that rejection feels fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' resentment at the rejection: I feel perfectly fine, and if anything it motivates me to improve my skills. 
 
 But when a rejection feels like it was based on surface level inaccurate information, and the rejection was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels *almost* unfair. Most commonly, 'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords, while the only tangible skill they themselves have is 'sending emails'. 
 
 It might be a good idea to avoid these leech-like gatekeeper types, for the sake of staying motivated - even if you lose out on possible opportunities.
 
-
-##### Belief for 
- 
-
-##### Intervention vs Post-hoc Analysis
+##### --. Intervention vs Post-hoc Analysis
 Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?
 
-##### Information Theory for Risk Management and Gambling - but not in finance or games...
-Can you use information theory in non-finance fields to decide which action to 'bet' on? Can you develop quick heuristics to help make decisions? If outcomes are linked and complex, can you model that as a network/graph? Then, can you apply information theory to the graph/network?
-
-##### Kelly Criterion though Neural Networks?
-Can you train a neural network to make appropriate bet sizes? Will it converge to something well-known? (like the Kelly Criterion?). 
-
-##### Neural Networks to read other NNs??
-Can you get a neural network to read another neural network? In other words: the input to NN.1 is the whole of NN.2. Maybe NN1 can learn what NN2 is 'thinking' and how it might respond to new data? Sounds computationally complex, but what problems might this solve? Will it be worth the time and effort? Is that what GNNs do? 
-
-##### 'Universe selection' in statistical modelling
+##### --. 'Universe selection' in statistical modelling
 Obvious reminder: if a model doesnt have any predictive power for 100 stocks of various types, maybe the model would start to get more useful if you split the 100 into groups by industry or sector or some other criteria. 
 
 ##### --. Entropy in the brain, immune system, ..etc
@@ -57,18 +44,18 @@ Is the novelty or unexpectedness of a piece of information related to the amount
 Consider this situation: the correlation between variables A and B are not always be constant, and fluctuate over time. But if you knew they *did* correlate heavily under certain circumstances, can you *force* them to become temporarily correlated through manipulating the circumstances? What can you do to *temporarily 'crystallise' the correlation between A and B*? And more interestingly, how can you profit from it, before the correlation dissolves away? Is the risk/return ratio worth it? (interesting quote about RenTec that I read on some random answer on Quora: "Someone has to create the correlations in the markets." Don't know how legit it is though.) More importantly though... is correlation even the right tool?...(pls study).
 
 ##### --. Monopolistic Poaching of Brains?
-If you were a company that was dominating the market in a certain technical field through propietary knowledge(e.g. Deep learning, quantitative trading, search engines...etc) but you didn't want to apply for a patent, and a *very* smart PhD seems to be publishing papers that are scarily close to your trade secrets, would it be profitable to hire them with an outrageous offer? Say, £300k+ starting? The cost of leaving them alone to publish research close to your 'edge' might be much more than the 300k you pay the researcher. Plus, you now have another researcher working with you, AND they probably signed a non-compete to join you anyways, AND they can still be profitable. And they can no longer join one of your main competitors. If Ed Thorp hired Black, Scholes and Merton before they published their formulae, would he have been able to keep that knowledge propietary for much longer? 
+If you were a company that was dominating the market in a certain technical field through propietary knowledge(e.g. Deep learning, quantitative trading, search engines...etc) but you didn't want to apply for a patent, and a *very* smart PhD seems to be publishing papers that are scarily close to your trade secrets, would it be profitable to hire them with an outrageous offer? Say, £300k+ starting? The cost of leaving them alone to publish research close to your 'edge' might be much more than the 300k you pay the researcher. Plus, you now have another researcher working with you, AND they probably signed a non-compete to join you anyways, AND they can still be profitable. And they can no longer join one of your main competitors. If Ed Thorp hired Black, Scholes and Merton before they published their formulae, wouldn't he have been able to keep that knowledge propietary for much longer? 
 
 ##### --. Information Theory and Quants
 Jim Simons, Elwyn Berlekamp, Ed Thorp, Leonard Baum (Baum-Welch algorithm...) and a few other guys - a lot of quants have an Information-Theory background, or at least were closely linked to the subject. Simons was a code-breaker during the Cold War. Ed Thorp worked with ***Claude Shannon*** (!!!) and J.L.Kelly  (Kelly criterion...)for various gambling techniques and tools. Lots of connections to information theory, computational linguistics, code breaking...etc. But when I look at online quant resources, there's hardly any mention of information theory. Instead, a bunch of guys write shitty tutorials on 'Markowitz Portfolio Optimisation' and 'Value at Risk'... strange... Either Information Theory is useless so it doesn't get mentioned often, or it's very useful, so people actively avoid mentioning it. Or more realistically, the quants who are actually making money don't need to write crappy posts and websites like this one (and worse: blogs mentioning anything like 'Efficient Market Hypothesis'). Plus, they're probably not allowed to disclose much information... Also, quite recently, N.N.Taleb has spoken about entropy, mutual information and 'Elements of Information Theory' a few times on Twitter.  So studying Information Theory might be a good bet this year...
 
-##### --. (todo) The volatility tax: log-returns, losing 50% means you need to gain 100%.
+
 
 ##### --. (todo) Sleep position and cerebrospinal fluid movement
 Learnt something interesting: apparently your sleep position affects how well your cerebrospinal fluid cleans out your brain. Sleeping on your side is most efficient apparently. (brain needs to be cleaned of all its metabolic waste at night). (also: apparently Dolphins can tell one hemisphere to go to sleep, while the other stays awake... Do both sides of the brain get cleared of toxins at the same time? Or only the sleeping side?)
 
 ##### --. (todo) Checklists as outsourced intelligence. (a bit like this page... meta..)
-Use checklists compiled over months or even years to remind you of the small details that you might forget when making decisions. But careful not to let too many small details overwhelm you though. Maybe checklists should primarily be used for risk-management, to check if you've successfully avoided all the pitfalls? (I think this is what Atul Gawande's 'The Checklist Manifesto' talks about, but still need to read it...)
+Use checklists compiled over months or even years to remind you of the small details that you might forget when making decisions. But careful not to let too many small details overwhelm you though. Maybe checklists should primarily be used for risk-management, to check if you've successfully avoided all the pitfalls? (I think this is what Atul Gawande's 'The Checklist Manifesto' talks about, but still need to read it...). 
 
 ##### --. (todo) Dynamics and movement of ideas: a quicker way to learn things?
 For some reason I learn faster when thinking visually and spatially, with movement and dyanmics between my ideas. Is that because visually imagining the movement and placement of 'blocks' of ideas activates more parts of my brain at the same time? Or maybe because we're wired to work well with real-world, dynamic objects? 

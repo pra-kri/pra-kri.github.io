@@ -31,11 +31,18 @@ You want to maximise the rate of X per Y. Trying to increase the rate of X is nu
 * *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
 * Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
 
+##### --. The Equation for Wisdom
+* The guys who I respect and whose 'wisdom' I take seriously and listen to carefully all have something in common: they have the courage to stand up for what they believe in, and they say what's on their mind. They're willing to take risks and pay the price for their opinions. They're definitely not conformists, to put it lightly.
+* I still don't know what came first though: did their courage allow them to become wise, or did their internal wisdom tell them to be courageous? 
+* Something that I've personally experienced: Every time I took a risk for something that I believed in, but scared me, I always ended up with some extra sense of self-respect afterwards, even if I failed. 
+* So maybe this is a good test: Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom, experience and self-respect you gained. If it wasn't scary, then you probably didn't learn sh\*\*. 
+* And an extra note: Curiosity helps too. If you're actually curious about something, you learn much faster and in more depth.
+* So, in a very nerdy way, it's something like: **d(Wisdom)/dt = c*(Courage) + k*(Curiosity)**. 
+
 ##### --. Gatekeepers and Rejection
 I've noticed that rejection feels refreshingly fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' leftover resentment: I feel perfectly fine afterwards, and if anything it motivates me to improve my skills. 
 
-But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels *almost* unfair. Most commonly, 'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. But credit where credit is due: some of them really know how to make something trivial sound almost impressive, and they know how to keep talking for ages; 'sales skills' and 'stakeholder management' they call it. If I were any more salty about the ethics of their profession, I might call these skills 'sociopathic deception' and 'bullsh\*\*\*ing' skills, but maybe that's too harsh.
-
+But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels almost unethical. Most commonly,'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. But credit where credit is due: some of the recruiters thrive in a risky career where their income depends on their performance; I think that's quite respectable.
 
 ##### --. Intervention vs Post-hoc Analysis
 Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?
@@ -107,10 +114,7 @@ Electricity flows down the path of least resistance. Your brain (and maybe consc
 
 ##### --. (todo) Ethics and virtue as self-imposed constraints: If its not self-imposed out of a sense of self-respect, then is it cheap obedience out of fear?
 
-##### 11. (todo) Wisdom as the sum of Courage over time
-Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom and experience you gained. If it wasn't scary, then you probably didn't learn sh\*\*. <br>
-And an extra note: Curiosity helps too. If you're actually curious about the topic, you learn much faster and in more depth.<br>
-So, in a very nerdy way, it's something like: d(Wisdom)/dt = c*(Courage) + k*(Curiosity).
+
 
 ##### 10. (todo) Evolutionary attractiveness of the 'shadow': Why do people like Anti-Heroes and Femme Fatales?
 

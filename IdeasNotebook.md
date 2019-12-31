@@ -44,6 +44,21 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * I've noticed that rejection feels refreshingly fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' leftover resentment: I feel perfectly fine afterwards, and if anything it motivates me to improve my skills. 
 * But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels almost unethical. Most commonly,'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. But credit where credit is due: some of the recruiters thrive in a risky career where their income depends on their performance; I think that's quite respectable. 
 
+##### Gambling Away Time
+* A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.
+    * Tim Ferriss - 2 week experiments
+    * Basecamp/37 Signals - 6-week bets (from Shape Up)
+* And another recurring idea that I've seen is to focus on the most important/interesting problem you could be working on, and ONLY focus on that. Everything else should be treated as a distraction.
+    * Gary Keller - The ONE Thing: “My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.”
+    * Marc Andreessen - Pmarca Guide to Personal Productivity: "work on whatever is most important or most interesting, at any time."
+    * Paul Graham - Maker's Schedule - this idea implies that a maker focuses on one overarching technical/creative problem, rather than multitasking and focusing on many different, unrelated problems.
+
+So maybe a good approach might be to bet 2-hour-blocks of time to work on the most interesting problem you could work on, every day. 3 or 4 blocks of these per day and you'll probably get more done than usual.
+
+
+
+
+
 ##### --. Intervention vs Post-hoc Analysis
 Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?
 

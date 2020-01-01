@@ -47,9 +47,17 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ##### --. Countersignalling and Pretending
 * Anyone would tell you how repulsive it is when someone pretends to be better than they actually are. Someone trying hard to look smart, interesting, strong, or any other positive trait, will always look stupid when they're found out. Bluffing is only (temporarily) impressive when it works.
-* Something interesting that I noticed about guys that I respect is that they actually do the opposite: they **countersignal**. They actually try to downplay some of their impressive traits. 
-* Sometimes, the smartest guy in the room is the most willing to look like an idiot by asking stupid questions and joking around. Sometimes, the strongest guy in the room is the most willing to de-escalate a tense situation, at the risk of looking 'scared'. And sometimes, it's the billionaire who walks into the room with flip-flops while the rest of the room tries hard to look like they have money.
+* The ethics of information-sharing, and spotting the pretenders, is kept deep in the memories of our DNA. Spotting a pretender brings out an instinctive, strong sense of repulsion and mistrust. 
+* But something interesting that I noticed about guys that I respect is that they actually do the opposite of pretending: they **countersignal**. They actually try to downplay some of their impressive traits in a humble way. 
+* Sometimes, the smartest guy in the room is the most willing to look like an idiot by asking stupid questions and joking around with people (while the less sharp guys sit their with a boring, serious look and an unnecessary fondness for jargon and beating around the bush). Sometimes, the strongest guy in the room is the most willing to de-escalate a tense situation, at the risk of looking 'scared'. And sometimes, it's the billionaire who walks into the room with flip-flops while the rest of the room tries hard to look like they have money.
 * Comedians, for some reason, seem to do a LOT of countersignalling. In a way, a good stand-up comedian is most likely the wittiest and bravest in a crowded room, and yet they countersignal by saying a lot of hilariously stupid stuff, along with self-depreciating jokes. 
+
+##### --. Focus on the Jugular; Spot the Pulse
+* Or, more elegantly said: "If they don't go for the jugular, they don't know where it is." [link](https://startupbros.com/antifragile-act-cant-know-much/) and "Nitpicking is the unmistakable mark of cluelessness" - N.N.Taleb 
+* In other words, in any conversation, don't be the clueless idiot who has no idea where the jugular is. 
+* And if you don't know where it is, don't pretend like you do know. As we've established with the previous idea on 'Countersignalling and Pretending', pretending is repulsive and unethical. Just admit that you don't understand what the core principles and ideas are, and work forwards from there. Epistemic humility and honesty are more impressive than temporarily looking smart. 
+* You're aiming for clarity of thought and the ability to spot the jugular: that's what lets you ask the real questions and make the biggest impact.
+
 
 ##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.

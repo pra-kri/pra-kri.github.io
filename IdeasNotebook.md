@@ -75,9 +75,13 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * Jack Donovan: "No one respects a man who is always asking for permission. No one respects a man who won't stand up for himself or fight for his own interests. No one wants to cheer for a team that stopped playing to win. Most people would agree that men who don't play to win deserve to lose."
 * But now you encounter a new problem: Too much disagreeableness, self-interest and unruliness isn't sustainable for long-term relationships. You need something else: risk + sacrifice for others.
 
-##### -. Sacrifice + Risk
+##### --. Sacrifice + Risk
 * (todo)
- 
+
+##### --. The 99/1 Barbell Personality; Directed Intensity; 10am/12pm/*2pm*/4pm
+* Probably the greatest idea that I've picked up over the past year, and something I've noticed about the guys that I respect: they have the capacity for aggression and power, but they don't overuse it. 99% of the time, they show a combination of humility, hospitality, gratitude, kindness and a general sense of relaxed playfulness. In other words, most of the time, they're very chill, down to earth and don't take themselves too seriously. But in that rare 1% of the time when it's needed, they can 'activate' the aggression, conviction and disagreeableness that makes them respectable to begin with. They go straight for the jugular when it's time, so to speak.
+* Similarly, with working in technical, creative disciplines, world-class performers claim to apply a similar idea with their craft. Most of the time is spent in a relaxed, low-effort mode. And when it's time to start working, they turn up their intensity and aggression to the max, in an almost disagreeable and antagonistic way: absolutely nothing should stand in the way of their craft, and they have no time for time-wasting distractions. Eric Weinstein, Tim Ferriss, Jocko Willink, Nassim Taleb, Josh Waitzkin, Cal Newport... etc. They all talk about variations on this idea.
+* I've found that this on/off intensity idea is the most helpful for learning fast and enjoying the process. Every day, at 10am,12pm and4pm, dedicate 2-hour blocks to aggressively chase down anything you want to work on. 90-mins of pure focus and disagreeable intensity on mastering your craft or subject, and then 30mins of just relaxing and doing nothing. 3 of these productive blocks (at 10,12 and 4) means you'll do 4.5hrs of intense work every single day. And then from 6pm+, you can do whatever you want, basically...
 
 ##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.

@@ -63,6 +63,13 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * (todo)
 * (knowing what to ignore, negative knowledge)...
 
+##### -. High Agency
+* (todo)
+* Eric Weinstein: 'High Agency'
+* Paul Graham: 'Relentlessly Resourceful'
+* Jocko Willink: 'Default: Aggressive', 'Extreme Ownership'
+* Nassim Taleb: 'Aggressive Tinkering'
+
 
 ##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.

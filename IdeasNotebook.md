@@ -53,10 +53,15 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * Comedians, for some reason, seem to do a LOT of countersignalling. In a way, a good stand-up comedian is most likely the wittiest and bravest in a crowded room, and yet they countersignal by saying a lot of hilariously stupid stuff, along with self-depreciating jokes. 
 
 ##### --. Focus on the Jugular; Spot the Pulse
-* Or, more elegantly said: "If they don't go for the jugular, they don't know where it is." [link](https://startupbros.com/antifragile-act-cant-know-much/) and "Nitpicking is the unmistakable mark of cluelessness" - N.N.Taleb 
+* Or, more elegantly said: "If they don't go for the jugular, they don't know where it is." [(link)](https://startupbros.com/antifragile-act-cant-know-much/) 
+* And, "Nitpicking is the unmistakable mark of cluelessness" - N.N.Taleb 
 * In other words, in any conversation, don't be the clueless idiot who has no idea where the jugular is. 
 * And if you don't know where it is, don't pretend like you do know. As we've established with the previous idea on 'Countersignalling and Pretending', pretending is repulsive and unethical. Just admit that you don't understand what the core principles and ideas are, and work forwards from there. Epistemic humility and honesty are more impressive than temporarily looking smart. 
-* You're aiming for clarity of thought and the ability to spot the jugular: that's what lets you ask the real questions and make the biggest impact.
+* You're aiming for clarity of thought and the ability to spot the jugular: that's what lets you ask the real questions and make the biggest impact. And maybe a lot of this skill is actually just the ability to ignore the unessential: the ability to filter out noise.
+
+##### --. Noise Detection
+* (todo)
+* (knowing what to ignore, negative knowledge)...
 
 
 ##### --. Gambling Away Time

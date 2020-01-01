@@ -62,8 +62,9 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 ##### --. Noise Detection
 * (todo)
 * (knowing what to ignore, negative knowledge)...
+* Now, the idea of detecting which rules, conventions and people to ignore: unruliness, disagreeableness. 
 
-##### -. High Agency and Trait Disagreeable
+##### -. High Agency; Unruliness; Disagreeableness
 * Something important to remember and 'unlearn' after all those years of schooling and credential-gathering: **Listening to instructions is NOT the same thing as playing to win.** Breaking conventions and ignoring what you're 'supposed' to do, and aggressively chasing your own interests, is sometimes the best option. Seeking the approval or permission of an institution or a system designed by an obedient nerd isn't really winning. Some of your favourite writers all have their unique takes on this idea.
 * Eric Weinstein: 'High Agency'
 * Paul Graham: 'Relentlessly Resourceful', 'The Lesson to Unlearn' 
@@ -72,6 +73,10 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * "Agreeables play games where judges award points to determine the winner. Disagreeables play games where you win by scoring goals." [link](https://hackernoon.com/nassim-taleb-and-the-disagreeables-35d1f9cfad90)
 * Tim Ferriss: "If the potential damage is moderate or in any way reversible, don't give people the chance to say no. Most people are fast to stop you before you get started, but hesitant to get in the way if you're moving. Get good at being a troublemaker and saying sorry when you really screw up."
 * Jack Donovan: "No one respects a man who is always asking for permission. No one respects a man who won't stand up for himself or fight for his own interests. No one wants to cheer for a team that stopped playing to win. Most people would agree that men who don't play to win deserve to lose."
+* But now you encounter a new problem: Too much disagreeableness, self-interest and unruliness isn't sustainable for long-term relationships. You need something else: risk + sacrifice for others.
+
+##### -. Sacrifice + Risk
+* (todo)
  
 
 ##### --. Gambling Away Time

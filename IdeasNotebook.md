@@ -7,7 +7,7 @@ title: Ideas Notebook
   <b>A notebook of quick ideas, thoughts, mental models and reminders.</b> <br>
   Any time you read something interesting or useful that you might want to explore in the future, take note of it here. Otherwise, you'll end up forgetting it. Compound and structure your ideas here. 
   <br>
-  <b>Possible topics:</b> ethics/behaviour, neuroscience, risk, probability + statistics + ML, investing, startups + VC, thoughts on careers + work...etc
+  <b>Possible topics:</b> ethics/behaviour, philosophy, neuroscience, risk, probability + statistics + ML, investing, startups + VC, thoughts on careers + work...etc
   <br>
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
@@ -28,13 +28,13 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ##### --. Asymmetries between Losses and Gains...
 * *Magnitude Asymmetry*: a 10% loss can only be 'evened out' with an 11.1% profit. Similarly, 50% loss can only be evened out with a 100% profit. ('volatility tax' M.Spitznagel)
-* *Time Asymmetry*: losses are usually quick (crashes), profits are much slower to accumulate.
+* *Time Asymmetry*: losses are usually quick (crashes, days), profits are much slower to accumulate (months, years).
 * *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
 * Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
 
 ##### --. The Equation for Wisdom
-* The guys who I respect and whose 'wisdom' I take seriously and listen to carefully all have something in common: they have the courage to stand up for what they believe in, and they say what's on their mind. They're willing to take risks and pay the price for their opinions. They're definitely not conformists, to put it lightly.
-* I still don't know what came first though: did their courage allow them to become wise, or did their internal wisdom tell them to be courageous? 
+* The guys who I respect and whose 'wisdom' I take seriously all have something in common: they have the courage to stand up for what they believe in, and they say what's on their mind. They're willing to take risks and pay the price for their opinions. They're definitely not wimpy conflict-averse conformists, to put it lightly.
+* I still don't know what came first though: did their courage allow them to become wise and interesting, or did their internal wisdom tell them to be courageous? 
 * Something that I've personally experienced: Every time I took a risk for something that I believed in, but scared me, I always ended up with some extra sense of self-respect afterwards, even if I failed. 
 * So maybe this is a good test: Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom, experience and self-respect you gained. If it wasn't scary, then you probably didn't learn sh\*\*. 
 * And an extra note: Curiosity helps too. If you're actually curious about something, you learn much faster and in more depth.
@@ -42,9 +42,16 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ##### --. Gatekeepers and Rejection
 * I've noticed that rejection feels refreshingly fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' leftover resentment: I feel perfectly fine afterwards, and if anything it motivates me to improve my skills. 
-* But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels almost unethical. Most commonly,'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. But credit where credit is due: some of the recruiters thrive in a risky career where their income depends on their performance; I think that's quite respectable. 
+* But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels almost unethical. Most commonly,'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. (But credit where credit is due: some of the recruiters thrive in a risky career where their income depends on their performance; I think that's quite respectable.)
+* This leads to a more interesting and deeper problem: information symmetry, signalling and honest representation. 
 
-##### Gambling Away Time
+##### --. Countersignalling and Pretending
+* Anyone would tell you how repulsive it is when someone pretends to be better than they actually are. Someone trying hard to look smart, interesting, strong, or any other positive trait, will always look stupid when they're found out. Bluffing is only (temporarily) impressive when it works.
+* Something interesting that I noticed about guys that I respect is that they actually do the opposite: they **countersignal**. They actually try to downplay some of their impressive traits. 
+* Sometimes, the smartest guy in the room is the most willing to look like an idiot by asking stupid questions and joking around. Sometimes, the strongest guy in the room is the most willing to de-escalate a tense situation, at the risk of looking 'scared'. And sometimes, it's the billionaire who walks into the room with flip-flops while the rest of the room tries hard to look like they have money.
+* Comedians, for some reason, seem to do a LOT of countersignalling. In a way, a good stand-up comedian is most likely the wittiest and bravest in a crowded room, and yet they countersignal by saying a lot of hilariously stupid stuff, along with self-depreciating jokes. 
+
+##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.
     * Tim Ferriss - 2 week experiments
     * Basecamp/37 Signals - 6-week bets (from Shape Up)

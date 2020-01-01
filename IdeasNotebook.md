@@ -64,12 +64,14 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * (knowing what to ignore, negative knowledge)...
 
 ##### -. High Agency
-* (todo)
+* Something important to remember and 'unlearn' after all those years of schooling and credential-gathering: **Listening to instructions is NOT the same thing as playing to win.** Breaking conventions and ignoring what you're 'supposed' to do, and aggressively chasing your own interests, is sometimes the best option. Seeking the approval of an institution or a system designed by an obedient nerd isn't really winning. Some of your favourite writers all have their unique takes on this idea.
 * Eric Weinstein: 'High Agency'
-* Paul Graham: 'Relentlessly Resourceful'
+* Paul Graham: 'Relentlessly Resourceful', 'The Lesson to Unlearn' 
 * Jocko Willink: 'Default: Aggressive', 'Extreme Ownership'
-* Nassim Taleb: 'Aggressive Tinkering'
-
+* Nassim Taleb: 'Aggressive Tinkering', "The doer wins by doing, not convincing. Entire fields (say economics and other social sciences) become themselves charlatanic because of the absence of skin in the game connecting them back to earth."
+* Tim Ferriss: "If the potential damage is moderate or in any way reversible, don't give people the chance to say no. Most people are fast to stop you before you get started, but hesitant to get in the way if you're moving. Get good at being a troublemaker and saying sorry when you really screw up."
+* Jack Donovan: "No one respects a man who is always asking for permission. No one respects a man who won't stand up for himself or fight for his own interests. No one wants to cheer for a team that stopped playing to win. Most people would agree that men who don't play to win deserve to lose."
+ 
 
 ##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.
@@ -84,7 +86,7 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 So maybe a good approach might be to bet 2-hour-blocks of time to work on the most interesting problem you could work on, every day. 3 or 4 blocks of these per day and you'll probably get more done than usual.
 
 ##### Violence, Law and the Outsourcing Problem
-* Without capacity for violence, or the threat of violence, there would be no way to enforce the law.
+* Without capacity for violence, or the threat of violence, there would be no way to enforce the law. "A rule not ultimately backed by the threat of violence is merely a suggestion."
 * So in a way, the police is just our outsourced 'violence department', through taxes. And we rely on their capacity for violence to maintain any semblance of what we call 'law' and 'ethics'.
 * But the problem with outsourcing is that you lose your independence and become overly reliant on others.
 * And worse, what happens if the government, the very organisation who you entrusted to carry out violence in your favour, decides to unfairly carry it out against you? Sounds unlikely and unrealistic until you hear the words 'Gulag', 'Communism', 'Fascism' amongst others.

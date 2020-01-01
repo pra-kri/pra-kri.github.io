@@ -48,13 +48,20 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.
     * Tim Ferriss - 2 week experiments
     * Basecamp/37 Signals - 6-week bets (from Shape Up)
+    * The whole idea of 'experimenting' in your 20s to find the right lifestyle for you is similar to this.
 * And another recurring idea that I've seen is to focus on the most important/interesting problem you could be working on, and ONLY focus on that. Everything else should be treated as a distraction.
     * Gary Keller - The ONE Thing: “My life is better when I’m spontaneous after I’ve done my most important thing. Being spontaneous before that, that’s where it becomes a distraction and does me harm.”
-    * Marc Andreessen - Pmarca Guide to Personal Productivity: "work on whatever is most important or most interesting, at any time."
+    * Marc Andreessen - Pmarca Guide to Personal Productivity: if you don't keep a schedule, you can instead "work on whatever is most important or most interesting, at any time."
     * Paul Graham - Maker's Schedule - this idea implies that a maker focuses on one overarching technical/creative problem, rather than multitasking and focusing on many different, unrelated problems.
 
 So maybe a good approach might be to bet 2-hour-blocks of time to work on the most interesting problem you could work on, every day. 3 or 4 blocks of these per day and you'll probably get more done than usual.
 
+##### Violence, Law and the Outsourcing Problem
+* Without capacity for violence, or the threat of violence, there would be no way to enforce the law.
+* So in a way, the police is just our outsourced 'violence department', through taxes. And we rely on their capacity for violence to maintain any semblance of what we call 'law' and 'ethics'.
+* But the problem with outsourcing is that you lose your independence and become overly reliant on others.
+* And worse, what happens if the government, the very organisation who you entrusted to carry out violence in your favour, decides to unfairly carry it out against you? Sounds unlikely and unrealistic until you hear the words 'Gulag', 'Communism', 'Fascism' amongst others.
+* Now suddently the 2nd Amendent and the American obsession with guns doesn't seem so unreasonable, especially considering the revolutionary roots of the country.
 
 
 

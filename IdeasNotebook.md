@@ -111,6 +111,13 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 So maybe a good approach might be to bet 2-hour-blocks of time to work on the most interesting problem you could work on, every day. 3 or 4 blocks of these per day and you'll probably get more done than usual.
 
+##### --. Enjoyment is Time-Dependent and Path-Dependent
+* Why is it that the same activity, done under different conditions, can feel entirely different? That's something you should keep in mind when it comes to structuring your work.
+* **Time-Dependence**: Something that you enjoy doing for 4 hours might become boring if you are compelled to do it for 8 hours a day. Worse, it might become truly unbearable if you have to *pretend* to do it for 8 hours a day ;)
+* **Path-Dependence**: Sometimes, you can only start enjoying working on something *after* you've taken care of the problem on your mind. Until then, you will be distracted and any work you do will feel forced. And sometimes you just need to [do something creative](https://tim.blog/2019/12/18/make-before-you-manage/) *before* you start doing the non-creative work.
+* **Intensity-Dependence**: Your enjoyment of something will depend heavily on your intensity of focus. Some things are more fun when you give them your full attention. And sometimes, you can't give something the full attention it deserves unless you *know* your [schedule](http://www.paulgraham.com/makersschedule.html) is free.
+* **SITG-Dependence**: And your biggest weakness is that an activity becomes unbearably painful if you have no ownership or skin-in-the-game (SITG) in the outcome. If you're just told to do something, and the quality of the outcome has no real direct impact on your life, there is no way you'll enjoy the process. So aim to work on projects where you have a stake in the outcome, rather than projects that you were told to do in return for a constant salary.
+
 ##### Violence, Law and the Outsourcing Problem
 * Without capacity for violence, or the threat of violence, there would be no way to enforce the law. "A rule not ultimately backed by the threat of violence is merely a suggestion."
 * So in a way, the police is just our outsourced 'violence department', through taxes. And we rely on their capacity for violence to maintain any semblance of what we call 'law' and 'ethics'.

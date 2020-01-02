@@ -12,6 +12,7 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
+
 ##### --. Ancestrally Lost Emotions
 There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
 * *Being needed by your team* - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
@@ -126,7 +127,12 @@ If you were a company that was dominating the market in a certain technical fiel
 ##### --. Information Theory and Quants
 Jim Simons, Elwyn Berlekamp, Ed Thorp, Leonard Baum (Baum-Welch algorithm...) and a few other guys - a lot of quants have an Information-Theory background, or at least were closely linked to the subject. Simons was a code-breaker during the Cold War. Ed Thorp worked with ***Claude Shannon*** (!!!) and J.L.Kelly  (Kelly criterion...)for various gambling techniques and tools. Lots of connections to information theory, computational linguistics, code breaking...etc. But when I look at online quant resources, there's hardly any mention of information theory. Instead, a bunch of guys write shitty tutorials on 'Markowitz Portfolio Optimisation' and 'Value at Risk'... strange... Either Information Theory is useless so it doesn't get mentioned often, or it's very useful, so people actively avoid mentioning it. Or more realistically, the quants who are actually making money don't need to write crappy posts and websites like this one (and worse: blogs mentioning anything like 'Efficient Market Hypothesis'). Plus, they're probably not allowed to disclose much information... Also, quite recently, N.N.Taleb has spoken about entropy, mutual information and 'Elements of Information Theory' a few times on Twitter.  So studying Information Theory might be a good bet this year...
 
-
+##### --. Corruption Questions
+* A few questions on institutions and practices that look corrupt. Are they really corrupt? Are they just incompetent? Or am I an idiot and missing something important? 
+* Academic Publishing - how comes academic publications get to charge for research behind paywalls when almost all the research was publicly funded through taxpayer money? Shouldn't they be obliged to also publish the pre-prints? 
+* Pharmaceuticals, Agriculture and the carb problem; sugar lobbying
+* Too Big to Fail problem with Banks...
+* 
 
 ##### --. (todo) Sleep position and cerebrospinal fluid movement
 Learnt something interesting: apparently your sleep position affects how well your cerebrospinal fluid cleans out your brain. Sleeping on your side is most efficient apparently. (brain needs to be cleaned of all its metabolic waste at night). (also: apparently Dolphins can tell one hemisphere to go to sleep, while the other stays awake... Do both sides of the brain get cleared of toxins at the same time? Or only the sleeping side?)

@@ -23,14 +23,16 @@ There are a few 'ancestral' emotions that, historically, our ancestors have alwa
 Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
 
 
-##### --. On Craftsmanship, Generating Processes and Outcome Independence
-* There's a difficult tension between focusing on the generating process vs the realized outcome.
+##### --. Generating Process vs Realized Outcome
+* There's a difficult tension between focusing on the generating process vs focusing on the realized outcome.
 * When you focus on the process, and perfecting your 'craft' and on becoming ["so good they can't ignore you"](https://commoncog.com/blog/so-good-they-cant-ignore-you/), you enjoy the day-to-day aspects of work much more, and you improve at a much faster rate.
-* But the whole point of being good at the process is so that you can eventually generate good outcomes.
-* So should you focus on perfecting the process at the expense of your outcomes? Or should you focus on the outcome, at the possible expense of the process.
-* More informally, should you focus on being the best musician you can be, or do you focus on playing a specific song as perfectly as you can? Because focusing too much on playing this specific song may distract you from spending time actually improving your real skill.
-* And from a behavioural, non craft perspective: "Heroes are heroes because they are heroic in behavior, not because they won or lost. Patrocles does not strike us as a hero because of his accomplishments (he was rapidly killed) but because he preferred to die than see Achilles sulking into inaction. Clearly, the epic poets understood invisible histories. Also later thinkers and poets had more elaborate methods for dealing with randomness, as we will see with stoicism." - NNT, Fooled By Randomness
+* But the whole point of being good at the process is so that you can eventually generate good outcomes. But focusing too much on the outcome makes you sacrifice energy optimising for something quite fleeting: after you generate the outcome, often you are left only with the skills that you picked up. 
+* **From a Skill + Craftsmanship perspective**: should you focus on being the best musician you can be, or do you focus on playing a specific song as perfectly as you can? Because focusing too much on playing a specific song may distract you from spending time actually improving your real skill.
+* **From a Statistical perspective**: "The basic problem that we study in probability is: *Given a data generating process, what are the properties of the outcomes?* ... The basic problem of statistical inference is the inverse of probability: *Given the outcomes, what can we say about the process that generated the data?"* - All of Statistics, L.Wasserman
+* **From an Ethical perspective**: The honor and 'sacredness' of living up to certain virtues (the generating process) is more important than the outcome (winning). That's why sometimes it's better, and more elegant, to lose ethically than win unethically. 
+* **From an Academic perspective**: Should you focus on being the student with the most knowledge, curiosity and depth of understanding? Or should you focus on optimising your grades like an obedient f\*\*\*ing nerd? I guess that phrasing gives some indication about my opinion on the matter ;) 
 
+"Heroes are heroes because they are heroic in behavior, not because they won or lost. Patrocles does not strike us as a hero because of his accomplishments (he was rapidly killed) but because he preferred to die than see Achilles sulking into inaction. Clearly, the epic poets understood invisible histories. Also later thinkers and poets had more elaborate methods for dealing with randomness, as we will see with stoicism." - NNT, Fooled By Randomness
 
 ##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 * You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. 

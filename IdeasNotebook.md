@@ -32,13 +32,15 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
 * Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
 
-##### --. The Equation for Wisdom
+##### --. The Equation for Wisdom, and aging well...
 * The guys who I respect and whose 'wisdom' I take seriously all have something in common: they have the courage to stand up for what they believe in, and they say what's on their mind. They're willing to take risks and pay the price for their opinions. They're definitely not wimpy conflict-averse conformists, to put it lightly.
 * I still don't know what came first though: did their courage allow them to become wise and interesting, or did their internal wisdom tell them to be courageous? 
 * Something that I've personally experienced: Every time I took a risk for something that I believed in, but scared me, I always ended up with some extra sense of self-respect afterwards, even if I failed. 
 * So maybe this is a good test: Sum up (or *integrate*) the number of courageous actions you took last year. That's probably proportional to the amount of wisdom, experience and self-respect you gained. If it wasn't scary, then you probably didn't learn sh\*\*. 
 * And an extra note: Curiosity helps too. If you're actually curious about something, you learn much faster and in more depth.
 * So, in a very nerdy way, it's something like: **d(Wisdom)/dt = c*(Courage) + k*(Curiosity)**. 
+* Maybe this is harsh, but it seems there are some old men that have no wisdom and command absollutely no respect. They've only aged in biology, but not really in spirit. I wonder if that's because they never take risks for what they believe in, and so they have no personal wisdom? "Often a very old man has no other proof of his long life than his age." - Seneca
+
 
 ##### --. Gatekeepers and Rejection
 * I've noticed that rejection feels refreshingly fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' leftover resentment: I feel perfectly fine afterwards, and if anything it motivates me to improve my skills. 

@@ -34,6 +34,19 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 "Heroes are heroes because they are heroic in behavior, not because they won or lost. Patrocles does not strike us as a hero because of his accomplishments (he was rapidly killed) but because he preferred to die than see Achilles sulking into inaction. Clearly, the epic poets understood invisible histories. Also later thinkers and poets had more elaborate methods for dealing with randomness, as we will see with stoicism." - NNT, Fooled By Randomness
 
+##### --. Writing and Expression: Forcing-Functions for Procedural Knowledge
+* Something interesting that I've learnt over the last term -  Writing and Expression expose your knowledge to a very useful constraint: the constraint of actually making sense.
+* Sometimes an idea can hibernate in your brain without it necessarily being examined thoroughly. Maybe you believe something because it sounds good, or because everyone else believes it. But the moment you commit to actually explaining the idea on paper, it gets 'exposed'.
+* Without a true understanding of the topic, you won't be able to write anything interesting or coherent. The act of explicitly writing down and exploring an idea on paper *exposes the gaps* in your thinking.
+* Writing, like programming, forces you to explicitly articulate and organise **procedural knowledge**. It almost forces you to construct the idea from scratch and walk through the idea, step by step. (Similarly, doing exercises in a textbook forces you to run throught the **procedure** of actually using the techniques that you were supposed to learn.)
+* The only problem with writing is that words are so linear - it's hard to capture non-linear interactions and complexity in a single sentence. But I think the act of constraining non-linear, complex network/tree-like knowledge into linear combinations of sentences and ideas is what makes writing so useful and clarifying. 
+* Part of what makes someone a good writer, or a good poet or even speaker, is the ability to evoke complex, non-linear imagery using a linear string of words. 
+* Most importantly, from a personal perspective, is that writing makes you - if only temporarily - into a maker, a creator, and an expressive thinker, rather than just some passive information-consumer. It's almost like the idea of ['make before you manage'](https://tim.blog/2019/12/18/make-before-you-manage/); writing helps you 'create while you consume'.
+
+* Apparently Ernest Hemingway used to write about 500 to 1000 words per day. Steinbeck aimed for at least 1 page per day. And one of Tolstoy's diary entries: "I must write each day without fail,not so much for the success of the work, as in order not to get out of my routine." Many of the greatest writers all had a habit of **creating + writing, every single day**. 
+* And I'm willing to bet that some of the greatest software engineers do the same: write and re-write their code, every single day.
+* So maybe that's a good target for personal productivity: write roughly 600 words (~4 pages, with equations and all) of technical content per day.
+
 ##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 * You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. 
 * Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.

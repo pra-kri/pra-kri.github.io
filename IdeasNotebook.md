@@ -43,6 +43,7 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * Part of what makes someone a good writer, or a good poet or even speaker, is the ability to evoke complex, non-linear imagery using a linear string of words. 
 * Most importantly, from a personal perspective, is that writing makes you - if only temporarily - into a maker, a creator, and an expressive thinker, rather than just some passive information-consumer. It's almost like the idea of ['make before you manage'](https://tim.blog/2019/12/18/make-before-you-manage/); writing helps you 'create while you consume'.
 
+##### --. Writing: Daily Target
 * Apparently Ernest Hemingway used to write about 500 to 1000 words per day. Steinbeck aimed for at least 1 page per day. And one of Tolstoy's diary entries: "I must write each day without fail,not so much for the success of the work, as in order not to get out of my routine." Many of the greatest writers all had a habit of **creating + writing, every single day**. 
 * And I'm willing to bet that some of the greatest software engineers do the same: write and re-write their code, every single day.
 * So maybe that's a good target for personal productivity: write roughly 600 words (~4 pages, with equations and all) of technical content per day.

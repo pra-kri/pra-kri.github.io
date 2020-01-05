@@ -48,6 +48,12 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * And I'm willing to bet that some of the greatest software engineers do the same: write and re-write their code, every single day.
 * So maybe that's a good target for personal productivity: write roughly 600 words (~4 pages, with equations and all) of technical content per day.
 
+##### --. Writing: Verbal Explanations vs. Mathematical Proofs
+* Interestingly, if you look at your memory and understanding of a technical topic *months* after you learn it, the mathematical proofs aren't necessarily what you remember. In fact, what you remember is actually very verbal and/or spatial - you rely heavily on diagrams and verbal explanations. The equations are just representations of the ideas, but compressed into symbols to save space. 
+* And similarly, when you listen to a lecturer, you don't focus on the maths symbols - you focus on the sentences that talk *about* those symbols, and *how* they're connected to each other. 
+* So maybe the best way to learn technical material is to articulate the content in sentences, and *only then* are you allowed to compact/compress the ideas into symbols. 
+* In a way, the words and the explanations are the dynamic, procedural 'life' of the knowledge; they actually explain how you jump from step to step. The mathematical symbols and the diagrams are mosty just snapshots of the knowledge - they show the state of your variables and their relationships in a static manner, but they never explain how to get to the next step.  
+
 ##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 * You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. 
 * Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.

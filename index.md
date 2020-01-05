@@ -28,3 +28,10 @@ Hi :) Welcome to my online notebook of ideas and thoughts. Most of what I'm curi
 * Essays
     * 1111
     * 1111
+
+
+#### Test....
+
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}

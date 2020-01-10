@@ -12,6 +12,7 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
+--- 
 
 ##### --. Ancestrally Lost Emotions
 There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
@@ -22,6 +23,7 @@ There are a few 'ancestral' emotions that, historically, our ancestors have alwa
 
 Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
 
+---
 
 ##### --. Generating Process vs Realized Outcome
 * There's a difficult tension between focusing on the generating process vs focusing on the realized outcome.
@@ -34,6 +36,8 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * **From a Motivation perspective**: Focusing too much on the outcome makes you feel too much pressure. Enough pressure and stress to make you put things off for later, for when '*you're more prepared*'. Unfortunately, that's one of the surest ways to waste your life away, one day at a time. Instead, if you give yourself permission to screw up, you feel suprisingly free and motivated to do your best work. Intentionally ignoring the outcome makes you enjoy and master the process which, paradoxically, leads to a better outcome. I think the idea of *Memento Mori*, or the reminder of inevitable death, has a similar effect: *You're going to die anyways, so it's actually OK to fail today - it's not a big deal. So why not just do what you want to do, make a sincere effort at trying your best, enjoy the process, and see what happens? Leave the rest up to fate. Considering that you're going to die one day anyways, whatever happens will be a good thing.* A lot of the ideas from Stoicism are similar to this. (TODO: link to convexity, and having nothing to lose - next idea)
 
 Judgement of process over outcome: "Heroes are heroes because they are heroic in behavior, not because they won or lost. Patrocles does not strike us as a hero because of his accomplishments (he was rapidly killed) but because he preferred to die than see Achilles sulking into inaction. Clearly, the epic poets understood invisible histories. Also later thinkers and poets had more elaborate methods for dealing with randomness, as we will see with stoicism." - NNT, Fooled By Randomness
+
+---
 
 ##### --. Having Nothing to Lose, Stoicism, Antifragility and Underdogs 
 * I think Stoicism and the idea behind a 'Memento Mori' can be summed up in this one line: "If I have 'nothing to lose' then it is all gain and I am antifragile" - NNT, Antifragile. 
@@ -57,6 +61,8 @@ I think the reason this idea is so freeing is because you have 2 types of stress
 
 Feeling like you have nothing to lose might invoke this state. If you have nothing to lose, you have nothing to run away from.
 
+---
+
 ##### --. Eustress vs Distress; Predator vs Prey Brain Chemistry...
 
 * Look up later: is eustress just an optimal ratio of cortisol/adrenaline/dopamine? And is distress just a 'bad' balance of those hormones? If so, is the feeling of 'having nothing to lose' just a way of tricking your body into releasing less cortisol (?) so the hormone balance is more optimal? 
@@ -65,6 +71,7 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * What does that imply about people and employment? Are you chasing and 'hunting' your own targets, with a sense of eustress and excitement? Or are you dodging bullets, trying to balance a bunch of work being thrown at you by a moron you don't respect? Are you avoiding getting into trouble with a sense of distress and just rying to keep up? 
 * TODO: read up a bit more on: Agency and freedom of choice + immune system health + endocrinology stuff (Status Syndrome by M.Marmot, Why Zebras Don't Get Ulcers by R.Sapolsky)    
 
+---
 
 ##### --. Writing and Expression: Forcing-Functions for Procedural Knowledge
 * Something interesting that I've learnt over the last term -  Writing and Expression expose your knowledge to a very useful constraint: the constraint of actually making sense.
@@ -75,10 +82,14 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * Part of what makes someone a good writer, or a good poet or even speaker, is the ability to evoke complex, non-linear imagery using a linear string of words. 
 * Most importantly, from a personal perspective, is that writing makes you - if only temporarily - into a maker, a creator, and an expressive thinker, rather than just some passive information-consumer. It's almost like the idea of ['make before you manage'](https://tim.blog/2019/12/18/make-before-you-manage/); writing helps you 'create while you consume'.
 
+---
+
 ##### --. Writing: Daily Target
 * Apparently Ernest Hemingway used to write about 500 to 1000 words per day. Steinbeck aimed for at least 1 page per day. And one of Tolstoy's diary entries: "I must write each day without fail,not so much for the success of the work, as in order not to get out of my routine." Many of the greatest writers all had a habit of **creating + writing, every single day**. 
 * And I'm willing to bet that some of the greatest software engineers do the same: write and re-write their code, every single day.
 * So maybe that's a good target for personal productivity: write roughly 600 words (~4 pages, with equations and all) of technical content per day.
+
+---
 
 ##### --. Writing: Verbal Explanations vs. Mathematical Proofs; finding the 'Verbal Threads'
 * Interestingly, if you look at your memory and understanding of a technical topic *months* after you learn it, the mathematical proofs aren't necessarily what you remember. In fact, what you remember is actually very verbal and/or spatial - you rely heavily on diagrams and verbal explanations. The equations are just representations of the ideas, but compressed into symbols to save space. 
@@ -87,17 +98,22 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * In a way, the words and the explanations are the dynamic, procedural 'life' of the knowledge; they actually explain how you jump from step to step. The mathematical symbols and the diagrams are mosty just snapshots of the knowledge - they show the state of your variables and their relationships in a static manner, but they never explain how to get to the next step.  
 * In other words, your job when you read a research paper or a textbook chapter is to *seek out the verbal threads in the text*. The verbal, articulatable knowledge will be hidden behind lots of complicated symbols. They're not important. The underlying thread is the important part. Reading papers written by guys like Richard Feynman, Ed Thorp and E.T.Jaynes seems to re-inforce this concept. They're very verbal and speak almost in a conversational tone. They don't dilute their sentences with useless words, and they don't use unnecessary maths - you can see the 'verbal thread' very clearly.
 
+---
 
 ##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 * You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. 
 * Real life example 1: Returns/Risk in finance. Maximising returns and finding alpha might be a very different activity to finding sources of risk and minimising them. But both actions lead to a higer ratio of returns to risk. Sounds very obvious, but maybe it gets forgotten in practice.
 * 'The essence of investment management is the management of risks, not the management of returns.' - Benjamin Graham
 
+---
+
 ##### --. Asymmetries between Losses and Gains...
 * *Magnitude Asymmetry*: a 10% loss can only be 'evened out' with an 11.1% profit. Similarly, 50% loss can only be evened out with a 100% profit. ('volatility tax' M.Spitznagel)
 * *Time Asymmetry*: losses are usually quick (crashes, days), profits are much slower to accumulate (months, years).
 * *Psychological Asymmetry*: if you screw up and lose money at the start of the year on a single day, you'll effectively spend the rest of the year just playing catch-up to break even. How much stress that entails... I dont know... But if you spend the whole year making money and then lose it all on the last day, and break even, it won't be anywhere near as psychologically or physiologically stressful... 
 * Maybe these asymmetries are why Warren Buffet's rules are: 'Rule No. 1: Never lose money. Rule No. 2: Don’t forget rule No. 1'.
+
+---
 
 ##### --. The Equation for Wisdom, and aging well...
 * The guys who I respect and whose 'wisdom' I take seriously all have something in common: they have the courage to stand up for what they believe in, and they say what's on their mind. They're willing to take risks and pay the price for their opinions. They're definitely not wimpy conflict-averse conformists, to put it lightly.
@@ -108,11 +124,14 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * So, in a very nerdy way, it's something like: **d(Wisdom)/dt = c*(Courage) + k*(Curiosity)**. 
 * Maybe this is harsh, but it seems there are some old men that have no wisdom and command absollutely no respect. They've only aged in biology, but not really in spirit. I wonder if that's because they never take risks for what they believe in, and so they have no personal wisdom? "Often a very old man has no other proof of his long life than his age." - Seneca
 
+---
 
 ##### --. Gatekeepers and Rejection
 * I've noticed that rejection feels refreshingly fair when it seems like I've been judged on my actual qualities. Sure, it hurts a little bit - but there's no 'salty' leftover resentment: I feel perfectly fine afterwards, and if anything it motivates me to improve my skills. 
 * But when a rejection feels like it was based on surface level inaccurate information, and was made by someone who couldn't make a proper judgement, there's leftover resentment - it feels almost unethical. Most commonly,'unfair' rejections seem to come from gatekeepers: or those who don't have the skills to judge quality, but are in the position to do so. In other words, skillless recruiters and HR leeches with disproportionate power and influence. The types who are impressed by buzzwords and judge you based on the presence of those buzzwords, while the only tangible skill they themselves have is 'sending emails'. (But credit where credit is due: some of the recruiters thrive in a risky career where their income depends on their performance; I think that's quite respectable.)
 * This leads to a more interesting and deeper problem: information symmetry, signalling and honest representation. 
+
+---
 
 ##### --. Countersignalling and Pretending
 * Anyone would tell you how repulsive it is when someone pretends to be better than they actually are. Someone trying hard to look smart, interesting, strong, or any other positive trait, will always look stupid when they're found out. Bluffing is only (temporarily) impressive when it works.
@@ -121,6 +140,8 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * Sometimes, the smartest guy in the room is the most willing to look like an idiot by asking stupid questions and joking around with people (while the less sharp guys sit their with a boring, serious look and an unnecessary fondness for jargon and beating around the bush). Sometimes, the strongest guy in the room is the most willing to de-escalate a tense situation, at the risk of looking 'scared'. And sometimes, it's the billionaire who walks into the room with flip-flops while the rest of the room tries hard to look like they have money.
 * Comedians, for some reason, seem to do a LOT of countersignalling. In a way, a good stand-up comedian is most likely the wittiest and bravest in a crowded room, and yet they countersignal by saying a lot of hilariously stupid stuff, along with self-depreciating jokes. 
 
+---
+
 ##### --. Focus on the Jugular; Spot the Pulse
 * Or, more elegantly said: "If they don't go for the jugular, they don't know where it is." [(link)](https://startupbros.com/antifragile-act-cant-know-much/) 
 * And, "Nitpicking is the unmistakable mark of cluelessness" - N.N.Taleb 
@@ -128,10 +149,14 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * And if you don't know where it is, don't pretend like you do know. As we've established with the previous idea on 'Countersignalling and Pretending', pretending is repulsive and unethical. Just admit that you don't understand what the core principles and ideas are, and work forwards from there. Epistemic humility and honesty are more impressive than temporarily looking smart. 
 * You're aiming for clarity of thought and the ability to spot the jugular: that's what lets you ask the real questions and make the biggest impact. And maybe a lot of this skill is actually just the ability to ignore the unessential: the ability to filter out noise.
 
+---
+
 ##### --. Noise Detection
 * (todo)
 * (knowing what to ignore, negative knowledge)...
 * Now, the idea of detecting which rules, conventions and people to ignore: unruliness, disagreeableness. 
+
+---
 
 ##### -. High Agency; Unruliness; Disagreeableness
 * Something important to remember and 'unlearn' after all those years of schooling and credential-gathering: **Listening to instructions is NOT the same thing as playing to win.** Breaking conventions and ignoring what you're 'supposed' to do, and aggressively chasing your own interests, is sometimes the best option. Seeking the approval or permission of an institution or a system designed by an obedient nerd isn't really winning. Some of your favourite writers all have their unique takes on this idea.
@@ -144,14 +169,20 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * Jack Donovan: "No one respects a man who is always asking for permission. No one respects a man who won't stand up for himself or fight for his own interests. No one wants to cheer for a team that stopped playing to win. Most people would agree that men who don't play to win deserve to lose."
 * But now you encounter a new problem: Too much disagreeableness, self-interest and unruliness isn't sustainable for long-term relationships. You need something else: risk + sacrifice for others.
 
+---
+
 ##### --. Sacrifice + Risk
 * (todo)
+
+---
 
 ##### --. The 99/1 Barbell Personality; Directed Intensity; 10am/12pm/*2pm*/4pm
 * The Personality Barbell: Probably the greatest idea that I've picked up over the past year, and something I've noticed about the guys that I respect: they have the capacity for aggression and power, but they don't overuse it. 99% of the time, they show a combination of humility, hospitality, gratitude, kindness and a general sense of relaxed playfulness. In other words, most of the time, they're very chill, down to earth and don't take themselves seriously. But in that rare 1% of the time when it's needed, they can 'activate' the aggression, conviction and disagreeableness that makes them respectable to begin with. They go straight for the jugular when it's time, so to speak. 10/01/20 - Watched the acceptance speech by Dave Chappelle, for the Mark Twain award. Apparently his mum used to say something to him when he was younger: 'Sometimes you have to be a lion so you can be the lamb you really are.'
 * The Craftsmanship Barbell: Similarly for technical and creative disciplines/crafts, world-class performers claim to apply a similar idea with their craft. Most of the time is spent in a relaxed, low-effort mode. And when it's time to start working, they turn up their intensity and aggression to the max, in an almost disagreeable and antagonistic way: absolutely nothing should stand in the way of their craft, and they have no time for time-wasting distractions or empty words. Eric Weinstein, Tim Ferriss, Jocko Willink, Nassim Taleb, Josh Waitzkin, Cal Newport, Naval Ravikant, Paul Graham... etc all talk about variations on this idea. 'Deep Work' seems to be the current popular term for it, but it doesn't quite linguistically capture the aggression and harsh intensity behind the work.
 * I've found that this on/off intensity idea is the most helpful for learning fast and enjoying the process. Every day, at 10am,12pm and 4pm, dedicate 2-hour blocks to aggressively chase down anything you want to work on. Each block should consist of: 90-mins of pure focus and disagreeable intensity on mastering your craft or subject. No talking, no planning, no brainstorming. Just pure action and relentless movement. And then 30mins of just relaxing and doing nothing. 3 of these productive blocks (at 10,12 and 4) means you'll do roughly 4.5hrs of intense work every single day. And then from 6pm+, you can reflect on what you've learnt, cook some steak, drink with friends, daydream, or do whatever you want really... A consistent routine of 3-intense-blocks-per-day will get you further than most other schedules. And, because of Jensen's Inequality and Convexity, you'll probably do better with short intense sprints and long rests, rather than long stretches of medium intensity.
 * ALso, interestingly, that disagreeable mindset seems to help you ignore the noise and filter through to the signal when you read papers and books. It sort of gives you 'permission' to skip paragraphs if they're boring or not clear, and that seems to help you piece things together faster (compared to getting stuck on a paragraph or line and wasting time).
+
+---
 
 ##### --. Divergence of Intelligence and Aggression over History
 * "The society that separates scholars from its warriors will have its thinking done by cowards and its fighting done by fools."
@@ -162,7 +193,7 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 * I think it's only recently that the idea of being a 'warrior' (and having strength and agression) has become anticorrelated with skill and intelligence.
 * Maybe it's because, nowadays, the majority of intellectual work doesn't seem to need aggression, and the majority of physical work doesnt need intelligence. Special Forces and Professional Sports seem to be the 2 big exceptions that I can think of right now. And maybe being a contrarian thinker or a mafia boss lets you be quite 'aggressive' in your field of work...
 
-
+---
 
 ##### --. Gambling Away Time
 * A recent recurring idea that I've seen being used by multiple people is the idea of betting your time.
@@ -176,12 +207,16 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 
 So maybe a good approach might be to bet 2-hour-blocks of time to work on the most interesting problem you could work on, every day. 3 or 4 blocks of these per day and you'll probably get more done than usual.
 
+---
+
 ##### --. Enjoyment is Time-Dependent and Path-Dependent
 * Why is it that the same activity, done under different conditions, can feel entirely different? That's something you should keep in mind when it comes to structuring your work.
 * **Time-Dependence**: Something that you enjoy doing for 4 hours might become boring if you are compelled to do it for 8 hours a day. Worse, it might become truly unbearable if you have to *pretend* to do it for 8 hours a day ;)
 * **Path-Dependence**: Sometimes, you can only start enjoying working on something *after* you've taken care of the problem on your mind. Until then, you will be distracted and any work you do will feel forced. And sometimes you just need to [do something creative](https://tim.blog/2019/12/18/make-before-you-manage/) *before* you start doing the non-creative work.
 * **Intensity-Dependence**: Your enjoyment of something will depend heavily on your intensity of focus. Some things are more fun when you give them your full attention. And sometimes, you can't give something the full attention it deserves unless you *know* your [schedule](http://www.paulgraham.com/makersschedule.html) is free.
 * **SITG-Dependence**: And your biggest weakness is that an activity becomes unbearably painful if you have no ownership or skin-in-the-game (SITG) in the outcome. If you're just told to do something, and the quality of the outcome has no real direct impact on your life, there is no way you'll enjoy the process. So aim to work on projects where you have a stake in the outcome, rather than projects that you were told to do in return for a constant salary.
+
+---
 
 ##### Violence, Law and the Outsourcing Problem
 * Without capacity for violence, or the threat of violence, there would be no way to enforce the law. "A rule not ultimately backed by the threat of violence is merely a suggestion."
@@ -190,8 +225,11 @@ So maybe a good approach might be to bet 2-hour-blocks of time to work on the mo
 * And worse, what happens if the government, the very organisation who you entrusted to carry out violence in your favour, decides to unfairly carry it out against you? Sounds unlikely and unrealistic until you hear the words 'Gulag', 'Communism', 'Fascism' amongst others.
 * Now suddently the 2nd Amendent and the American obsession with guns doesn't seem so unreasonable, especially considering the revolutionary roots of the country.
 
+---
 
+---
 
+---
 
 ##### --. Intervention vs Post-hoc Analysis
 Within fields like Medicine, how much extra data can you collect and 'exploit' through measuring the effectiveness of small actions and interventions, rather than doing one large snapshot statistical analysis after all the treatment is done? How much data granularity do you lose by viewing a complex sequence of events as a single outcome *after* the ordeal? What examples can you find irl?

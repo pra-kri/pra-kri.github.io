@@ -35,11 +35,32 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 Judgement of process over outcome: "Heroes are heroes because they are heroic in behavior, not because they won or lost. Patrocles does not strike us as a hero because of his accomplishments (he was rapidly killed) but because he preferred to die than see Achilles sulking into inaction. Clearly, the epic poets understood invisible histories. Also later thinkers and poets had more elaborate methods for dealing with randomness, as we will see with stoicism." - NNT, Fooled By Randomness
 
-##### --. Convexity, and Having Nothing to Lose, Stoicism, Antifragility
-* Stoicism and the idea behind a 'Memento Mori' can be summed up in this one line: "If I have 'nothing to lose' then it is all gain and I am antifragile" - NNT, Antifragile. 
-* And maybe the way to feel like you have nothing to lose is to remind yourself that one day you'll be dead. Awareness of death is strangely freeing.
-* There is another way of *tricking yourself* into thinking that you have nothing to lose:
-    * Ignoring the outcome - Give yourself permission to fail. Give yourself permission to screw up and make mistakes. Give yourself permission to get rejected. Now that you've stopped caring about perfectionism and success, you can focus on doing good work and enjoying the process/attempt.
+##### --. Having Nothing to Lose, Stoicism, Antifragility and Underdogs 
+* I think Stoicism and the idea behind a 'Memento Mori' can be summed up in this one line: "If I have 'nothing to lose' then it is all gain and I am antifragile" - NNT, Antifragile. 
+* A few interesting ways to feel like you have nothing to lose (or feel like it's OK to fail and achieve nothing at all):
+  * 'Fear-Setting' - Tim Ferriss
+  * Ignoring the outcome - Give yourself permission to fail. Give yourself permission to screw up and make mistakes. Give yourself permission to get rejected. Now that you've stopped caring about perfectionism and success, you can focus on doing good work and enjoying the process/attempt.
+  * 'All I’m allowed to do is absolutely nothing, or write.' - [Neil Gaiman](https://tim.blog/2019/03/30/the-tim-ferriss-show-transcripts-neil-gaiman-366/)
+  * 'Actually almost everything I've written that has survived was written when I didn't try to get anything done.' - N.N.Taleb
+  * gambling away time - (expanded in another paragraph) - gambling 2 hours feels kind of freeing too, like I have nothing to lose. There's some acceptance of the 2 hours being totally unproductive and profit-less - hence the term 'gamble'. If I get something interesting done in those 2 hours, then I'd be really happy but there's no pressure. Same with the 2-week experiments (Tim Ferriss) and 6-week-bets (Basecamp). 
+  * The whole idea of being an underdog is that it's actually somewhat OK for you to lose. Nothing else is expected from you anyways. But that's what's so freeing and motivating for you to win.
+  * Countersignalling - downplaying your traits and being humble allows you to feel OK with failing; much more freeing than having the pressure of having to live up to expectations. In a way, countersignalling makes you feel like an underdog. 
+  * Epistemic Humility - Reminding yourself that you're *mostly* an idiot and you're nowhere as smart as you pretend to be is freeing. It lets you ask dumb questions, look underneath deeply held assumptions, and ask questions that are usually overlooked. Honestly, it's quite fun being the 'surprisingly smart, not as dumb as he looks' guy in the room (rather than the other way round). 
+  * Trash - something very personal; remind yourself that you're *mostly* an arrogant, abrasive, disagreeable trash who doesn't really deserve special treatment or acceptance. Now that you really don't care if you get rejected, in fact maybe you even feel like you actually *deserve* it, it frees you up to be authentic and sincere and humble; no pretending or trying hard to impress. And look at the consequences of that - more people like you than ever before ;) 
+  * 'It is only when you don't care about your reputation that you tend to have a good one' - N.N.Taleb
+  * 2am Productivity - maybe you're most productive at 2am (like right now...) because you already feel like the day is gone. There's no expectations anymore. You can go sleep or you can do some work, it doesn't matter. Feels freeing enough for you to enjoy working with no expectations. (or it might just be your Cortisol rising at about 2am and this bullet point is dumb a.f. .....) 
+  * Past experience at Nomura - waited until after a deadline to do some work... Mostly to p\*ss off the right people, but also because now there's nothing to lose. I'm already technically past the deadline. No pressure now that I know that I can do it at my own pace without having anything to lose. What are they gonna do - be more disappointed in me? ;)
+  * Gratitude - for some reason, cultivating a sense of gratitude also makes me feel like I have nothing to lose. Maybe because, implicitly, gratitude suggests that what I'm grateful for isn't supposed to be mine by default. It's not normal to have such things, and life could be *much* worse. Gratitude makes those things feel like an undeserved reward from a benevolent god or universe. Gratitude feels freeing, even if it's indirectly. 
+  * k.o.d.m.y.h.&.c. - d.d.
+
+But something to counter this whole idea is the idea of Eustress - you actually need to feel some good stress and pressure. Having nothing to lose might be the act of cutting off the 'negative' stress (distress?). But how do you find ways to give yourself positive motivating stress (eustress?)? 
+
+TODO: Look up later: is eustress just an optimal ratio of cortisol/adrenaline/dopamine? And is distress just a 'bad' balance of those hormones? If so, is the feeling of 'having nothing to lose' just a way of tricking your body into releasing less cortisol (?) so the hormone balance is more optimal? 
+
+TODO: What's the equivalent neuroscience for predatory and prey animals? Predatory animals (Tigers, Wolves, Lions... all the cool ones, really...) have nothing to lose when they hunt. They're already in a default state of 'not having much to eat', so anything they hunt is a positive reward. So maybe their actions are mostly dopamine-motivated?(simplistically speaking) But prey animals *always* have something to lose: by default they have food (grass and leaves usually) everywhere. When they have to actually do something, it's always some sort of running-away-from-danger activity, to avoid losing their life. So are they more (adrenaline/cortisol/distress)-motivated? And what does that imply about people and employment? Are you chasing and 'hunting' your own targets, with a sense of eustress and excitement? Or are you dodging bullets, trying to balance a bunch of work being thrown at you by a corporate moron, avoiding getting into trouble with a sense of distress and running-away-from-problems-and-trying-to-survive? Agency and freedom of choice + immune system health + endocrinology stuff to look into... 
+(Status Syndrome by M.Marmot, Why Zebras Don't Get Ulcers by R.Sapolsky, Maps of Meaning by J.B.Peterson)
+
+
 
     
 
@@ -58,11 +79,13 @@ Judgement of process over outcome: "Heroes are heroes because they are heroic in
 * And I'm willing to bet that some of the greatest software engineers do the same: write and re-write their code, every single day.
 * So maybe that's a good target for personal productivity: write roughly 600 words (~4 pages, with equations and all) of technical content per day.
 
-##### --. Writing: Verbal Explanations vs. Mathematical Proofs
+##### --. Writing: Verbal Explanations vs. Mathematical Proofs; finding the 'Verbal Threads'
 * Interestingly, if you look at your memory and understanding of a technical topic *months* after you learn it, the mathematical proofs aren't necessarily what you remember. In fact, what you remember is actually very verbal and/or spatial - you rely heavily on diagrams and verbal explanations. The equations are just representations of the ideas, but compressed into symbols to save space. 
 * And similarly, when you listen to a lecturer, you don't focus on the maths symbols - you focus on the sentences that talk *about* those symbols, and *how* they're connected to each other. 
 * So maybe the best way to learn technical material is to articulate the content in sentences, and *only then* are you allowed to compact/compress the ideas into symbols. 
 * In a way, the words and the explanations are the dynamic, procedural 'life' of the knowledge; they actually explain how you jump from step to step. The mathematical symbols and the diagrams are mosty just snapshots of the knowledge - they show the state of your variables and their relationships in a static manner, but they never explain how to get to the next step.  
+* In other words, your job when you read a research paper or a textbook chapter is to *seek out the verbal threads in the text*. The verbal, articulatable knowledge will be hidden behind lots of complicated symbols. They're not important. The underlying thread is the important part. Reading papers written by guys like Richard Feynman, Ed Thorp and E.T.Jaynes seems to re-inforce this concept. They're very verbal and speak almost in a conversational tone. They don't dilute their sentences with useless words, and they don't use unnecessary maths - you can see the 'verbal thread' very clearly.
+
 
 ##### --. Rate maximisation of X/Y (Should you maximise the numerator, or minimise the denominator?)
 * You want to maximise the rate of X per Y. Trying to increase the rate of X is numerically, but not practically, equivalent to decreasing Y. 

@@ -19,6 +19,8 @@ title: Ideas Notebook
   * Given a random/uncertain/stochastic process, what sort of outcomes can it possibly generate?
   * Over a long time-span, what will these outcomes look like? 
   * Maybe that's why NNT says the one of the best ways to learn probability theory is to do 1000s of Monte Carlo simulations: you see different outcomes being generated, and the behaviour of these generated outcomes.
+  * Also: ergodicity problem: 1 data-generator going through 1000 time-steps is NOT always the same as 1000-data generators going through 1 time-step each. Their statistical properties are different when incorporating the possibility of the gambler's ruin. I guess the gambler's ruin idea means that the process is NOT *iid*. 
+  * Ergodicity and iid: Russian roulette is technically *iid* if you survive. But if you don't survive... then the next step isn't iid: it's VERY dependent on your last turn. (*literally* your last turn. sorry... ;) ) 
 * **Information Theory**
   * Given a *restricted* channel that transmits information/data, what can you tell about the source, if you receive a signal at the end of the channel?
   * How much information can the channel even transmit? How can you *lose* valuable information if the channel isn't very good? Can you choose to lose redundant/useless information to save space/time? 

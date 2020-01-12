@@ -36,9 +36,9 @@ title: Ideas Notebook
 * ----------------------------------------------------------
 * **What ways can you 'compress' and lose information along the 3-step process?**
   * D.Freedman: Statistical Models - different assumptions used to do statistical modelling (need to go through the book...)
-  * N.Taleb - Gaussian Assumption (lose info about fat-tails), Ergodic assumption (lose info about path-dependence), ...etc
+  * N.Taleb - Gaussian Assumption (lose info about fat-tails), Ergodic assumption (lose info about path-dependence), Pre-Asymptotics (lose info about low-freq events if you don't have enough data: almost like a high-pass filter in some ways...) ...etc
   * Statistical Learning Theory - 'compress' and intentionally lose information so that data is 'biased' to a chosen model.
-  * Polyadic vs Dyadic relationships - Shannon-information measures, like Entropy and Mutual Information, fail to capture multivariate dependencies (dyadic relationships! - e.g. XOR gate and conditional entropy - dissertation is related to this and the consequences in gambling)
+  * Polyadic vs Dyadic relationships - Shannon-information measures, like Entropy and Mutual Information, fail to capture multivariate dependencies (dyadic relationships!- dissertation is related to this and the consequences in gambling; **how do you capture if-*both*-x-and-y-happen-then-z-happens relationships in statistical models, graphs and existing probability and information theory?**; e.g. the XOR gate)
   * J.Pearl - causal information is usually lost in most statistical models, so how can you extract that using things like probabilistic graphical structures?
 * ----------------------------------------------------------
 * **And finally, the whole reason for these topics: GAMBLING**

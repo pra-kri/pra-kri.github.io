@@ -14,6 +14,37 @@ title: Ideas Notebook
 
 --- 
 
+##### --. Information Loss as a framework for your research interests: the 'Procrustean Bed' of Statistics, Probability and Information Theory
+* **Probability Theory**
+  * Given a random/uncertain/stochastic process, what sort of outcomes can it possibly generate?
+  * Over a long time-span, what will these outcomes look like? 
+  * Maybe that's why NNT says the one of the best ways to learn probability theory is to do 1000s of Monte Carlo simulations: you see different outcomes being generated, and the behaviour of these generated outcomes.
+* **Information Theory**
+  * Given a *restricted* channel that transmits information/data, what can you tell about the source, if you receive a signal at the end of the channel?
+  * How much information can the channel even transmit? How can you *lose* valuable information if the channel isn't very good? Can you choose to lose redundant/useless information to save space/time? 
+  * Sometimes, in the case of data-science/statistics, the lossy/noisy channel is actually just your data collection technique! You collect data from a data-generating-process in an ineffective way, due to resource constraints (time, money, sensors...etc), and so you *lose* some of the information along this data-collection 'channel'. Or there are external variables that you haven't considered to collect, so it seems like there is 'noise' in the data that you collected. 
+  * Regardless, data collection is usually an act of forcing a real-life phenomenon through a noisy and lossy channel, where the output is just your collected dataset. And sometimes, there's even some sort of 'bandpass'-like filter in this channel: e.g. collecting data from a fat-tailed/heavy-tailed variable, but not over enough of a time-span, so the lowest frequency data-points might be under-represented. (see: The Statistical Consequence of Fat-Tails - NNT). Similarly, you can have other types of filters, through data-collection biases like: survivorship bias, selection bias - leading to things like Berkson's paradox...
+* **Inference!!!!!**
+  * How do you further 'compress' or 'filter' your collected data into a more compact *statistical model*?  Or in other words, how do you *bias* the data towards your chosen model? 
+* ------------------------------------------------------
+*  **\[ 1 ] ---> \[ 2 ] ---> \[ 3 ]**
+  * 1 = data-generating process; can theoretically generate 10000s of outcomes, across many parallel universes (Monte Carlo sim...).
+  * 2 = collected data; only managed to collect 1 of the 'parallel universe' outcomes though. Already, you see there is some loss of information. In fact, the whole idea of cross-validation is to pretend like you collected multiple sets of data from parallel universes, and use one of those as the testing-set...
+  * 3 = selected model; you further had to lose some of the information in the data-set into a simple model. A lot of the time, you'll use some big assumptions for this process... 'statistical modelling' or 'machine learning', they call it... 
+* ----------------------------------------------------------
+* **What ways can you 'compress' and lose information along the 3-step process?**
+  * D.Freedman: Statistical Models - different assumptions used to do statistical modelling (need to go through the book...)
+  * N.Taleb - Gaussian Assumption (lose info about fat-tails), Ergodic assumption (lose info about path-dependence), ...etc
+  * Statistical Learning Theory - 'compress' and intentionally lose information so that data is 'biased' to a chosen model.
+  * Polyadic vs Dyadic relationships - Shannon-information measures, like Entropy and Mutual Information, fail to capture multivariate dependencies (dyadic relationships! - e.g. XOR gate and conditional entropy - dissertation is related to this and the consequences in gambling)
+  * J.Pearl - causal information is usually lost in most statistical models, so how can you extract that using things like probabilistic graphical structures?
+* ----------------------------------------------------------
+* **And finally, the whole reason for these topics: GAMBLING**
+  * Given that you have all this information loss in your statistical modelling process, how can you best predict the behaviour of the data-generating process?
+  * And more importantly, even with possibly incorrect/inaccurate information, how should you bet on the outcomes? How do you transform probabilistic behaviour of a random variable into a real exposure to your life? 
+  * Different ways of managing exposure: bet-sizing and capital allocation, contracts and options ('clipping the tails of the distribution', or more commonly known as insurance).
+
+
 ##### --. Ancestrally Lost Emotions
 There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
 * *Being needed by your team* - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.

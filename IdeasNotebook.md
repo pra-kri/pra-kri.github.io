@@ -29,7 +29,7 @@ title: Ideas Notebook
 * **Inference!!!!!**
   * How do you further 'compress' or 'filter' your collected data into a more compact *statistical model*?  Or in other words, how do you *bias* the data towards your chosen model? 
 * ------------------------------------------------------
-*  **\[ 1 ] ---> \[ 2 ] ---> \[ 3 ]**
+*  **\[ 1 \] ---> \[ 2 \] ---> \[ 3 \]**
   * 1 = data-generating process; can theoretically generate 10000s of outcomes, across many parallel universes (Monte Carlo sim...).
   * 2 = collected data; only managed to collect 1 of the 'parallel universe' outcomes though. Already, you see there is some loss of information. In fact, the whole idea of cross-validation is to pretend like you collected multiple sets of data from parallel universes, and use one of those as the testing-set...
   * 3 = selected model; you further had to lose some of the information in the data-set into a simple model. A lot of the time, you'll use some big assumptions for this process... 'statistical modelling' or 'machine learning', they call it... 
@@ -45,6 +45,8 @@ title: Ideas Notebook
   * Given that you have all this information loss in your statistical modelling process, how can you best predict the behaviour of the data-generating process?
   * And more importantly, even with possibly incorrect/inaccurate information, how should you bet on the outcomes? How do you transform probabilistic behaviour of a random variable into a real exposure to your life? 
   * Different ways of managing exposure: bet-sizing and capital allocation, contracts and options ('clipping the tails of the distribution', or more commonly known as insurance).
+
+
 
 
 ##### --. Ancestrally Lost Emotions

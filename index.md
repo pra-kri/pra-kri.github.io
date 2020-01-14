@@ -31,7 +31,7 @@ Hi :) Welcome to my online notebook of ideas and thoughts. Most of what I'm curi
 
 
 #### Testing if MathJax works....
-(need to edit \_includes/head.html to (make it work)[https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages]...)
+(need to edit \_includes/head.html to [make it work](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages)...)
 
 $$
   \bar{y} = {1 \over n} \sum_{i = 1}^{n}y_i

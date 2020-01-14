@@ -1,11 +1,8 @@
 ---
 layout: page
-title: A Metaphor and Its Implications 
+title: Work Strategy
 ---
 
-<p class="message">
-  How should you spend your time on work? You have 6 months to finish all the work you want to do. How will you do it all?
- 
 ### An Interesting Metaphor
 
 `'Go for the jugular.'`, the metaphor for working like you hunt.

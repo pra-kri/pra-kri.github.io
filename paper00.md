@@ -14,7 +14,7 @@ title: Paper - 00
 
 
 
-$$ \bbox[gray,5px,border:2px solid blue]
+$$ \bbox[silver,5px,border:2px solid blue]
 {
 e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n
 \qquad (1)

@@ -42,4 +42,4 @@ $$
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
  {% endraw %}
  
- 
+ $$ \bbox[gray,5px,border:2px solid blue] { e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n \qquad (1) } $$

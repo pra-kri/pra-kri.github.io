@@ -33,9 +33,10 @@ Here are the implications of the hunting metaphor that I think are interesting t
   * 3. **Applied Hacking**, or just go through the 'Wizard Book' (SICP)
   
 * And I think the way to do that is:
-  * Every 2 weeks, pick a textbook/course/topic to fully obsess over - the kind of stuff that usually takes a term to cover.
-  * Distill the *core* ideas in all the chapters - what are their consequences? Why? Find the jugular, so to speak.
-  * And then articulate all of this verbally (NOT mathematically) in an essay or mini-paper, expanding on all the consequences of the central 'jugular' idea that you found. **The maths is just a tool to help articulate ideas. The verbal and spatial logic is the real core.**
+  * **Every 3 days**, pick a textbook/course/topic to fully obsess over - the kind of stuff that usually takes a term to cover.
+  * Distill the *core* ideas in all the chapters into simple explanations - what are their consequences? Why? Find the jugular, so to speak.
+  * You should try your best to VERBALLY articulate the consequences and interactions of the ideas. **The maths is just a tool to help articulate ideas. The verbal and spatial logic is the real core.**
+  * Then, if you're still curious about the subject, dedicate your NEXT 3 days to going over the same text, but in much more detail. In a way, you're kind of 'scraping' through layers of the text to get an understanding, 3 days at a time.
 
 
 ---

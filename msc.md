@@ -1,14 +1,45 @@
 ---
 layout: page
-title: MSc 
+title: A Metaphor and Its Implications 
 ---
 
 <p class="message">
-  Notes and reminders: How should you spend time during your MSc? 12 months (Sep 2019 -> Sep 2020).
+  How should you spend your time on work? You have 6 months to finish all the work you want to do. How will you do it all?
  
 ### An Interesting Metaphor
 
-`'Go for the jugular.'`
+`'Go for the jugular.'`, the metaphor for working like you hunt.
+
+Some of the most interesting ideas of what to work on and how to work seem to revolve around a central idea: **we work best when we work like hunters; when we aim for the jugular.** This idea seems to be the core generator of all the other ideas that I've come across over the past 3 or 4 years.
+
+Here are the implications of the hunting metaphor that I think are interesting to explore and keep in mind over your 'career':
+
+* **Ambition** - You only go for the jugular if you're hunting large prey. You don't aim for a rat's jugular - you aim for an antelope's jugular. So spend time working on the biggest problems you can. That's what will give you an intense adrenaline rush, and maybe even a sense of self-respect with your work.
+* **80/20; go for the jugular** - Focus on the pulse; focus on the weakest point where you have the largest impact - the actual jugular. Or, for intellectual work, what is the central/core idea that you should focus on? Find that signal amongst the noise - it'll give you the most returns. Ignore the rest of the crap - it'll just slow you down. Ask a lion - biting an antelope's hoof, or ear, is *nowhere* near as effective as going for it's jugular. Or in debating, 'nitpicking is the unmistakeable mark of cluelessness' - NNT.
+* **High Agency, Relentless Resourcefulness, Default:aggressive** - rewards aggression and agency, almost always.
+* **Prowess** - 'Hunting prowess', 'fighting prowess'; nowadays the cultural idea seems to be: you can be a technically skilled nerd, or you can be an aggressive knucklehead. But the etymologies of the terms 'prowess' and 'martial *arts*' seem to imply something different: to be truly competent, you need *both technical mastery **and** aggression*, combined. I think that applies to your work too. 
+* **Intensity and Laziness** - intense, immersive, obsessive 'sprints' or 'hunts'. Followed by relaxing, thinking and doing nothing.
+* **On the Offense** - Chris Sacca's idea of going on the offense. You choose what you hunt and when; someone doesn't tell you to hunt. Your labour, ideally, should be something that you chose to do for yourself. Not something that you do because it's the only thing someone will tolerate paying you for.
+* **Parkinson's Law; expanding work** - deadlines bring out the adrenaline. Otherwise, you'll just wait too long for the 'perfect moment' and just delay all your work. Also somewhat related to NNT's idea of a 'second brain' manifesting under risk and the fear of failure. Failure to not meet the deadline is the risk here.
+* **Dopaminergic, self-determination** - motivated by the rewards - you want to do something because it *excites you*; you shouldn't be aiming to work by the emotions that come from external threat like prey animals who are scared of the hunters, their boss and their HR department; most of what prey animals do is to *avoid* getting into trouble - very rarely do they chase something out of their own volition.
+* **Play** - neuropsychology of play in juveline animals; training for aggression, competition, fighting and hunting; all of those should be treated as extended 'play'; it isn't work; it should be fun.
+* **Risk + Meritocracy** - sure there's bad luck and randomness, but hunting is quite meritocratic. It's not 'peer-assessed' or 'peer-reviewed'. If you can catch the damn antelope, it's yours.
+* **Obsesssion** - you never hunt 20 animals at once. You pick one out and you go for it. Even when hunting the herd. Read up on the paint-marked zebras and the lions 'experiment'.
+* **Invitations** - be a good hunter, and all the hunting-teams might just want to invite you. Maybe you can work together to hunt a Deviljho ;) or in more realistic non-dweeb terms, a startup-opportunity or an investment-opportunity.
+
+
+## Current Strategy
+
+* You are here to write 3 papers about 3 main topics you're intersted in: 
+  * 1. **Applied Probability Theory**, or how to use Probability Theory in Gambling and the Kelly Criterion; dissertation.
+  * 2. **Applied Information Theory**, or how to use Information Theory to describe information loss in statistical models and machine learning. The 'information loss' framework. 
+  * 3. **Applied Hacking**, or just go through the 'Wizard Book' (SICP)
+  
+* And I think the way to do that is:
+  * Every 2 weeks, pick a textbook/course/topic to fully obsess over - the kind of stuff that usually takes a term to cover.
+  * Distill the *core* ideas in all the chapters - what are their consequences? Why? Find the jugular, so to speak.
+  * And then articulate all of this verbally (NOT mathematically) in an essay or mini-paper, expanding on all the consequences of the central 'jugular' idea that you found. **The maths is just a tool to help articulate ideas. The verbal and spatial logic is the real core.**
+
 
 ---
 ---

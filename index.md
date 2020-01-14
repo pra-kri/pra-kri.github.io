@@ -35,3 +35,10 @@ Hi :) Welcome to my online notebook of ideas and thoughts. Most of what I'm curi
 $$
   \bar{y} = {1 \over n} \sum_{i = 1}^{n}y_i
 $$
+
+
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+ 
+ 

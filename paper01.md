@@ -4,7 +4,11 @@ title: Paper - 01
 ---
 
 <p class="message">
-  <b>Your first paper - The Effects of Polyadic Dependencies on Optimal Gambling Systems and the Kelly Criterion</b> <br> 
+  <b>Paper Topic:</b> Optimal Gambling Systems and the Kelly Criterion, with some extra applications regarding Polyadic dependency structures. <br>
+  <b>The Goal: </b>You want to be able to provide quantitative portfolio optimisation analysis to Quant Firms and Portfolio Managers.<br>
+  <b>Resources: </b>The Kelly Capital Growth Investment Criterion - by MacLean, Thorp and Ziemba<br>
 </p>
+
+
 
 

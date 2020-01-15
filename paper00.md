@@ -9,7 +9,7 @@ title: Paper - 00
 
 ### Writing
 
-* Writing, like programming, forces you to explicitly articulate and organise the thoughts in your head. In a way, writing is just the act of articulating **procedural knowledge** - knowledge about procedures and steps, at least for non-fiction.  
+* Writing, like programming, forces you to explicitly articulate and organise the thoughts in your head. Writing, at least for technical topics, is largely the act of articulating **procedural knowledge** - knowledge about procedures, steps and consequences.  
 
 * And, a sad confession: it was only recently that I realised that mathematical symbols are the same thing. A mathematical equation is really just the condensation of *lots* of articulatable information, but into highly dense symbols. Until you understand the connections and flow between the ideas that you're talking about, you'll never be able to constuct or model a mathematical equation. 
 

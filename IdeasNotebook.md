@@ -45,7 +45,28 @@ title: Ideas Notebook
   * Given that you have all this information loss in your statistical modelling process, how can you best predict the behaviour of the data-generating process?
   * And more importantly, even with possibly incorrect/inaccurate information, how should you bet on the outcomes? How do you transform probabilistic behaviour of a random variable into a real exposure to your life? 
   * Different ways of managing exposure: bet-sizing and capital allocation, contracts and options ('clipping the tails of the distribution', or more commonly known as insurance).
+  * And on a more philosophical note, to set up the next topic: knowledge without real-world consequences is just useless noise. Knowledge, like philosophy, should only be in service of real-world outcomes. Without gambling or risk-based decision-making opportunities for you to test your knowledge out on, studying probability theory will be useless. 
 
+---
+
+### --. Constraints force Competence; Risk crystallises Excitement
+* Without external challenge or constraints, you tend to get lazy and complacent. But with some challenge, risk, or constraints, things start to get much more interesting.
+  * 'Fire feeds on obstacles.' - M.A.
+  * 'Iron sharpens iron.'
+  * Constraints force competence, failure forces growth, and risk makes you interested.
+  * 'When I don't have skin in the game, I am usually dumb' - NNT.
+* And I think this is especially true for knowledge - especially when you're planning to learn stuff by yourself. Without a real-world problem, obstacle, or pain to overcome, the knowledge will be bland and uninteresting - no matter how much you tell yourself it's useful for your future. 
+* There are 2 easy ways for you to feel some risk and constraint:
+  * Write online, under the 'threat' of visibility. Writing also has the constraint of having to make sense. It forces you to understand the topic clearly.
+  * Applications for interviews + internships + jobs...e.tc
+  * Work with someone, so you have some social 'constraints'
+  * Problems and Projects! Work on *practical* solutions to problems. It will motivate interest in theory and ideas.
+* The following is a summary of the constraints you might be able to apply...
+  * Time Constraints - to bring out the adrenaline and the sense of urgency. Similarly, the concept of 'Memento Mori' might be related to this too - sure it makes you feel like you have nothing to lose, but there's also a sense of urgency and adrenaline knowing that time is limited.
+  * Problem Constraints - aim to solve problems first, and *only then* should you learn theory. Awarenenss of the problem will bring out the excitement and curiosity required for the theory. Just remember: do *not* just blindly go learn theory first. It's usually a waste of time... Practice > Theory.
+  * Social Constraints - working with people will force you to live up to expectations and standards. I think this is the same mechanism behind writing online/publishing/presenting - there's a 'threat' of social judgement if you're incompetent.
+  * Money Constraints - 
+  
 
 ---
 

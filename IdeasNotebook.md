@@ -242,6 +242,15 @@ Feeling like you have nothing to lose might invoke this state. If you have nothi
 
 ---
 
+### --. Neuroscience of wolf cubs: Play as a Precursor to Aggression
+* Something interesting about young mammals: ONLY the cubs/pups of the predatory mammals are really playful. The prey animals are all pretty damn stupid and boring, bluntly speaking: they have almost no curiosity or playfulness.
+* Maybe the neuronal demand for hunting and social pack-behaviour is much higher than just following the herd and eating grass and leaves - and maybe that's the reason why predatory animals (like Wolves and Tigers) have more complex brains than the prey animals that they hunt.
+* And maybe, playing and 'wresting' is the way that the cubs learn how to fight and hunt and get along with their pack. **In a way, play serves as training for aggression and dominance**.
+* So maybe playfulness, as a psychological trait, is heavily linked to aggression and competetive 'goal-chasing'. 
+
+
+---
+
 ### --. Divergence of Intelligence and Aggression over History
 * "The society that separates scholars from its warriors will have its thinking done by cowards and its fighting done by fools."
 * Historically, in hunter-gatherer times, I think it would be a decent bet to say that the smartest men were probably also amongst the strongest. There was probably some sort of link between Intelligence/Mastery/Skill and Strength/Aggression. I think this is partly because the real 'intelligence' of a man was measured by his ability to fight and hunt and work well within a tribe/coalition.

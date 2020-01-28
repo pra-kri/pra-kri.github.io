@@ -17,29 +17,5 @@ Hi :) Welcome to my online notebook of ideas and thoughts. Most of what I'm curi
 | `'Contrarian' Careers` | Financially, how can you reap the rewards for taking calculated risks and exploring uncertain territory? |
 
 
-### Start here
-
-* Notebooks on Authors
-    * 1111
-    * 1111
-* Notebooks on Ideas
-    * 1111
-    * 1111
-* Essays
-    * 1111
-    * 1111
 
 
-#### Testing if MathJax works....
-(need to edit \_includes/head.html to [make it work](https://stackoverflow.com/questions/26275645/how-to-support-latex-in-github-pages)...)
-
-$$
-  \bar{y} = {1 \over n} \sum_{i = 1}^{n}y_i
-$$
-
-
- {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
- 
- $$ \bbox[silver,5px,border:2px solid blue] { e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n \qquad (1) } $$

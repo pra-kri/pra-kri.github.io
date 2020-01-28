@@ -17,7 +17,7 @@ title: ASOC Python Stuff
   * Risk-scalable
   * Industry switching
   * Permissionless value creation
-  * £70k+ -----> £300k+ -----> ?? 
+  * £70k+ -----> £250k+ -----> ?? 
 * **What Python is *actually* about**
   * Writing instructions/*procedures*
   * Which means the real focus in on FUNCTIONS.
@@ -83,3 +83,39 @@ And how they can be used to represent almost *anything* in the real world.
 
 * And a few real world examples. (5 x 2) (Topics: maths, genes, time-series, business data, networks)
 
+* **Example 0**: Maths - *for working with numbers*
+  * *Basic maths equations
+  * function(a)::: return (10 x a)
+  * function(a,b)::: return ((a\*b)\*(a+b))
+* **Example 1**: Genetics - *for working with strings*
+  * *Obvious non-scientific parallels: processing id numbers or some other boring crap, spellchecking, text-processing
+  * function(gene)::: return last 5 letters of gene
+  * function(gene)::: check if first 5 and last 5 letters are the same.
+* **Example 2**: Finance Time-Series - *for working with lists*
+  * *Anything that's stored in order, usually stuff that evolves over time, or if it's ranked in order...
+  * function(list_of_prices)::: return avg price across all elements 
+  * function(list_of_prices)::: return avg price over last 4 steps.
+  * function(list_1, list_2)::: compare avg price of 2 lists, then return highest one?
+* **Example 3**: Business-Data - *for working with dictionaries (no nested lists yet!)*
+  * function(business_dictionary)::: return some calculated value
+  * function(business_1, business_2) ::: return both calculated values, or the higher one...
+* **Example 4**: Networks - *for nested lists*
+  * *Interesting networks: social, drug-drug-interaction networks, causal networks, ...etc
+  * function(network)::: return the wanted connections
+  * function(network)::: add connection to network?
+  
+
+### 5. What I *didn't* cover, and why
+
+* installing python ?? (maybe do at the end, use repl.it instead for class...)
+* classes and objects
+* error handling...etc
+* importing modules (modules = functions that other people wrote)
+* *ANY* time you hear about a python-related tool (like Pandas, Numpy, Django, Flask...), it's basically just a bunch of functions that *other people* wrote, and packaged up together, so that you can use their code. That way, you don't have to rewrite everything yourself.
+
+
+If you're smart enough to make your own functions, you're smart enough to teach yourself the rest of Python and eventually get a £45k+ job when you graduate. And if you don't get that job, you can take a junior 'trainee' Python job for £25k+ (and let them exploit you for a year) and then jump your salary up to £50/60/70k+ in 1 or 2 years. And if you're *really* interested, you can make ~£200k+ in your 20s or early 30s, if you pick up coding knowledge that's useful in Finance. 
+
+But more importantly - if you know how to build whatever you want in Python, you can start your own business. As long as you can build something that people want, or something that investors might be interested in funding, you'll be able to go down the entrepreneurial route without *anytone's* permission. All you need to do is start building it in Python during your weekends.
+
+Also, this is probably irresponsible to say to you guys, but a large minority of software developers are self-taught and don't have degrees. So if you screw up your grades, don't worry *too* much - as long as you can code, you should be able to convince someone to pay you some £££££££. In fact, software developer job specs are one of the only specs that I've seen that *actually* say : '**Bachelors degree preferable but not required**'.

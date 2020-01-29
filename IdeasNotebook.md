@@ -13,71 +13,34 @@ title: Ideas Notebook
 </p>
 
 --- 
+### --. Ancestrally Lost Emotions
+There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
+* **Being needed by your team** - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
+* **Loyalty** - when was the last time you actually had to live with a sense of loyalty towards a group? A sense that you should sacrifice some of your own selfish interests for the good of the whole group? Or are you working for a team you don't respect, full of obedient cowards who've never taken any risks in their entire lives, but you 'need the money' so you tolerate it? How can you ever be loyal to a group that you don't respect? And how can you be loyal to a boss who you never voted into power? 
+* **Craftsmanship** - when was the last time you felt a sense of pride and craftsmanship regarding your work? Can you take pride in the quality and elegance of the work that you create? Can you move towards a sense of mastery? Or are you shuffling papers around and sending emails for a living: the kind of job that takes a new grad only 2 or 3 months to learn how to do?
+* **Risk and Adventure** - are you working on something where you could fail? Are you chasing a goal that makes your life into a bit of an adventure? Or are you obediently doing what you're supposed to do all the time, and your sense of adventure is derived purely from travel/holidays and planned experiences? See, that's not adventure - that's just expensive consumerism. But since it's expensive and more exclusive than, say, watching Netflix, it becomes prestigious. 
 
-### --. Information Loss as a framework for your research interests: the 'Procrustean Bed' of Statistics, Probability and Information Theory
-* **Probability Theory**
-  * Given a random/uncertain/stochastic process, what sort of outcomes can it possibly generate?
-  * Over a long time-span, what will these outcomes look like? 
-  * Maybe that's why NNT says the one of the best ways to learn probability theory is to do 1000s of Monte Carlo simulations: you see different outcomes being generated, and the behaviour of these generated outcomes.
-  * Also: ergodicity problem: 1 data-generator going through 1000 time-steps is NOT always the same as 1000-data generators going through 1 time-step each. Their statistical properties are different when incorporating the possibility of the gambler's ruin.
-  * Ergodicity and iid: The outcomes of Russian roulette is technically *i.i.d.*. But if you don't survive a round, then you dont get to play again - the outcomes of all the sequential turns are VERY dependent on your last turn. (literally your *last* turn. sorry....). So the exposure to an iid variable isn't necessarily iid --- is this just respresented as a transformation of random variables??
-* **Information Theory**
-  * Given a *restricted* channel that transmits information/data, what can you tell about the source, if you receive a signal at the end of the channel?
-  * How much information can the channel even transmit? How can you *lose* valuable information if the channel isn't very good? Can you choose to lose redundant/useless information to save space/time? 
-  * Sometimes, in the case of data-science/statistics, the lossy/noisy channel is actually just your data collection technique! You collect data from a data-generating-process in an ineffective way, due to resource constraints (time, money, sensors...etc), and so you *lose* some of the information along this data-collection 'channel'. Or there are external variables that you haven't considered to collect, so it seems like there is 'noise' in the data that you collected. 
-  * Regardless, data collection is usually an act of forcing a real-life phenomenon through a noisy and lossy channel, where the output is just your collected dataset. And sometimes, there's even some sort of 'bandpass'-like filter in this channel: e.g. collecting data from a fat-tailed/heavy-tailed variable, but not over enough of a time-span, so the lowest frequency data-points might be under-represented. (see: The Statistical Consequence of Fat-Tails - NNT). Similarly, you can have other types of filters, through data-collection biases like: survivorship bias, selection bias - leading to things like Berkson's paradox...
-* **Inference!!!!!**
-  * How do you further 'compress' or 'filter' your collected data into a more compact *statistical model*?  Or in other words, how do you *bias* the data towards your chosen model? 
-* ------------------------------------------------------
-*  **\[ 1 \] \-\-> \[ 2 \] \-\-> \[ 3 \]**
-  * 1 = data-generating process; can theoretically generate 10000s of outcomes, across many parallel universes (Monte Carlo sim...).
-  * 2 = collected data; only managed to collect 1 of the 'parallel universe' outcomes though. Already, you see there is some loss of information. In fact, the whole idea of cross-validation is to pretend like you collected multiple sets of data from parallel universes, and use one of those as the testing-set...
-  * 3 = selected model; you further had to lose some of the information in the data-set into a simple model. A lot of the time, you'll use some big assumptions for this process... 'statistical modelling' and 'machine learning', they call it... 
-* ----------------------------------------------------------
-* **What ways can you 'compress' and lose information along the 3-step process?**
-  * D.Freedman: Statistical Models - different assumptions used to do statistical modelling (need to go through the book...)
-  * N.Taleb - Gaussian Assumption (lose info about fat-tails), Ergodic assumption (lose info about path-dependence), Pre-Asymptotics (lose info about low-freq events if you don't have enough data: almost like a high-pass filter in some ways...) ...etc
-  * Statistical Learning Theory - 'compress' and intentionally lose information so that data is 'biased' to a chosen model.
-  * Polyadic vs Dyadic relationships - Shannon-information measures, like Entropy and Mutual Information, fail to capture multivariate dependencies (dyadic relationships!- dissertation is related to this and the consequences in gambling; **how do you capture if-*both*-x-and-y-happen-then-z-happens relationships in statistical models, graphs and existing probability and information theory?**; e.g. the XOR gate)
-  * J.Pearl - causal information is usually lost in most statistical models, so how can you extract that using things like probabilistic graphical structures?
-* ----------------------------------------------------------
-* **And finally, the whole reason for these topics: GAMBLING**
-  * Given that you have all this information loss in your statistical modelling process, how can you best predict the behaviour of the data-generating process?
-  * And more importantly, even with possibly incorrect/inaccurate information, how should you bet on the outcomes? How do you transform probabilistic behaviour of a random variable into a real exposure to your life? 
-  * Different ways of managing exposure: bet-sizing and capital allocation, contracts and options ('clipping the tails of the distribution', or more commonly known as insurance).
-  * And on a more philosophical note, to set up the next topic: knowledge without real-world consequences is just useless noise. Knowledge, like philosophy, should only be in service of real-world outcomes. Without gambling or risk-based decision-making opportunities for you to test your knowledge out on, studying probability theory will be useless. 
+Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
+
+---
+
+### The Need to be Activated: Brain regions and a framework for viewing emotions that come from 'lack of something' (e.g. boredom from lack of stimulation, loneliness from lack of connection, agitation from lack of action).
+* Just like your circadian rhythm cycles through states once a day or so, are there similar cyclical activation requirements in parts of your brain? 
+* Is that the neural basis for emotions like boredom and loneliness - not enough activation of certain regions? 
+* Is there an activation requirement for the neural regions associated with aggression and competition? Do we all occasionally need something to fight against - an opportunity to commit acts of heroism or sacrifice? Or are we perfectly fine with comfort, cushy office jobs and mindless consumerism in the evenings? 
+* I wonder if this is linked to the accelerating depression rates and mental health issues. If Rafiki (and Mufasa's ghost) didn't remind Simba to heroically take his place in the kingdom, would he have spent the rest of his days feeling existentially anxious, playing video games, uploading social media posts, and watching videos on netflix (or other *less conventional* websites)? 
 
 ---
 
 ### --. Constraints force Competence; Risk crystallises Excitement
-* Without external challenge or constraints, you tend to get lazy and complacent. But with some challenge, risk, or constraints, things start to get much more interesting.
-  * 'Fire feeds on obstacles.' - M.A.
-  * 'Iron sharpens iron.'
-  * Constraints force competence, failure forces growth, and risk makes you interested.
+* Without external challenge or constraints, you tend to get lazy and complacent. But with some challenge, risk, or constraints, things start to get much more interesting. Constraints force competence, failure forces growth, and risk makes you interested.
+  * 'Fire feeds on obstacles.', 'Iron sharpens iron.'
   * 'When I don't have skin in the game, I am usually dumb' - NNT.
 * And I think this is especially true for knowledge - especially when you're planning to learn stuff by yourself. Without a real-world problem, obstacle, or pain to overcome, the knowledge will be bland and uninteresting - no matter how much you tell yourself it's useful for your future. 
-* There are 2 easy ways for you to feel some risk and constraint:
-  * Write online, under the 'threat' of visibility. Writing also has the constraint of having to make sense. It forces you to understand the topic clearly.
-  * Applications for interviews + internships + jobs...e.tc
-  * Work with someone, so you have some social 'constraints'
-  * Problems and Projects! Work on *practical* solutions to problems. It will motivate interest in theory and ideas.
 * The following is a summary of the constraints you might be able to apply...
   * Time Constraints - to bring out the adrenaline and the sense of urgency. Similarly, the concept of 'Memento Mori' might be related to this too - sure it makes you feel like you have nothing to lose, but there's also a sense of urgency and adrenaline knowing that time is limited.
   * Problem Constraints - aim to solve problems first, and *only then* should you learn theory. Awarenenss of the problem will bring out the excitement and curiosity required for the theory. Just remember: do *not* just blindly go learn theory first. It's usually a waste of time... Practice > Theory.
-  * Social Constraints - working with people will force you to live up to expectations and standards. I think this is the same mechanism behind writing online/publishing/presenting - there's a 'threat' of social judgement if you're incompetent.
-  * Money Constraints - 
-  
-
----
-
-### --. Ancestrally Lost Emotions
-There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
-* *Being needed by your team* - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
-* *Loyalty* - when was the last time you actually had to live with a sense of loyalty towards a group? A sense that you should sacrifice some of your own selfish interests for the good of the whole group? Or are you working for a team you don't respect, full of obedient cowards who've never taken any risks in their entire lives, but you 'need the money' so you tolerate it? How can you ever be loyal to a group that you don't respect? And how can you be loyal to a boss who you never voted into power? 
-* *Craftsmanship* - when was the last time you felt a sense of pride and craftsmanship regarding your work? Can you take pride in the quality and elegance of the work that you create? Can you move towards a sense of mastery? Or are you shuffling papers around and sending emails for a living: the kind of job that takes a new grad only 2 or 3 months to learn how to do?
-* *Risk and Adventure* - are you working on something where you could fail? Are you chasing a goal that makes your life into a bit of an adventure? Or are you obediently doing what you're supposed to do all the time, and your sense of adventure is derived purely from travel/holidays and planned experiences? See, that's not adventure - that's just expensive consumerism. But since it's expensive and more exclusive than, say, watching Netflix, it becomes prestigious. The same way that powdered cocaine is almost the 'prestigious' version of smoking crack, but in both cases you're still an addict.
-
-Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
+  * Social Constraints - working with people will force you to live up to expectations and standards. I think this is the same mechanism behind writing online/publishing/presenting - there's a 'threat' of social judgement if you're incompetent. Same idea with interview pressure. Upcoming interviews make you more driven.
 
 ---
 
@@ -382,8 +345,6 @@ Electricity flows down the path of least resistance. Your brain (and maybe consc
 ##### -. (todo) Disconfirmatory research papers - are there papers like that? 
 i.e. 'We couldn't find any results that are definitely 'positively' true, but we managed to show that all these other possibilities are definitely NOT true'. Are there research papers like that? 
 
-##### 7. (todo) The Need to be Activated: Brain regions and a framework for viewing emotions that come from 'lack of something' (e.g. boredom from lack of stimulation, loneliness from lack of connection, agitation from lack of action).
-Just like your circadian rhythm cycles through states once a day or so, are there similar cyclical activation requirements in many parts of your brain? Are there parts of your brain that need to be activated once every few hours, or days? Is that the neural basis for emotions like boredom and loneliness - not enough activation of certain regions? Is there an activation requirement for the neural regions associated with aggression and competition? Do we all occasionally need something to fight against - an opportunity to commit acts of heroism or sacrifice? Or are we perfectly fine with comfort, cushy office jobs and mindless consumerism in the evenings? I wonder if this is linked to the accelerating depression rates and mental health issues. If Rafiki (and Mufasa's ghost) didn't remind Simba to heroically take his place in the kingdom, would he have spent the rest of his days feeling existentially anxious, playing video games, uploading social media posts, and watching videos on netflix (or other *less conventional* websites)? 
 
 ##### 8. (todo) Viewing psychology through the lens of 'sub-personalities', and being 'possessed' by ancient neural forces that are much older and deeper than you. 
 'You don't get angry. *Anger gets you*.' - JBP (Also: you don't get interested. Interesting things *capture* you. It's not your *choice* - you barely have any control over your curiosity. If you had full control of your interest, then procrastination wouldn't exist... You'd just control your emotions to become interested and focused...)
@@ -402,4 +363,38 @@ Just like your circadian rhythm cycles through states once a day or so, are ther
 ##### 1. (todo) The Cheap 'Virtue' of Obedience: roots of totalitarianism and fascism.  
 
 
+
+### --. Information Loss as a framework for your research interests: the 'Procrustean Bed' of Statistics, Probability and Information Theory
+* **Probability Theory**
+  * Given a random/uncertain/stochastic process, what sort of outcomes can it possibly generate?
+  * Asymptotics, Law of Large Numbers, CLT: over a long time-span, what will these outcomes look like? 
+  * Gambling: How can you *expose* your own capital to the random behaviour of the stochastic processes in an ideal way?
+  * Ergodicity: 1000 people playing Russian roulette once each is statistically different to 1 person playing 1000 times in a row.
+* **Information Theory**
+  * Given a *restricted* channel that transmits information/data, what can you tell about the source, if you receive a signal at the end of the channel?
+  * How much information can the channel even transmit? How can you *lose* valuable information if the channel isn't very good? Can you choose to lose redundant/useless information to save space/time? 
+  * Sometimes, in the case of data-science/statistics, the lossy/noisy channel is actually just your data collection technique! You collect data from a data-generating-process in an ineffective way, due to resource constraints (time, money, sensors...etc), and so you *lose* some of the information along this data-collection 'channel'. Or there are external variables that you haven't considered to collect, so it seems like there is 'noise' in the data that you collected. 
+  * Regardless, data collection is usually an act of forcing a real-life phenomenon through a noisy and lossy channel, where the output is just your collected dataset. And sometimes, there's even some sort of 'bandpass'-like filter in this channel: e.g. collecting data from a fat-tailed/heavy-tailed variable, but not over enough of a time-span, so the lowest frequency data-points might be under-represented. (see: The Statistical Consequence of Fat-Tails - NNT). Similarly, you can have other types of filters, through data-collection biases like: survivorship bias, selection bias - leading to things like Berkson's paradox...
+* **Inference!!!!!**
+  * How do you further 'compress' or 'filter' your collected data into a more compact *statistical model*?  Or in other words, how do you *bias* the data towards your chosen model? 
+* ------------------------------------------------------
+*  **\[ 1 \] \-\-> \[ 2 \] \-\-> \[ 3 \]**
+  * 1 = data-generating process; can theoretically generate 10000s of outcomes, across many parallel universes (Monte Carlo sim...).
+  * 2 = collected data; only managed to collect 1 of the 'parallel universe' outcomes though. Already, you see there is some loss of information. In fact, the whole idea of cross-validation is to pretend like you collected multiple sets of data from parallel universes, and use one of those as the testing-set...
+  * 3 = selected model; you further had to lose some of the information in the data-set into a simple model. A lot of the time, you'll use some big assumptions for this process... 'statistical modelling' and 'machine learning', they call it... 
+* ----------------------------------------------------------
+* **What ways can you 'compress' and lose information along the 3-step process?**
+  * D.Freedman: Statistical Models - different assumptions used to do statistical modelling (need to go through the book...)
+  * N.Taleb - Gaussian Assumption (lose info about fat-tails), Ergodic assumption (lose info about path-dependence), Pre-Asymptotics (lose info about low-freq events if you don't have enough data: almost like a high-pass filter in some ways...) ...etc
+  * Statistical Learning Theory - 'compress' and intentionally lose information so that data is 'biased' to a chosen model.
+  * Polyadic vs Dyadic relationships - Shannon-information measures, like Entropy and Mutual Information, fail to capture multivariate dependencies (dyadic relationships!- dissertation is related to this and the consequences in gambling; **how do you capture if-*both*-x-and-y-happen-then-z-happens relationships in statistical models, graphs and existing probability and information theory?**; e.g. the XOR gate)
+  * J.Pearl - causal information is usually lost in most statistical models, so how can you extract that using things like probabilistic graphical structures?
+* ----------------------------------------------------------
+* **And finally, the whole reason for these topics: GAMBLING**
+  * Given that you have all this information loss in your statistical modelling process, how can you best predict the behaviour of the data-generating process?
+  * And more importantly, even with possibly incorrect/inaccurate information, how should you bet on the outcomes? How do you transform probabilistic behaviour of a random variable into a real exposure to your life? 
+  * Different ways of managing exposure: bet-sizing and capital allocation, contracts and options ('clipping the tails of the distribution', or more commonly known as insurance).
+  * And on a more philosophical note, to set up the next topic: knowledge without real-world consequences is just useless noise. Knowledge, like philosophy, should only be in service of real-world outcomes. Without gambling or risk-based decision-making opportunities for you to test your knowledge out on, studying probability theory will be useless. 
+
+---
 

@@ -17,15 +17,14 @@ Mostly the topics revolve around applied ethics and philosophy: stuff that'll he
 * **'High Agency', 'Relentlessly Resourceful', 'Aggressive Tinkering', 'Default: Aggressive'**, or why it pays to know how to say 'sorry, I f\*\*\*ed up' in the most charming way possible, and why following instructions is the wrong way to succeed.
 * **Polytheistic Discipline**, or discpline viewed as sacrifice, and how to use polytheistic ideas to motivate interest in the right sacrifices. 
 * **On the value of Constraints**, or why rebels and anti-authoritarians will always need a bureaucratic system to rail against, the necessity of an 'arch-nemesis' (E.Weinstein's idea), and why suffering and evil are almost necessary for a good story (+ connections to Dostoevsky, Nietzsche and Existentialism...?).
-* **The Odyssey, Hospitality and Trust**, or why you rise and fall to meet their expectations, belief under uncertainty, and that one Solzhenitsyn quote about 'the line'. 
+* **The Odyssey, Hospitality and Trust**, or why you rise and fall to meet their expectations, belief under uncertainty, that one Solzhenitsyn quote about 'the line', and putting belief before evidence (faith, trust, hospitality, ..etc) 
 * **Unconditionality and Ethics**, or why it's only an ethical virtue if it involves a sacrifice; otherwise it's just 'obvious logic'. And the thought experiment involving many 20th-century citizens...
 * **N-th Degree Knowledge Scaffolding**, or the value of re-reading a good book, why writing helps you think, and why some researchers gain value from giving lectures.
 * **How can you be proud of consumerism?**, or the blandness of most proclaimed hobbies and interests.
 * **Exploiting Fleeting Entropy**, or the role of temporary distortions and conflicting information in threat- and opportunity-detection, 'waiting for uncertainty and using it as raw material' (Taleb, Antifragile), and Spitznagel's 'Dao of Capital' + Austrian investing, polyadic mutual information.
 * **Jensen's Inequality and Addiction**, or why dopamine/reward uncertainty and the addiction mechanism might be linked to convexity.
 * **Tribes**, being invited onto a team that you respect, risk and sacrifice and service, selfishly offering sincere value in your own way (otherwise, it's just obedience and domestication), how you might measure the value you offer, the unspoken advantages of networks and serendipity, the crucial end-step in Campbell's idea of the Hero's Journey, an exploration of 'localism' and criticisms of connected yet disconnected city-life...
-* **Writing and Procedural Knowledge**, or: the benefits of walking through procedural knowledge as if someone was listening to you. And the ability to 2-dimensionally connect and bounce your current ideas in your brain (at t=0) off something you wrote 30 seconds ago (t= -30).
-* **Information Transfer and Emotions** - why some teachers are boring to listen to, and the value of emotions in speech, the message isn't the only information - you have the message packaging, and the context to consider too. 
+
 
 
 

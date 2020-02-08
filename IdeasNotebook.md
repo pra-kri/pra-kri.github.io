@@ -24,6 +24,17 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ---
 
+### Picking Leadership, Constraining Company Size,
+
+* A fun observation about some of my past bosses: **The only one that I respected was the one that took entrepreneurial risks and actually *did* things with skin-in-the-game**. I don't know if that's because I've been reading too much of what N.N.Taleb has written, or if it's just instinct. He was also the only one who, when he gave me advice, I *actually* tried to listen to. (though I wasn't very good at listening to be honest...).
+* On the other hand, I've worked under the leadership of other guys that I really couldn't bring myself to respect. I think the core feeling I always had was: *this guy is only leading because he's older and was promoted in the past. He isn't actually better, and he doesn't take any risks for his opinions. Why the f\*\*\* does this guy get to make all the decisions? And worse, why does this dumb\*\*\* have a disproportionately powerful impact on my own life and career? Even my friends and family don't have this much power over my life.*.
+* Maybe that means the only valid option is to work for someone who you respect: work directly for the entrepreneur or risk-taker in an organisation.
+* **A possible heuristic:** *If your boss doesn't own x% of the company, or doesn't make a %-commission, would you really be able to listen to him and learn much from him? How can you listen to someone with no skin in the game?* 
+* Interestingly, this idea seems to limit the size of the company you can work for. Work in a company that's too big and you'll be stuck listening to a non-risk-taking middle manager. 
+* And it adds some healthy pressure to you as well: *have some useful skills that can help entrepreneurs/investors directly make money. If you can't do that, then you'll never get to work with those guys.*
+
+---
+
 ### Contagion of Beliefs: Conviction/Calm \_\_vs\_\_ Shame/Hesitation/Worry; 'weaknesses as ornaments' - Taleb
 * So there's this really dumb thing that kids do sometimes when they fall over and get hurt: they look to see your reaction first, before deciding whether they should cry or not. If you're calm and unmoved, and you say "don't worry kid, you'll be fine" with conviction, then usualy they feel like they're not hurt. But if you're worried and panicky, even if the injury is non-existent, they start crying. It's like your conviction, or lack of, is contagious.
 * Same idea with leadership: if the leader (or the most respected guy on the team) is calm, then that seems to permeate through the whole room. But if the leader is worried and anxious, then that mood spreads pretty quickly to the rest of the team.

@@ -49,6 +49,13 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ---
 
+### Context-Switching with Emotions; Identity and 'Thumos'
+* (todo)
+* (..............)
+
+
+---
+
 ### --. Constraints force Competence; Risk crystallises Excitement
 * Without external challenge or constraints, you tend to get lazy and complacent. But with some challenge, risk, or constraints, things start to get much more interesting. Constraints force competence, failure forces growth, and risk makes you interested.
   * 'Fire feeds on obstacles.', 'Iron sharpens iron.'

@@ -35,6 +35,14 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 
 ---
 
+### (Social vs Individual) Motivation and Identity
+* For a long time I prided myself on being 'different' to other people. I'd pick something that I was good at, enjoyed, or something that I do that's rare or unique - like maths, or writing, or being a sensitive emotional wimp - and use that as some sort of cornerstone of my identity. I'd use it as motivation to do more of the same, to make myself *more* unique.  
+* But only recently did I realise that what makes me a unique individual is *heavily* dependent on the people around me. Any sort of individualistic impulse that you feel will naturally be a reaction to the people around you. No-one is proud of having a degree, because *everyone* has one - even the soppy excuses of students that graduated with degrees in 'Medieval Golf-Course Management Studies and Lesbian Poetry Theory'. But having a PhD, or being rich, or being attractive (or any other number of things that might be rare and valuable) are things that people use as pillars of their identity.
+* A large part of your identity is determined by what other people are *not*, rather than just what you are. If *everyone* has a certain quality, the sense of pride and respect behind that quality starts to disappear.
+
+---
+
+
 ### Contagion of Beliefs: Conviction/Calm \_\_vs\_\_ Shame/Hesitation/Worry; 'weaknesses as ornaments' - Taleb
 * So there's this really dumb thing that kids do sometimes when they fall over and get hurt: they look to see your reaction first, before deciding whether they should cry or not. If you're calm and unmoved, and you say "don't worry kid, you'll be fine" with conviction, then usualy they feel like they're not hurt. But if you're worried and panicky, even if the injury is non-existent, they start crying. It's like your conviction, or lack of, is contagious.
 * Same idea with leadership: if the leader (or the most respected guy on the team) is calm, then that seems to permeate through the whole room. But if the leader is worried and anxious, then that mood spreads pretty quickly to the rest of the team.

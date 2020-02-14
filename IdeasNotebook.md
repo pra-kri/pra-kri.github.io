@@ -12,7 +12,20 @@ title: Ideas Notebook
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
 </p>
 
+
+---
+
+### Complex Systems, Leverage Points and using Evolutionary Pressure
+
+* Whenever you want to make a big change or lasting perturbation to a complex system it's best to apply your energy where it really counts - at the ['leverage points'](https://en.wikipedia.org/wiki/Twelve_leverage_points).
+* From the perspective of a hunting lion, the best way to 'perturb' and control the complex behaviour of a fleeing antelope is to aim for the throat. The jugular is the leverage point here. I'm sure the guys with Wrestling and Jiu Jitsu experience will instinctively know this from their own parallel experiences.
+* Recently though, I realised that one of the most complex systems that I've struggled to control and 'perturb' is my own psychology. Maybe that sounds pathetic or weak, but it's something even great men in the past had to deal with. Stoicism and Existentialism, and maybe the whole of Philosophy itself, might be evidence of that.
+* Of all the 'leverage points' that I've found in my psyche, the best of them seem to share one theme: **evolutionary pressure**, or genetic survival. If I use an idea that involves evolutionary pressure in it, then I can change my mood and psychology almost immediately. Whereas if I use an idea that doesn't quite viscerally connect to evolutionary survival, it's much harder to manipulate my own mood.
+* A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run. And for some reason they're strongly motivating and effective at shifting my focus - maybe because instinctively my brain knows these are the important metrics to consider.
+* Other external leverage 'points' that have a massive impact on mood and psychology and quality of focus: Sleep, Caffeine, Wine...
+
 --- 
+
 ### --. Ancestrally Lost Emotions
 There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
 * **Being needed by your team** - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
@@ -23,6 +36,7 @@ There are a few 'ancestral' emotions that, historically, our ancestors have alwa
 Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
 
 ---
+
 
 ### Picking Leadership, Constraining Company Size,
 

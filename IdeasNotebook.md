@@ -22,7 +22,7 @@ title: Ideas Notebook
 * Recently though, I realised that one of the most complex systems that I've struggled to control and 'perturb' is my own psychology. Maybe that sounds pathetic or weak, but it's something even great men in the past had to deal with. Stoicism and Existentialism, and maybe the whole of Philosophy itself, might be evidence of that.
 * Of all the 'leverage points' that I've found in my psyche, the best of them seem to share one theme: **evolutionary pressure**, or genetic survival. If I use an idea that involves evolutionary pressure in it, then I can change my mood and psychology almost immediately. Whereas if I use an idea that doesn't quite viscerally connect to evolutionary survival, it's much harder to manipulate my own mood.
 * A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run. And for some reason they're strongly motivating and effective at shifting my focus - maybe because instinctively my brain knows these are the important metrics to consider.
-* Other external leverage 'points' that have a massive impact on mood and psychology and quality of focus: Sleep, Caffeine, Wine...
+* Other external leverage 'points' that have a massive impact on mood and psychology and quality of focus: Sleep, Caffeine, Diet quality
 
 --- 
 

@@ -25,3 +25,8 @@ e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n
 \qquad (1)
 }
 $$
+
+
+
+### 3-Day Essays - 001
+

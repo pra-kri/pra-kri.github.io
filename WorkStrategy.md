@@ -21,7 +21,7 @@ title: Work Strategy - 3.D.E
 
 #### Writing: Pride, Empathy, Craftsmanship and Expression
 
-<sub> Writing seems to bring out the best in you. I think that's because writing forces you to create something tangible - something you can proudly stamp your name on. Knowledge stuck circulating in your head isn't something you can take pride in - no-one will ever see it. But writing, even if no-one will read your words, results in a tangible piece of work - something you can be proud of creating. Something you can craft and labour over. And maybe the chance of it being read by something brings out empathy too - it makes you try to understand the subject properly before expressing what you understand. Maybe that's why Feynman suggested that teaching is one of the best ways to learn. 
+<sub> Writing seems to bring out the best in you. I think that's because writing forces you to create something tangible - something you can proudly stamp your name on. Knowledge stuck circulating in your head isn't something you can take pride in - no-one will ever see it; it's just fleeting electricity. But writing, even if no-one will read your words, results in a tangible piece of work - something you can be proud of creating. Something you can craft and labour over. And maybe the chance of it being read by something brings out empathy too - it makes you try to understand the subject properly before expressing what you understand. Maybe that's why Feynman suggested that teaching is one of the best ways to learn. 
   
 <sub>Or it might just be because you don't know when to shut up, and writing gives you free reign to express yourself for as long as you want. 
   

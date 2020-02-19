@@ -4,14 +4,25 @@ title: Ideas Notebook
 ---
 
 <p class="message">
-  <b>A notebook of quick ideas, thoughts, mental models and reminders.</b> <br>
-  Any time you read something interesting or useful that you might want to explore in the future, take note of it here. Otherwise, you'll end up forgetting it. Compound and structure your ideas here. 
+  <b>A notebook of quick ideas, thoughts, mental models, personal lessons and reminders.</b> <br>
+  Any time you read something interesting or useful that you might want to explore in the future, take note of it here. Otherwise, you'll end up forgetting it. Compound and structure your ideas here.
   <br>
-  <b>Possible topics:</b> ethics/behaviour, philosophy, neuroscience, risk, probability + statistics + ML, investing, startups + VC, thoughts on careers + work...etc
+  <b>Possible topics:</b> ethics/behaviour, philosophy, neuroscience, risk, probability + statistics + ML, investing, startups + VC, thoughts on careers + work ...etc. 
   <br>
   Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
+  <br>
+  Over time, this page is starting to resemble something more like a journal than a technical notebook. Not sure if that's a good thing, but I'll keep writing. Should be interesting to see the progress in a few months...
 </p>
 
+
+---
+
+### The Internal Voice - or Self-Talk (19/2/20)
+* How I talk to myself, the internal voice and 'personality' I use to talk to myself, is how I talk to other people.
+* Some days I find it unreasonably difficult to talk to new people - especially if they're someone I want to impress. I'm not sure I'd classify it as social anxiety or anything like that - it's more that I just can't spontaneously say anything interesting or witty or funny, and that's painful. 
+* But on other days, I feel perfectly comfortable talking to everyone and funnily enough, people *actually* like talking to me. Strange...
+* I've found that this is only just a reflection: How I talk to myself is how I talk to other people. If I've been talking to myself in a kind, forgiving and (forgive me) charming way, then I can enjoy just *being*. If I'm working on something, I can enjoy the process. If I need to force myself to be disciplined, I can enjoy the struggle and 'charm' myself into putting the effort in. If I'm thinking or studying, I can enjoy the mental effort - because the whole time I'm 'talking to myself' and thinking in a kind, forgiving, charming way. And that directly translates to how I socialise too - I talk to people and try to be kind and 'charming'. (at least to the best of my abilities...)
+* But if I spend the day talking to myself in an unforgiving, harsh, pessimistic, almost defeated manner, then not only do I dread my work, but I also just can't talk to anyone. Everything feels forced, and as you might know, forced emotions and forced jokes are viscerally offputting.
 
 ---
 

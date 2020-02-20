@@ -36,9 +36,11 @@ title: Ideas Notebook
 ---
 
 ### Clarity (20/02/20)
-* Maybe this is too obvious when you say it out loud, but when you *know* what you want, and who you want to be, and the role you want in society, life seems so much simpler.
+* Maybe this is too obvious when you say it out loud, but when you *know* what future you want to create, and who you want to be, and the role you want in society, life seems so much simpler.
 * As long as you have that image in your mind, everything in life seems so much easier and more direct. You work harder and more intensely, you think creatively to get what you want, you feel more comfortable in your own skin, your days feel well-used and worthwhile, and nothing can seem to distract you - your addictions fall away.
+* And maybe just as importantly, you actually *create*. You build things and write and create. 
 * But if you don't have that image, and you don't know what you're working towards, you feel empty, and the days go by like a blur. Live like that long enough and you start overthinking and asking stupid existential questions too. But maybe those questions help remind you of what you actually want...
+* Almost always though, your focus keeps coming back to one thing: who do you want to be in your 'tribe'? What kind of value do you want to add to people's lives? What place do you want to take amongst the people in your life? What sort of man do you eventually want to be for them? That's pretty surprising though, since I've always thought that I'm an arrogant, selfish bastard.
 
 
 ---

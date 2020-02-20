@@ -35,6 +35,14 @@ title: Ideas Notebook
 
 ---
 
+### Clarity (20/02/20)
+* Maybe this is too obvious when you say it out loud, but when you *know* what you want, and who you want to be, and the role you want in society, life seems so much simpler.
+* As long as you have that image in your mind, everything in life seems so much easier and more direct. You work harder and more intensely, you think creatively to get what you want, you feel more comfortable in your own skin, your days feel well-used and worthwhile, and nothing can seem to distract you - your addictions fall away.
+* But if you don't have that image, and you don't know what you're working towards, you feel empty, and the days go by like a blur. Live like that long enough and you start overthinking and asking stupid existential questions too. But maybe those questions help remind you of what you actually want...
+
+
+---
+
 ### Complex Systems, Leverage Points and using Evolutionary Pressure
 
 * Whenever you want to make a big change or lasting perturbation to a complex system it's best to apply your energy where it really counts - at the ['leverage points'](https://en.wikipedia.org/wiki/Twelve_leverage_points).

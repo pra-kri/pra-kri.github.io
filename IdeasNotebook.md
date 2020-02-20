@@ -26,13 +26,22 @@ title: Ideas Notebook
 
 ---
 
+### Path-Dependence of Hospitality, Trust, Warmth and Loyalty (and 'Faith' in general) (20/02/20)
+* Faith is, in a way, the act of putting belief before evidence. You don't know if something is true - you sure as hell don't have the evidence for it - and yet you choose to believe that it's true. This is contrary to the standard 'scientific' path - where you look for evidence first, before crystallising a belief. 
+* Normally you'd apply faith to religious belief, but it's true of anything where you take risks (e.g. startups). You have to believe you can succeed before you get evidence of the success, and sometimes that faith is what keeps you going when times are tough. 
+* More importantly though, something that took me embarrassingly long to learn, is the idea of belief before evidence in a social setting. I think you have to already have the emotional belief that someone is good and interesting, so you can treat them with warmth and hospitality and trust, before you really get to know them. If you do that, they're always happy to see you and you can start having real conversations and spend time together. And you hope that the evidence matches your initial belief. And almost always it does.
+* Some of my favourite friends, colleagues and mentors actually did that with me - they treated me with hospitality and warmth and trust before they had any real evidence about me. I hope I'll always remember that. 
+* Whereas if you've ever met someone who treats you coldly at first, but later they suddenly treat you with warmth after finding out you're 'useful' to them, you know how fake and insulting that feels. They show the emotional warmth *after* the evidence shows up. 
+
+---
+
 ### Complex Systems, Leverage Points and using Evolutionary Pressure
 
 * Whenever you want to make a big change or lasting perturbation to a complex system it's best to apply your energy where it really counts - at the ['leverage points'](https://en.wikipedia.org/wiki/Twelve_leverage_points).
 * From the perspective of a hunting lion, the best way to 'perturb' and control the complex behaviour of a fleeing antelope is to aim for the throat. The jugular is the leverage point here. I'm sure the guys with Wrestling and Jiu Jitsu experience will instinctively know this from their own parallel experiences.
 * Recently though, I realised that one of the most complex systems that I've struggled to control and 'perturb' is my own psychology. Maybe that sounds pathetic or weak, but it's something even great men in the past had to deal with. Stoicism and Existentialism, and maybe the whole of Philosophy itself, might be evidence of that.
 * Of all the 'leverage points' that I've found in my psyche, the best of them seem to share one theme: **evolutionary pressure**, or genetic survival. If I use an idea that involves evolutionary pressure in it, then I can change my mood and psychology almost immediately. Whereas if I use an idea that doesn't quite viscerally connect to evolutionary survival, it's much harder to manipulate my own mood.
-* A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run. And for some reason they're strongly motivating and effective at shifting my focus - maybe because instinctively my brain knows these are the important metrics to consider.
+* A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, loyalty to your team and the people relying on you, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run. And for some reason they're strongly motivating and effective at shifting my focus - maybe because  my brain knows instinctively that these are the important metrics to consider.
 * Other external leverage 'points' that have a massive impact on mood and psychology and quality of focus: Sleep, Caffeine, Diet quality
 
 --- 

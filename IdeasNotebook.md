@@ -44,7 +44,7 @@ title: Ideas Notebook
 * If you care about something, and it makes you feel excited, you should go work on it immediately. Don't put it off. 'Inspiration is perishable'. 
 * And if you've approached your work and activities for the day with that sense of excitement, that seems to transfer over to your social life too - you're much more interesting and alive when you talk to people on those days.
 * Sometimes though, what interests you most is a novel or sadly even a video game. But that's actually fine - they're works of art made by creative authors and designers. Fully following your interest in them for a short while keeps you curious. For some reason, suppressing your curiosity about them (because they're 'consumerist' and 'useless') seems to turn off your curiosity in other things too (like your research). 
-* If something has stopped being 'radiant' and interesting, that might be your instinct telling you that there are diminishing returns in following that path. Your psyche might be telling you that you won't grow much as a person if you continue to force yourself to work on the now-boring topic. Use the signal (lack of interest) as a warning.
+* If something has stopped being 'radiant' and interesting, that might be your instinct telling you that there are diminishing returns in following that path. Your psyche might be telling you that you won't grow much as a person if you continue to force yourself to work on the now-boring topic. Use the signal (lack of interest) as a warning - use it to find your next interesting project.
 
 ---
 

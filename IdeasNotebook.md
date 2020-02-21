@@ -5,13 +5,7 @@ title: Ideas Notebook
 
 <p class="message">
   <b>A notebook of quick ideas, thoughts, mental models, personal lessons and reminders.</b> <br>
-  Any time you read something interesting or useful that you might want to explore in the future, take note of it here. Otherwise, you'll end up forgetting it. Compound and structure your ideas here.
-  <br>
-  <b>Possible topics:</b> ethics/behaviour, philosophy, neuroscience, risk, probability + statistics + ML, investing, startups + VC, thoughts on careers + work ...etc. 
-  <br>
-  Even if you only write down 1 interesting technique/idea/thought a week, by the end of the year you should have at least 50 decent paragraphs to think about. 
-  <br>
-  Over time, this page is starting to resemble something more like a journal than a technical notebook. Not sure if that's a good thing, but I'll keep writing. Should be interesting to see the progress in a few months...
+  Over time, this page is starting to resemble something more like a journal of lessons than a technical research notebook. Not sure if that's a good thing, but I'll keep writing. Should be interesting to see the progress in a few months...
 </p>
 
 
@@ -19,15 +13,15 @@ title: Ideas Notebook
 
 ### The Internal Voice - or Self-Talk (19/2/20)
 * How I talk to myself, the internal voice and 'personality' I use to talk to myself, is how I talk to other people.
-* Some days I find it unreasonably difficult to talk to new people - especially if they're someone I want to impress. I'm not sure I'd classify it as social anxiety or anything like that - it's more that I just can't spontaneously say anything interesting or witty or funny, and that's painful. 
-* But on other days, I feel perfectly comfortable talking to everyone and funnily enough, people *actually* like talking to me. Strange...
-* I've found that this is only just a reflection: How I talk to myself is how I talk to other people. If I've been talking to myself in a kind, unserious/playful, forgiving and (forgive me) charming way, then I can enjoy just *being*. If I'm working on something, I can enjoy the process. If I need to force myself to be disciplined, I can enjoy the struggle and 'charm' myself into putting the effort in. If I'm thinking or studying, I can enjoy the mental effort - because the whole time I'm 'talking to myself' and thinking in a kind, forgiving, charming way. And that directly translates to how I socialise too - I talk to people and try to be kind and 'charming'. (at least to the best of my abilities...)
-* But if I spend the day talking to myself in an unforgiving, harsh, pessimistic, almost overly serious and defeated manner, then not only do I dread my work, but I also just can't talk to anyone - I always feel too serious and boring. And everything feels forced, and as you might know, forced emotions and forced jokes are viscerally offputting.
+* Some days I find it unreasonably difficult to talk to new people - especially if they're someone who I want to impress. I don't think it's social anxiety - it's more that I can't spontaneously say anything interesting or witty or funny. And that's painful. 
+* But on other days, I feel perfectly comfortable talking to everyone and people *actually* like talking to me. Strange...
+* I've think this is just a reflection: How I talk to myself is how I talk to other people. If I've been talking to myself in a kind, unserious/playful, forgiving and (forgive me) charming way, then I can enjoy just *being*. If I'm working on something, I can enjoy the process. If I need to force myself to be disciplined, I can enjoy the struggle and 'charm' myself into putting the effort in. If I'm thinking or studying, I can enjoy the mental effort - because the whole time I'm 'talking to myself' and thinking in a kind, forgiving, charming way. And that directly translates to how I socialise too - I talk to people and try to be kind and 'charming' and interesting. (at least to the best of my abilities...)
+* But if I spend the day talking to myself in an unforgiving, pessimistic, boring and overly serious manner, then not only do I dread my work, but I also can't talk to anyone - I feel too serious and boring. And everything feels forced. And as you might know, forced emotions and forced jokes are viscerally offputting. Sometimes it's better to just not say anything.
 
 ---
 
 ### Path-Dependence of Hospitality, Trust, Warmth and Loyalty (and 'Faith' in general) (20/02/20)
-* Faith is, in a way, the act of putting belief before evidence. You don't know if something is true - you sure as hell don't have the evidence for it - and yet you choose to believe that it's true. This is contrary to the standard 'scientific' path - where you look for evidence first, before crystallising a belief. 
+* Faith is, in a way, the act of putting belief before evidence. You don't know if something is true - you sure as hell don't have the evidence for it - and yet you choose to believe that it's true. This is contrary to the standard 'scientific' path, where you look for evidence first before crystallising a belief. 
 * Normally you'd apply faith to religious belief, but it's true of anything where you take risks (e.g. startups). You have to believe you can succeed before you get evidence of the success, and sometimes that faith is what keeps you going when times are tough. 
 * More importantly though, something that took me embarrassingly long to learn, is the idea of belief before evidence in a social setting. I think you have to already have the emotional belief that someone is good and interesting, so you can treat them with warmth and hospitality and trust, before you really get to know them. If you do that, they're always happy to see you and you can start having real conversations and spend time together. And you hope that the evidence matches your initial belief. And almost always it does.
 * Some of my favourite friends, colleagues and mentors actually did that with me - they treated me with hospitality and warmth and trust before they had any real evidence about me. I hope I'll always remember that. 
@@ -42,26 +36,34 @@ title: Ideas Notebook
 * But if you don't have that image, and you don't know what you're working towards, you feel empty, and the days go by like a blur. Live like that long enough and you start overthinking and asking stupid existential questions too. But maybe those questions help remind you of what you actually want...
 * Almost always though, your focus keeps coming back to one thing: who do you want to be in your 'tribe'? What kind of value do you want to add to people's lives? What place do you want to take amongst the people in your life? What sort of man do you eventually want to be for them? That's pretty surprising though, since I've always thought that I'm an arrogant, selfish bastard.
 
+---
+
+### Radiance and Interest (21/02/20)
+* Your days aren't supposed to pass by with a sense of blandness and boredom.
+* You're supposed to do things that have a sense of life to them - a feeling of radiance.
+* If you care about something, and it makes you feel excited, you should go work on it immediately. Don't put it off. 'Inspiration is perishable'. 
+* And if you've approached your work and activities for the day with that sense of excitement, that seems to transfer over to your social life too - you're much more interesting and alive when you talk to people on those days.
+* Sometimes though, what interests you most is a novel or sadly even a video game. But that's actually fine - they're works of art made by creative authors and designers. Fully following your interest in them for a short while keeps you curious. For some reason, suppressing your curiosity about them (because they're 'consumerist' and 'useless') seems to turn off your curiosity in other things too (like your research). 
 
 ---
 
 ### Complex Systems, Leverage Points and using Evolutionary Pressure
 
-* Whenever you want to make a big change or lasting perturbation to a complex system it's best to apply your energy where it really counts - at the ['leverage points'](https://en.wikipedia.org/wiki/Twelve_leverage_points).
-* From the perspective of a hunting lion, the best way to 'perturb' and control the complex behaviour of a fleeing antelope is to aim for the throat. The jugular is the leverage point here. I'm sure the guys with Wrestling and Jiu Jitsu experience will instinctively know this from their own parallel experiences.
-* Recently though, I realised that one of the most complex systems that I've struggled to control and 'perturb' is my own psychology. Maybe that sounds pathetic or weak, but it's something even great men in the past had to deal with. Stoicism and Existentialism, and maybe the whole of Philosophy itself, might be evidence of that.
-* Of all the 'leverage points' that I've found in my psyche, the best of them seem to share one theme: **evolutionary pressure**, or genetic survival. If I use an idea that involves evolutionary pressure in it, then I can change my mood and psychology almost immediately. Whereas if I use an idea that doesn't quite viscerally connect to evolutionary survival, it's much harder to manipulate my own mood.
-* A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, loyalty to your team and the people relying on you, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run. And for some reason they're strongly motivating and effective at shifting my focus - maybe because  my brain knows instinctively that these are the important metrics to consider.
+* Whenever you want to make a big change to a complex system, it's best to apply your energy where it really counts - at the ['leverage points'](https://en.wikipedia.org/wiki/Twelve_leverage_points).
+* From the perspective of a hunting lion, the best way to 'perturb' and control the complex behaviour of a fleeing antelope is to aim for the throat. The jugular is the 'leverage point' here. 
+* Recently though, I realised that one of the most complex systems that I've struggled to control and 'perturb' is my own psychology. Maybe that sounds pathetic or weak, but it's something I think even great men in the past had to deal with. Stoicism might be evidence of that. If Marcus Aurelius struggled with his own mind, then maybe it's OK for me to do the same.
+* Of all the 'leverage points' that I've found in my psyche, a lot of them seem to share one theme: **evolutionary pressure**, or genetic survival. If I use an idea that involves evolutionary pressure in it, then I can change my mood and psychology almost immediately. Whereas if I use an idea that doesn't quite viscerally connect to evolutionary survival, it's much harder to manipulate my own mood.
+* A few 'evolutionarily relevant' thoughts that act as high-leverage ideas to shift my mood: Memento Mori, Respect from your heroes who you want to live up to, loyalty to your team and the people relying on you, admiration from your future children, respect from a girl that you care about. All of these are evolutionarily relevant pressures over the long run - they had effects on our tribal ancestors. And maybe because of that, they're effective at impacting your mood.
 * Other external leverage 'points' that have a massive impact on mood and psychology and quality of focus: Sleep, Caffeine, Diet quality
 
 --- 
 
 ### --. Ancestrally Lost Emotions
 There are a few 'ancestral' emotions that, historically, our ancestors have always felt and lived with, that nowadays most of us don't feel. Maybe it would be a good idea to design your life so that you actually experience some of these emotions.
-* **Being needed by your team** - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*\t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
-* **Loyalty** - when was the last time you actually had to live with a sense of loyalty towards a group? A sense that you should sacrifice some of your own selfish interests for the good of the whole group? Or are you working for a team you don't respect, full of obedient cowards who've never taken any risks in their entire lives, but you 'need the money' so you tolerate it? How can you ever be loyal to a group that you don't respect? And how can you be loyal to a boss who you never voted into power? 
-* **Craftsmanship** - when was the last time you felt a sense of pride and craftsmanship regarding your work? Can you take pride in the quality and elegance of the work that you create? Can you move towards a sense of mastery? Or are you shuffling papers around and sending emails for a living: the kind of job that takes a new grad only 2 or 3 months to learn how to do? (Interesting note on the importance of social rewards, even for something individualistic like design and craft: when you 'craft' things, a lot of the time you're making the thing for other people. Craftsmen and designers don't hide their work for themselves...)
-* **Risk and Adventure** - are you working on something where you could fail? Are you chasing a goal that makes your life into a bit of an adventure? Or are you obediently doing what you're supposed to do all the time, and your sense of adventure is derived purely from travel/holidays and planned experiences? See, that's not adventure - that's just expensive consumerism. But since it's expensive and more exclusive than, say, watching Netflix, it becomes prestigious. 
+* **Being needed by your team** - when was the last time that you felt *needed* within your 'tribe'? Not just *"it would be nice to have you tag along, but if you dont turn up we'll still survive"*, but more like *"we need you on our team and without you this mission has a real chance of failure, so get your sh\*t together and stop whining"*. As harsh as that sounds to hear, there's something strangely warm there.
+* **Loyalty** - when was the last time you actually had to live with a sense of loyalty towards a group? A sense that you should sacrifice some of your own selfish interests for the good of the whole group? Or are you working for a team you don't respect, full of obedient cowards who've never taken any risks in their entire lives? How can you ever be loyal to a group that you don't respect? 
+* **Craftsmanship** - when was the last time you felt a sense of pride and craftsmanship regarding your work? Can you take pride in the quality and elegance of the work that you create? Can you move towards a sense of mastery? Or are you shuffling papers around and sending emails for a living?
+* **Risk and Adventure** - are you working on something where you could fail? Are you chasing a goal that makes your life into a radiant adventure? Or are you obediently doing what you're supposed to do all the time, and your sense of adventure is derived purely from travel/holidays and planned experiences? See, that's not adventure - that's just expensive consumerism. But since it's expensive and more exclusive than, say, watching Netflix, it becomes borderline prestigious ('oh wow you went to Argentina, how impressive'). 
 
 Maybe the solution is to work in small selective teams with autonomy and shared values (like Startups, small Hedge Funds and elite R&D groups) and chase high-risk-high-reward opportunities as a team. Maybe that's the more ancestrally suited way to work.
 
@@ -74,7 +76,7 @@ Maybe the solution is to work in small selective teams with autonomy and shared 
 * On the other hand, I've worked under the leadership of other guys that I really couldn't bring myself to respect. I think the core feeling I always had was: *this guy is only leading because he's older and was promoted in the past. He isn't actually better, and he doesn't take any risks for his opinions. Why the f\*\*\* does this guy get to make all the decisions? And worse, why does this dumb\*\*\* have a disproportionately powerful impact on my own life and career? Even my friends and family don't have this much power over my life.*.
 * Maybe that means the only valid option is to work for someone who you respect: work directly for the entrepreneur or risk-taker in an organisation.
 * **A possible heuristic:** *If your boss doesn't own x% of the company, or doesn't make a %-commission, would you really be able to listen to him and learn much from him? How can you listen to someone with no skin in the game?* 
-* Interestingly, this idea seems to limit the size of the company you can work for. Work in a company that's too big and you'll be stuck listening to a non-risk-taking middle manager. 
+* Interestingly, this idea seems to limit the size of the company you can work for. Work in a company that's too big and you'll be stuck listening to a non-risk-taking middle manager with no real %-ownership of the company.
 * And it adds some healthy pressure to you as well: *have some useful skills that can help entrepreneurs/investors directly make money. If you can't do that, then you'll never get to work with those guys.*
 
 ---

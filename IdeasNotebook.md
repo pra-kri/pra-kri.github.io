@@ -11,7 +11,7 @@ title: Ideas Notebook
 
 ---
 
-### Discontinuous Jumps + Black Swan Farming
+### Discontinuous Jumps + Black Swan Farming (22/02/20)
 * Expose yourself to 'positive black swans' - things that would make a disproportionately positive impact on your life if it works out. You want those discontinuous jumps to help you compound your growth (skills, opportunities and wealth).
   * "I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote. Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes." - Sam Altman
   * "Work hard, not in grunt work, but in chasing \[+ve black swans\] and maximising exposure to them.' - N.N.Taleb

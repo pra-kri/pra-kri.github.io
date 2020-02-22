@@ -11,6 +11,14 @@ title: Ideas Notebook
 
 ---
 
+### Discontinuous Jumps + Black Swan Farming
+* Expose yourself to 'positive black swans' - things that would make a disproportionately positive impact on your life if it works out. You want those discontinuous jumps to help you compound your growth (skills, opportunities and wealth).
+  * "I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote. Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes." - Sam Altman
+  * "Work hard, not in grunt work, but in chasing \[+ve black swans\] and maximising exposure to them.' - N.N.Taleb
+  * "It is easy to see that life is the cumulative effect of a handful of significant shocks. ... Look into your own personal life, to your choice of profession, say, or meeting your mate, your exile from your country of origin, the betrayals you faced, your sudden enrichment or impoverishment. How often did these things occur according to plan?" - N.N.Taleb
+
+
+
 ### The Internal Voice - or Self-Talk (19/2/20)
 * How I talk to myself, the internal voice and 'personality' I use to talk to myself, is how I talk to other people.
 * Some days I find it unreasonably difficult to talk to new people - especially if they're someone who I want to impress. I don't think it's social anxiety - it's more that I can't spontaneously say anything interesting or witty or funny. And that's painful. 

@@ -16,7 +16,7 @@ title: Ideas Notebook
   * "I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote. Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes." - Sam Altman
   * "Work hard, not in grunt work, but in chasing \[+ve black swans\] and maximising exposure to them.' - N.N.Taleb
   * "It is easy to see that life is the cumulative effect of a handful of significant shocks. ... Look into your own personal life, to your choice of profession, say, or meeting your mate, your exile from your country of origin, the betrayals you faced, your sudden enrichment or impoverishment. How often did these things occur according to plan?" - N.N.Taleb
-
+* Interestingly, the opportunities that provide these 'discontinuous jumps' are what you usually get most curious about. It's almost like your curiosity is designed to seek high-value opportunities; boredom is your instinct telling you that something probably isn't worth doing. Boredom might be your instinctive recognition of diminishing returns.
 
 
 ### The Internal Voice - or Self-Talk (19/2/20)

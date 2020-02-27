@@ -11,6 +11,35 @@ title: Ideas Notebook
 
 ---
 
+### Conscious Decisions (27/02/20)
+* Making decisions and taking ownership of your actions makes everything more fun - including discipline!
+* Sometimes an entire day (or even a week or a month) passes by and you feel like you've achieved nothing. Those times are *almost **always*** because you never consciously decided to take any actions. Instead, you just passively put off decisions and waited for the 'future you' to make decisions. 
+* If you put off studying or working for an hour, the best way to do it is to consciously decide that you're not going to work. That way, the small break that you take will actually feel like a break. Whereas if you passively wait without consciously deciding to take a break, the time still passes by but you feel like it's gone to waste.
+
+---
+
+### Overplanning and Cognitive Load (27/02/29)
+* If a reversible decision takes you more than 3 minutes to make because you have too many ideas and philosophies and productivity 'hacks' to take into account, then you're doing it wrong, dumbass. You have too much cognitive load just from your stupid systems.
+* Too many systems and rules can make an organisation painfully slow and bureaucratic. What makes you think your own mind is any different?
+
+---
+
+### Anti-Model Questions (27/02/29)
+* Asking yourself questions is a good way to bring back your attention to what you've actually decided to do.
+* And asking yourself questions about 'anti-models' (or *who you don't want to be*) is a good way to see if your decision is stupid.
+* **e.g.1**
+  * **Discontinuous Jump Question**: Are you working on something risky that could result in a positve discontinuous jump in your career? Something like a +ve Black Swan? (e.g. Research, VC, Writing, Options Trading, Startups). 
+  * **Anti-Model Version**: Or are you working on some boring, tedious, grunt work where your work scales linearly with time and effort? 
+* **e.g.2**
+  * **Relentless Aggression Question**: Are you relentlessly and aggressively working towards mastery and success in your self-defined field?
+  * **Anti-Model Version**: Or are are you one of those lazy, passive, weak guys who sit there passively waiting for life to happen to them? Laziness is ugly in young men.
+* **e.g.3**
+  * **Interest, Charm and Sincerity Question**: Can you articulate what you care about in an interesting way? Will people find you interesting and charming when you speak sincerely about what you care about?
+  * **Anti-Model Version**: Or are you boring and inarticulate? Are you one of those guys whose conversations are as lifeless and offputting as a dead rat in a NYC subway tunnel?
+
+
+---
+
 ### Discontinuous Jumps + Black Swan Farming (22/02/20)
 * Expose yourself to 'positive black swans' - things that would make a disproportionately positive impact on your life if it works out. You want those discontinuous jumps to help you compound your growth (skills, opportunities and wealth).
   * "I am willing to take as much time as needed between projects to find my next thing. But I always want it to be a project that, if successful, will make the rest of my career look like a footnote. Most people get bogged down in linear opportunities. Be willing to let small opportunities go to focus on potential step changes." - Sam Altman

@@ -12,8 +12,9 @@ title: Ideas Notebook
 ---
 
 ### A Harsh Perspective on Loneliness (02/03/20)
-* **Loneliness** - Being lonely, at least chronically, is a sign that no-one really wants you in their life. It means you don't add any value: you don't make them feel warm, your conversations don't interest them, your presence doesn't add value to their life. Sure, maybe that's harsh, but it's also freeing - it makes you focus on what you can do for other people, rather than just being a victim.
+* **Social Loneliness** - Being lonely, at least chronically, is a sign that no-one really wants you in their life. It means you don't add any value: you don't make them feel warm, your conversations don't interest them, your presence doesn't add value to their life. Sure, maybe that's harsh, but it's also freeing - it makes you focus on what you can do for other people, rather than just being a passive victim. 
 * **Financial Loneliness** - Lack of job opportunities, or not being offered any money, is partly a form of financial/economic loneliness. It's a sign that no-one wants to pay you for anything. But if you focus on what you can do for a business, or a client, then you'll never really be 'financially lonely'.
+* **Romantic Loneliness** - obvious parallels here. Probably better not to write anything about this though - it would be too soppy.
 
 ---
 

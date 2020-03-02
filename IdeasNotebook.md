@@ -26,7 +26,7 @@ title: Ideas Notebook
 * And look at what skills you're picking up.
   * Are you learning something useful that can help you make decisions?
   * Are you learning how to communicate well with other people - both through speech and writing? 
-* Also, something weird that I've noticed: Too much tolerance and liberalism looks ugly in old men - conservatism and conviction look much more respectable. I'm not exactly sure why. 
+* Also, something weird that I've noticed: Too much tolerance and liberalism looks ugly in old men - conservatism and conviction look much more respectable. I'm not exactly sure why. Maybe it's because, from a historical and evolutionary perspective, the old, gritty, wise men were the ones who set the rules and the punishments for breaking them. 
 
 ---
 

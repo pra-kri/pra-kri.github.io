@@ -11,7 +11,7 @@ title: Ideas Notebook
 
 ---
 
-### The 'Aging Well' Question
+### The 'Aging Well' Question (02/03/20)
 * Maybe this is harsh, but there's something offputting about old men who have no wisdom or power. No guy wants to age into someone like that. So what's the best way to age well?
 * The most admirable old men seem to have consolidated *both power and wisdom*, where people rely on them for decision-making and advice. In other words: **leadership**.
 * Ideally as you age into your 40s, 50s, 60s+, you should want to serve people and add value to their lives, BUT it *must* come from a position of power. If it's not from a position of power, then it seems like slavery or obedience or just wimpy support-type work. That's why a 50-year-old who is a personal trainer, no matter how passionate he is about '*helping people get into shape*' is nowhere near as admirable as a 50-year-old in a position of leadership. 

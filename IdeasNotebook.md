@@ -11,6 +11,18 @@ title: Ideas Notebook
 
 ---
 
+### The 'Aging Well' Question
+* Maybe this is harsh, but there's something offputting about old men who have no wisdom or power. No guy wants to age into someone like that. So what's the best way to age well?
+* The most admirable old men seem to have consolidated *both power and wisdom*, where people rely on them for decision-making and advice. In other words: **leadership**.
+* Ideally as you age into your 40s, 50s, 60s+, you should want to serve people and add value to their lives, BUT it *must* come from a position of power. If it's not from a position of power, then it seems like slavery or obedience or just wimpy support-type work. That's why a 50-year-old who is a personal trainer, no matter how passionate he is about '*helping people get into shape*' is nowhere near as admirable as a 50-year-old in a position of leadership. 
+* Look at ways that powerful, respectable men serve their 'tribe': it's almost always through leadership - the wisdom to make good decisions, and the power/influence to make that happen. 
+* And look at what skills you're picking up.
+  * Are you learning something useful that can help you make decisions?
+  * Are you learning how to communicate well with other people - both through speech and writing? 
+* Also, something weird that I've noticed: Too much tolerance and liberalism looks ugly in old men - conservatism and conviction look much more respectable. I'm not exactly sure why. 
+
+---
+
 ### Conscious Decisions (27/02/20)
 * Making decisions and taking ownership of your actions makes everything more fun - including discipline!
 * Sometimes an entire day (or even a week or a month) passes by and you feel like you've achieved nothing. Those times are *almost **always*** because you never consciously decided to take any actions. Instead, you just passively put off decisions and waited for the 'future you' to make decisions. 

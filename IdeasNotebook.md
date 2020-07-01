@@ -11,6 +11,16 @@ title: Ideas Notebook
 
 ---
 
+### Outsourcing Pain (01/07/20)
+* There's a saying that alcoholics sometimes say: "If your heart can't handle the pain, send it to your liver." It's not just alcoholics who do that though - I've known friends (and myself, too) who drink or smoke a bit more than usual when they're a bit heartbroken.
+* But I think that principle doesn't just apply to '*justified*' alcoholism or chain-smoking - you can always shift the pain from one place to another to benefit.
+* If it's painful for you to spend time working on something, outsource it with money. Pay someone to do it for you, so you don't have to stress about it. Your bank account will feel the 'pain' instead - but maybe that's a better type of pain for you.
+* In fact, automation is a form of outsourcing 'pain'. You don't want to do something 100 time in the futures, so you spend a bit of extra time at the start to build an automated system. You're absorbing the pain and tedium today, so your future 'self' doesn't have to worry as much. (Unless you build bad automated systems full of spaghetti-code, in which case you're absoluted f\*\*ked.) 
+* Putting important things off for tomorrow is the opposite sort of outsourcing - you just pass it on to your future self.
+* Also, I think the act of *not taking responsibility for your mistakes, and blaming other people* is a hilarious unhealthy way to outsource pain. 'Just pass the blame and the pain on to someone else so you feel OK about yourself'. 
+
+---
+
 ### A Harsh Perspective on Loneliness (02/03/20)
 * **Social Loneliness** - Being lonely, at least chronically, is a sign that no-one really wants you in their life. It means you don't add any value: you don't make them feel warm, your conversations don't interest them, your presence doesn't add value to their life. Sure, maybe that's harsh, but it's also freeing - it makes you focus on what you can do for other people, rather than just being a passive victim. 
 * **Financial Loneliness** - Lack of job opportunities, or not being offered any money, is partly a form of financial/economic loneliness. It's a sign that no-one wants to pay you for anything. But if you focus on what you can do for a business, or a client, then you'll never really be 'financially lonely'.

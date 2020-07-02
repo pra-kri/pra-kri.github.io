@@ -11,6 +11,14 @@ title: Ideas Notebook
 
 ---
 
+### Time Pressure: High and Low
+* Really useful trick to become very productive: Ask yourself: **'If you were *only* allowed to work for 2-hours this week, what would you work on?'**. (inspired by Tim Ferriss).
+* There's lots of time-pressure in this question: all the work you can do has to be done in 2 hours, which isn't a lot, so it makes you focused on the most important tasks.
+* But theres also no time-pressure too: you have an *entire* week to relax after the 2 hours. 
+* For some reason, the combination of high and low pressure makes you more likely to just get to work. No procrastination, no overplanning, no feeling of being overwhelmed. 
+* It kind of evokes a similar feeling to revising just before deadlines - there's *lots* of pressure since the exam is so close, but not much pressure as well because you know it'll be over soon and there's not much else you can do. 
+* To summarise, it's like you've accepted that you can't change the outcome too much (since you don't have much time left) so the pressure falls away ***and*** you also have enough time pressure that you can only focus on the most important activities.
+
 ### Outsourcing Pain (01/07/20)
 * There's a saying that alcoholics sometimes say: "If your heart can't handle the pain, send it to your liver." It's not just alcoholics who do that though - I've known friends (and myself, too) who drink or smoke a bit more than usual when they're a bit heartbroken.
 * But I think that principle doesn't just apply to '*justified*' alcoholism or chain-smoking - you can always shift the pain from one place to another to benefit.

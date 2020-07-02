@@ -18,6 +18,13 @@ title: Ideas Notebook
 * For some reason, the combination of high and low pressure makes you more likely to just get to work. No procrastination, no overplanning, no feeling of being overwhelmed. 
 * It kind of evokes a similar feeling to revising just before deadlines - there's *lots* of pressure since the exam is so close, but not much pressure as well because you know it'll be over soon and there's not much else you can do. 
 * To summarise, it's like you've accepted that you can't change the outcome too much (since you don't have much time left) so the pressure falls away ***and*** you also have enough time pressure that you can only focus on the most important activities.
+* **SIMILAR QUESTION FOR MScR**: ***If you could only learn 4 formulae/techniques during your entire MScR, and their applications, which 4 would you learn?***
+    * Kelly Criterion (Optimisation of E\[logX]) - for gambling, asset allocation and portfolio optimisation.
+    * Systematic Value Investing - or a more refined version: Austrian Investing (detailed in 'The Dao of Capital' by M.Spitznagel)
+    * Options Pricing - Black-Scholes, or Bachelier-Thorp version (as NNT calls it)
+    * Bayes Theorem - for Bayesian Probability and modelling.
+    * **And for each of the 4 formulae above, if you could *only* learn 4 applied examples, which 4 examples would you learn?
+    * **In total, that gives you 16 examples to talk about in depth**, which might be more than enough for any normal interview.
 
 ### Outsourcing Pain (01/07/20)
 * There's a saying that alcoholics sometimes say: "If your heart can't handle the pain, send it to your liver." It's not just alcoholics who do that though - I've known friends (and myself, too) who drink or smoke a bit more than usual when they're a bit heartbroken.

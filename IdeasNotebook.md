@@ -23,7 +23,7 @@ title: Ideas Notebook
     * Systematic Value Investing - or a more refined version: Austrian Investing (detailed in 'The Dao of Capital' by M.Spitznagel)
     * Options Pricing - Black-Scholes, or Bachelier-Thorp version (as NNT calls it)
     * Bayes Theorem - for Bayesian Probability and modelling.
-    * **And for each of the 4 formulae above, if you could *only* learn 4 applied examples, which 4 examples would you learn?
+    * **And for each of the 4 formulae above, if you could *only* learn 4 applied examples, which 4 examples would you learn?**
     * **In total, that gives you 16 examples to talk about in depth**, which might be more than enough for any normal interview.
 
 ### Outsourcing Pain (01/07/20)

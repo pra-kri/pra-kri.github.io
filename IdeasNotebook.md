@@ -11,7 +11,7 @@ title: Ideas Notebook
 
 ---
 
-### Time Pressure: High and Low
+### Time Pressure: High and Low (03/07/20)
 * Really useful trick to become very productive: Ask yourself: **'If you were *only* allowed to work for 2-hours this week, what would you work on?'**. (inspired by Tim Ferriss).
 * There's lots of time-pressure in this question: all the work you can do has to be done in 2 hours, which isn't a lot, so it makes you focused on the most important tasks.
 * But theres also no time-pressure too: you have an *entire* week to relax after the 2 hours. 

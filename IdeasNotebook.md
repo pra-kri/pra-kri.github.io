@@ -18,6 +18,7 @@ title: Ideas Notebook
 * For some reason, the combination of high and low pressure makes you more likely to just get to work. No procrastination, no overplanning, no feeling of being overwhelmed. 
 * It kind of evokes a similar feeling to revising just before deadlines - there's *lots* of pressure since the exam is so close, but not much pressure as well because you know it'll be over soon and there's not much else you can do. 
 * To summarise, it's like you've accepted that you can't change the outcome too much (since you don't have much time left) so the pressure falls away ***and*** you also have enough time pressure that you can only focus on the most important activities.
+* It's also quite similar to a question that Peter Thiel asks himself apparently: '**If you have a 10-year plan of how to get \[somewhere], you should ask: Why can't you do this in 6 months?**'
 * **SIMILAR QUESTION FOR MScR**: ***If you could only learn 4 formulae/techniques during your entire MScR, and their applications, which 4 would you learn?***
     * Kelly Criterion (Optimisation of E\[logX]) - for gambling, asset allocation and portfolio optimisation.
     * Systematic Value Investing - or a more refined version: Austrian Investing (detailed in 'The Dao of Capital' by M.Spitznagel)

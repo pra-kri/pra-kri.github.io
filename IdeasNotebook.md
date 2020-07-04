@@ -11,6 +11,15 @@ title: Ideas Notebook
 
 ---
 
+### How To Argue Properly (04/07/20)
+* After a few recent mistakes, I realised I argue *incorrectly*, to put it lightly.
+* The fundamental principle behind healthy arguments, from what I've learnt, whether it's with someone you love or with colleagues at work, seems to be: **Drop your ego for 10 seconds, and have enough courage to say how you feel - even if it's difficult.** Apathy is NOT appropriate - that's just a defense mechanism to escape your responsibility to express what's difficult.
+    * 1. Have enough courage to **say what you want, and what would make you happy**. Do NOT hide those emotions - they can't read your mind, dumbass.
+    * 2. Have enough courage to **express any anger or disappointment**. Hiding those negative emotions will just make you resentful and passive-aggressive. Who would ever trust a guy who doesn't have the balls to argue. Hiding your anger, only to become resentful, is repulsive and cowardly.
+    * 3. Have enough courage to **express guilt/ apologize**. If you screwed up and got too angry, say sorry. Not taking responsibility for your mistakes is pathetic.
+    * 4. Have enough courage to **walk away if there's no reciprocal honesty or respect**. Sticking around when you're not being treated with respect or honesty is pretty undignifying. This is the only time where apathy and coldness might be appropriate - walk away.
+    
+
 ### Time Pressure: High and Low (03/07/20)
 * Really useful trick to become very productive: Ask yourself: **'If you were *only* allowed to work for 2-hours this week, what would you work on?'**. (inspired by Tim Ferriss).
 * There's lots of time-pressure in this question: all the work you can do has to be done in 2 hours, which isn't a lot, so it makes you focused on the most important tasks.

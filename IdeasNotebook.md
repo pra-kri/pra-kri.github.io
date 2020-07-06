@@ -10,6 +10,12 @@ title: Ideas Notebook
 
 
 ---
+### Cynicism, Expectations, Hope (06/07/20)
+* Unmet expectations only seem to hurt if you changed your plans for them.
+* If you don't change your plans at all, and you keep doing what you were already going to do, an unmet expectation doesn't hurt much, if at all.
+* Maybe that's the whole idea behind the phrase *"Don't get your hopes up."*
+* A mild/bland example is: Rainy weather only 'hurts' if you changed your plans and decided to have a barbeque. If you didn't change your plans to rely on good weather, the rain wouldn't affect you as much. Honestly, the weather example really doesn't matter too much. Relationships are the real domain here.
+* Maybe the solution to avoiding disappointment is: It's OK to hope for something good, but don't change your plans for it. Keep doing what you would've done even if you didn't hope for the 'event'.
 
 ### How To Argue Properly (04/07/20)
 * After a few recent mistakes, I realised I argue *incorrectly*, to put it lightly.

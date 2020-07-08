@@ -11,6 +11,12 @@ title: Ideas Notebook
 
 ---
 
+### Two types of 'Sacrifice' (08/07/20)
+* There seem to be 2 types of sacrifice: **steady riskless sacrifice** and **risky uncertain sacrifice**.
+* The first type, steady riskless sacrifice, is linked to ideas like 'work ethic', 'discipline'. Mostly ideas revolving around reliability and the ability to consistently make sacrifices.
+* The second type, risky (uncertain) sacrifice, is linked to courage. If it wasn't risky, there would be no fear. And if there's no fear, there's no real courage. Taking uncertain risks (for something you believe in) seems intrinsically linked to courage, and heroism. Maybe that's why I find entrepreneurs to be 'economically heroic' - they take risks for their economic beliefs. 
+
+
 ### Pain and Sacrifice (08/07/20)
 * What you believe in can only be proved by the sacrifices you make for it - and sacrifice, by nature, is supposed to be painful.
 * If you think you're an honest person, you should be honest even when it's painful. Otherwise you're not really honest.

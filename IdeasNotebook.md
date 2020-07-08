@@ -23,17 +23,17 @@ title: Ideas Notebook
 * Unmet expectations only seem to hurt if you changed your plans for them.
 * If you don't change your plans at all, and you keep doing what you were already going to do, an unmet expectation doesn't hurt much, if at all.
 * Maybe that's the whole idea behind the phrase *"Don't get your hopes up."*
-* A mild/bland example is: Rainy weather only 'hurts' if you changed your plans and decided to have a barbeque. If you didn't change your plans to rely on good weather, the rain wouldn't affect you as much. Honestly, the weather example really doesn't matter too much. Relationships are the real domain here.
+* A mild/bland example is: Rainy weather only 'hurts' if you changed your plans and decided to have a barbeque. If you didn't change your plans to rely on good weather, the rain wouldn't affect you as much. Honestly, the weather example really doesn't matter too much - relationships are the real domain here.
 * Maybe the solution to avoiding disappointment is: It's OK to hope for something good, but don't change your plans for it. Keep doing what you would've done even if you didn't hope for the 'event'. 
-* In a way, this is a bit like *'outcome independence'* - do what's right, and expect nothing from the outcome. 
+* In a way, this is a bit like *'outcome independence'* - do what's right, and expect nothing from the outcome. It's hard though...
 
 ### How To Argue Properly (04/07/20)
 * After a few recent mistakes, I realised I argue *incorrectly*, to put it lightly.
-* The fundamental principle behind healthy arguments, from what I've learnt, whether it's with someone you love or with colleagues at work, seems to be: **Drop your ego for 10 seconds, and have enough courage to say how you feel - even if it's difficult.** Apathy is NOT appropriate - that's just a defense mechanism to escape your responsibility to express what's difficult.
+* The fundamental principle behind healthy arguments, from what I've learnt, whether it's with someone you care about or with colleagues at work, seems to be: **Drop your ego for 10 seconds, and have enough courage to say how you feel - even if it's difficult.** Apathy is NOT appropriate - that's just a defense mechanism to escape your responsibility to express what's difficult.
     * 1. Have enough courage to **say what you want, and what would make you happy**. Do NOT hide those emotions - they can't read your mind, dumbass.
     * 2. Have enough courage to **express any anger or disappointment**. Hiding those negative emotions will just make you resentful and passive-aggressive. Who would ever trust a guy who doesn't have the balls to argue. Hiding your anger, only to become resentful, is repulsive and cowardly.
     * 3. Have enough courage to **express guilt/ apologize**. If you screwed up and got too angry, say sorry. Not taking responsibility for your mistakes is pathetic.
-    * 4. Have enough courage to **walk away if there's no reciprocal honesty or respect**. Sticking around when you're not being treated with respect or honesty is pretty undignifying. This is the only time where apathy and coldness might be appropriate - walk away.
+    * 4. Have enough courage to **walk away if there's no reciprocal honesty or respect**. Sticking around when you're not being treated with respect or honesty is pretty undignifying. This is the only time where apathy and coldness might be appropriate - walk away. But almost always this never happens - people open up to you the moment you open up to them.
     
 
 ### Time Pressure: High and Low (03/07/20)

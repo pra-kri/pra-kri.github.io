@@ -10,12 +10,22 @@ title: Ideas Notebook
 
 
 ---
+
+### Pain and Sacrifice (08/07/20)
+* What you believe in can only be proved by the sacrifices you make for it - and sacrifice, by nature, is supposed to be painful.
+* If you think you're an honest person, you should be honest even when it's painful. Otherwise you're not really honest.
+* If you think you're loyal, you should be loyal even when it's painful and unprofitable. Otherwise you're not loyal.
+* If you think you're 'passionate' about a craft or skill or career, you should put the work in even when it hurts, at the expense of your other feelings. Otherwise, are you really 'passionate' about it?
+* I guess there's a positive to all of this though: the pain means you care. It's proof that you're willing to make sacrifices. And to help, maybe you can take pride in the fact that you're making the sacrifice.
+* It seems similar to the definition of courage: it's only courage if you're scared. Otherwise, it's recklessness. Without the obstacle of fear to overcome, without making that sacrifice and taking that risk, it's not real courage. 
+
 ### Cynicism, Expectations, Hope (06/07/20)
 * Unmet expectations only seem to hurt if you changed your plans for them.
 * If you don't change your plans at all, and you keep doing what you were already going to do, an unmet expectation doesn't hurt much, if at all.
 * Maybe that's the whole idea behind the phrase *"Don't get your hopes up."*
 * A mild/bland example is: Rainy weather only 'hurts' if you changed your plans and decided to have a barbeque. If you didn't change your plans to rely on good weather, the rain wouldn't affect you as much. Honestly, the weather example really doesn't matter too much. Relationships are the real domain here.
-* Maybe the solution to avoiding disappointment is: It's OK to hope for something good, but don't change your plans for it. Keep doing what you would've done even if you didn't hope for the 'event'.
+* Maybe the solution to avoiding disappointment is: It's OK to hope for something good, but don't change your plans for it. Keep doing what you would've done even if you didn't hope for the 'event'. 
+* In a way, this is a bit like *'outcome independence'* - do what's right, and expect nothing from the outcome. 
 
 ### How To Argue Properly (04/07/20)
 * After a few recent mistakes, I realised I argue *incorrectly*, to put it lightly.

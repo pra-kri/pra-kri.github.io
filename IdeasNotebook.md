@@ -5,11 +5,21 @@ title: Ideas Notebook
 
 <p class="message">
   <b>A notebook of quick ideas, thoughts, mental models, personal lessons and reminders.</b> <br>
-  Over time, this page is starting to resemble something more like a journal of lessons than a technical research notebook. Not sure if that's a good thing, but I'll keep writing. Should be interesting to see the progress in a few months...
+  Over time, this page is starting to resemble something more like a journal of lessons than a technical research notebook. Not sure if that's a good thing, but I'll keep writing. Should be interesting to see the progress in a few months... (Almost all the recent ideas are personal, and not very technical...)
 </p>
 
 
 ---
+
+### TODO: Insulin Sensitivity, Cancer Risk, Keto/Carnivore/Low-Carb Diets
+* ... (I haven't done enough technical research on this topic to write anything competent here, but apparently cancer cells are highly glucose-dependent, so starving them of glucose and going into ketosis might be a good idea in general. Ketogenic/Carnivore diets and intermittent fasting will *probably* help here...) 
+* TODO.
+
+### Observations On Addiction (09/07/20)
+* 'Quitting smoking is easy, I've done it hundreds of times...'
+* Something I've noticed about addiction: when you indulge in your addiction, your interest in other things stays strong. 
+* But the moment you try to quit your addiction, and it's no longer part of your life, all the other things you used to care about seem much less interesting. The cravings are so overwhelming that the rest of your life pales in comparison to it.
+* It's not just chemical/substance addiction that affects you this way. You can get addicted to people too. When they leave your life, everything else that you used to care about becomes less important.  
 
 ### Two types of 'Sacrifice' (08/07/20)
 * There seem to be 2 types of sacrifice: **steady riskless sacrifice** and **risky uncertain sacrifice**.

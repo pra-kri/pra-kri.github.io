@@ -11,9 +11,16 @@ title: Ideas Notebook
 
 ---
 
-### Ownership and Enjoyment, for Responsibility and Sacrifices
-* 
-
+### Pain and Sacrifice, as a necessary condition for virtue (09/07/20)
+* What you believe in can only be proved by the sacrifices you make for it - and sacrifice, by nature, is supposed to be painful. 
+* Sometimes, you can almost *enjoy* the pain, and take pride in it - but there's almost always supposed to be a trade-off. Otherwise, you're just doing whatever is most profitable in the moment.
+* For example...
+    * If you think you're an honest person, you should be honest even when it's painful. Otherwise you're not really honest. You can 'profit' from the pride in knowing that you're honest and forthright. But other than that, honesty should hurt - otherwise you're just doing what's easiest for you in the moment. 
+    * If you think you're loyal, you should be loyal even when it's painful and unprofitable. Otherwise you're not loyal - you're just sticking around when it suits you.
+    * If you think you're 'passionate' or 'interested' in a craft/skill/career, you should put the work in even when it hurts, at the expense of your other feelings. Otherwise, are you really 'passionate' about it?
+    * If you think you're 'brave' or 'courageous', you should be willing to pay the price of overcoming fear. That's the sacrifice. If there's no fear, then is it really bravery? Without fear, it's just recklessness. 
+    * If you think you 'love' something, or someone, you should be willing to sacrifice something for them. 'Love without sacrifice is like theft' - NNT. Otherwise, you're just sticking around when it feels good, but not willing to take risks, or make sacrifices, for your 'love'. In other words, your 'love' is hollow and meaningless. It's just some b\*\*\*\*\*\*t  you tell yourself because it feels nice. 
+    
 ### TODO: Insulin Sensitivity, Cancer Risk, Keto/Carnivore/Low-Carb Diets
 * ... (I haven't done enough technical research on this topic to write anything competent here, but apparently cancer cells are highly glucose-dependent, so starving them of glucose and going into ketosis might be a good idea in general. Ketogenic/Carnivore diets and intermittent fasting will *probably* help here... Been doing that for a few months now.) 
 * TODO.
@@ -29,14 +36,6 @@ title: Ideas Notebook
 * The first type, steady riskless sacrifice, is linked to ideas like 'work ethic', 'discipline'. Mostly ideas revolving around reliability and the ability to consistently make sacrifices.
 * The second type, risky (uncertain) sacrifice, is linked to courage. If it wasn't risky, there would be no fear. And if there's no fear, there's no real courage. Taking uncertain risks (for something you believe in) seems intrinsically linked to courage, and heroism. Maybe that's why I find entrepreneurs to be 'economically heroic' - they take risks for their economic beliefs. 
 
-
-### Pain and Sacrifice (08/07/20)
-* What you believe in can only be proved by the sacrifices you make for it - and sacrifice, by nature, is supposed to be painful.
-* If you think you're an honest person, you should be honest even when it's painful. Otherwise you're not really honest.
-* If you think you're loyal, you should be loyal even when it's painful and unprofitable. Otherwise you're not loyal.
-* If you think you're 'passionate' about a craft or skill or career, you should put the work in even when it hurts, at the expense of your other feelings. Otherwise, are you really 'passionate' about it?
-* I guess there's a positive to all of this though: the pain means you care. It's proof that you're willing to make sacrifices. And to help, maybe you can take pride in the fact that you're making the sacrifice.
-* It seems similar to the definition of courage: it's only courage if you're scared. Otherwise, it's recklessness. Without the obstacle of fear to overcome, without making that sacrifice and taking that risk, it's not real courage. 
 
 ### Cynicism, Expectations, Hope (06/07/20)
 * Unmet expectations only seem to hurt if you changed your plans for them.

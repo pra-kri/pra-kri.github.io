@@ -12,7 +12,7 @@ title: Ideas Notebook
 ---
 
 ### TODO: Insulin Sensitivity, Cancer Risk, Keto/Carnivore/Low-Carb Diets
-* ... (I haven't done enough technical research on this topic to write anything competent here, but apparently cancer cells are highly glucose-dependent, so starving them of glucose and going into ketosis might be a good idea in general. Ketogenic/Carnivore diets and intermittent fasting will *probably* help here...) 
+* ... (I haven't done enough technical research on this topic to write anything competent here, but apparently cancer cells are highly glucose-dependent, so starving them of glucose and going into ketosis might be a good idea in general. Ketogenic/Carnivore diets and intermittent fasting will *probably* help here... Been doing that for a few months now.) 
 * TODO.
 
 ### Observations On Addiction (09/07/20)

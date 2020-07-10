@@ -5,9 +5,11 @@ title: Admiration and Work
 
 ### An Admiration-Based Approach to Work (redone: 10/07/20)
 
+# DISCLAIMER: This is advice to myself, obviously. It might not apply to everyone else...
+
 **Ideally, knowledge should be powerful**; Your knowledge should help you become a better decision maker under risk and uncertainty; it should help you gain control over your own time so you can sacrifice that time for what you deeply care about. If you're not choosing your own sacrifices, how is it any different to slavery? Your knowledge should develop your character and make your conversations and relationships more colourful; it should make your life more meaningful; it should help you carve out your own place in society and give you more opportunities to be a bit more like the men you admire. Your knowledge, and your work, should have a sense of humanity and admiration behind it. 
 
-**And what if it's not like that?**  Then maybe you're working on stupid sh\*t. If it doesn't help you become more interesting and admirable, and if your conversations and relationships are *less* colourful because of your work, and it detracts from your life, and it doesn't help you pick up responsibility and take your place in your community... then... what are you? A drone-like insect? Sounds great, have fun. Keep doing that. Maybe one day you'll get the pleasant opportunity to learn what 'regret' and 'wasted life' means. (*For a similar but much more polite and classy argument, please see 'On The Shortness of Life' by Seneca. He's much more well-spoken and well-informed than I am...*)
+**And what if it's not like that?**  Then maybe you're working on stupid sh\*t. If it doesn't help you become more interesting and admirable, if your conversations and relationships are *less* colourful because of your work, if it detracts from your life, and it doesn't help you pick up responsibility and take your place in your community... then what are you? A drone-like insect? Sounds great, have fun. Keep doing that. Maybe one day you'll get the pleasant opportunity to learn what 'regret' and 'wasted life' means. (*For a similar but much more polite and classy argument, please see 'On The Shortness of Life' by Seneca. He's much more well-spoken and well-informed than I am...*)
 
 
 <table style="width:140%">

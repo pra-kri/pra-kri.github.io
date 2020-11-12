@@ -12,14 +12,12 @@ title: Ideas Notebook
 ---
 
 ### Pain and Sacrifice, as a necessary condition for virtue (09/07/20)
-* What you believe in can only be proved by the sacrifices you make for it - and sacrifice, by nature, is supposed to be painful. 
-* Sometimes, you can almost *enjoy* the pain, and take pride in it - but there's almost always supposed to be a trade-off. Otherwise, you're just doing whatever is most profitable in the moment.
+* What you believe in can only be proved by the sacrifices you make for it. Otherwise, you're just doing whatever is most profitable in the moment.
 * For example...
-    * If you think you're an honest person, you should be honest even when it's painful. Otherwise you're not really honest. You can 'profit' from the pride in knowing that you're honest and forthright. But other than that, honesty should hurt - otherwise you're just doing what's easiest for you in the moment. 
-    * If you think you're loyal, you should be loyal even when it's painful and unprofitable. Otherwise you're not loyal - you're just sticking around when it suits you.
-    * If you think you're 'passionate' or 'interested' in a craft/skill/career, you should put the work in even when it hurts, at the expense of your other feelings. Otherwise, are you really 'passionate' about it?
-    * If you think you're 'brave' or 'courageous', you should be willing to pay the price of overcoming fear. That's the sacrifice. If there's no fear, then is it really bravery? Without fear, it's just recklessness. 
-    * If you think you 'love' something, or someone, you should be willing to sacrifice something for them. 'Love without sacrifice is like theft' - NNT. Otherwise, you're just sticking around when it feels good, but not willing to take risks, or make sacrifices, for your 'love'. In other words, your 'love' is hollow and meaningless. It's just some b\*\*\*\*\*\*t  you tell yourself because it feels nice. 
+    * Honesty can only be proven when lying is the easier path. 
+    * Loyalty can only be proven when disloyalty is the easier path.
+    * Courage/Bravery can only be proven when there is fear.
+    * 'Love without sacrifice is like theft' - NNT.
     
 ### TODO: Insulin Sensitivity, Cancer Risk, Keto/Carnivore/Low-Carb Diets
 * ... (I haven't done enough technical research on this topic to write anything competent here, but apparently cancer cells are highly glucose-dependent, so starving them of glucose and going into ketosis might be a good idea in general. Ketogenic/Carnivore diets and intermittent fasting will *probably* help here... Been doing that for a few months now.) 

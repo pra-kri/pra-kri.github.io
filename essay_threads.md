@@ -4,9 +4,16 @@ title: Essay Threads
 ---
 
 A list of essay titles that I'll (probably) never get around to writing...
-Mostly the topics revolve around applied ethics and philosophy: stuff that'll help me take risks and make decisions under uncertainty. 
+Mostly the topics revolve around applied ethics and philosophy: stuff that'll help me take risks and make decisions under uncertainty.
+Most essays try to find connections between the following topics:
+* Maths (ref: Convexity + Jensen's Inequality, Path Dependence, Entropy)
+* Neuroscience (ref: Jaak Panksepp, Jordan Peterson, Elkhonon Goldberg, B.F. Skinner)
+* Gambling + Risk (ref: Nassim Taleb, Ed Thorp, Claude Shannon)
+* Mythology + Ethics + Psychology (i.e. Behaviour) (ref: Jordan Peterson, Carl Jung, Joseph Campbell, Mircea Eliade)
 
 
+
+* * **Dopamine, Play and Hunting**, or why we respect wolves more than rabbits, Eustress vs Distress, personal sovereignty, and ownership of beliefs and actions as a 'measure of humanity' (N.N.T.); Sensitivity of the PLAY circuitry to negative emotions (ref: Jaak Panksepp); Playfulness as a psychological health marker for feeling secure - explains why playfulness is attractive and signals confidence, and also explains why the most competent guy in the room is usually the most playful and relaxed; connections to Risk-taking and the 'Devil May Care' attitude...
 * **Risk and Leadership** - Leadership roles seem to go to those who can manage/mitigate risk the best, or to those who can take the best calculated risks. + Skin-in-the-game. + decision-making under uncertainty. "Historically (...) with a few curious exceptions, societies were run by risk-takers, not risk transferors." - N.N.T.
 * **Reacting *against* something; Anti-Models** - Exploring the following quote(s):"People focus on role models; it is more effective to find antimodels - people you don't want to resemble when you grow up." - NNT; "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent." - Charlie Munger; How to use anti-models to motivate behaviour; identity and personality traits are *reactive* and *comparative* to the rest of the population; why comparing your performance to your role models can sometimes be demotivating, but comparing performance to anti-models can be motivating; but take it too far and it becomes cartoonish:"I'm not like the other guys" 
 * **Disagreeableness and Capacity for Danger, in Trustworthiness** - how disagreeability and 'dangerousness' can indicate more trustworthiness during times of chaos. (i.e. if you had the unquestioning loyalty of both a Poodle and an Akita, which would you trust more for protecting your home?). + implications for the social world (i.e. why 'Nice Guys', the human equivalent of a poodle, never seem to inspire real trust, regardless of how nice and loyal they seem.) 
@@ -27,7 +34,6 @@ Mostly the topics revolve around applied ethics and philosophy: stuff that'll he
 * **How to Gamble Your Hours Away**, or 2-hour/2-week/6-week experiments, time as a currency for betting,'rational flaneuring', 'antelope vs field-mice', the neuropsychology of curiosity/interest, the 'orienting reflex', and how to bet your time on what matters; something similar to the Kelly Criterion applied to compounding knowledge over time: more frequent, directed bets and iterations ('aggressive tinkering') for more compounding, versus slow bets that take longer to compound; 
 * **One Act of Creation**, or why you should 'make before you manage'(T.Ferriss) on a daily scale, why you probably shouldn't 'wait until you have more experience' on a yearly scale, and path-dependent psychology.
 * **On Creativity and Contrarianism**, or when 'arrogant' disobedience can be a virtue and conformity a vice; creativity as a form of healthy 'arrogance'.
-* **Dopamine, Play and Hunting**, or why we respect wolves more than rabbits, Eustress vs Distress, personal sovereignty, and ownership of beliefs and actions as a 'measure of humanity' (N.N.T.).
 * **'High Agency', 'Relentlessly Resourceful', 'Aggressive Tinkering', 'Default: Aggressive'**, or why it pays to know how to say 'sorry, I f\*\*\*ed up' in the most charming way possible, and why following instructions is (sometimes) the wrong way to succeed.
 * **Polytheistic Discipline**, or discpline viewed as sacrifice, and how to use polytheistic ideas to motivate interest in the right sacrifices. 
 * **On the value of Constraints**, or why rebels and anti-authoritarians will always need a bureaucratic system to rail against, the necessity of an 'arch-nemesis' (E.Weinstein's idea), and why suffering and evil are almost necessary for a good story (+ connections to Dostoevsky, Nietzsche and Existentialism...?).

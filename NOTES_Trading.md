@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Notes - Superperformance Stocks
+title: Notes - Trading
 ---
 
-## Notes - 'Superperformance Stocks' 
+## Notes - 'Superperformance Stocks' Trading
 
 Ref: Mark Minervini, William O'Neil, David Ryan, Jesse Livermore, John Boik.
 

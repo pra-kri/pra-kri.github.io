@@ -12,6 +12,7 @@ Most essays try to find connections between the following topics:
 * Mythology + Ethics + Psychology (i.e. Behaviour) (ref: Jordan Peterson, Carl Jung, Joseph Campbell, Mircea Eliade)
 
 
+### Essay Ideas
 
 * * **Dopamine, Play and Hunting**, or why we respect wolves more than rabbits, Eustress vs Distress, personal sovereignty, and ownership of beliefs and actions as a 'measure of humanity' (N.N.T.); Sensitivity of the PLAY circuitry to negative emotions (ref: Jaak Panksepp); Playfulness as a psychological health marker for feeling secure - explains why playfulness is attractive and signals confidence, and also explains why the most competent guy in the room is usually the most playful and relaxed; connections to Risk-taking and the 'Devil May Care' attitude...
 * **Risk and Leadership** - Leadership roles seem to go to those who can manage/mitigate risk the best, or to those who can take the best calculated risks. + Skin-in-the-game. + decision-making under uncertainty. "Historically (...) with a few curious exceptions, societies were run by risk-takers, not risk transferors." - N.N.T.

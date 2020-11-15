@@ -6,10 +6,10 @@ title: Essay Threads
 A list of essay titles that I'll (probably) never get around to writing...
 Mostly the topics revolve around applied ethics and philosophy: stuff that'll help me take risks and make decisions under uncertainty.
 Most essays try to find connections between the following topics:
-* Maths (ref: Convexity + Jensen's Inequality, Path Dependence, Entropy)
+* Maths (ref: Convexity + Jensen's Inequality, Path Dependence + Ergodicity, Entropy)
 * Neuroscience (ref: Jaak Panksepp, Jordan Peterson, Elkhonon Goldberg, B.F. Skinner)
-* Gambling + Risk (ref: Nassim Taleb, Ed Thorp, Claude Shannon)
-* Mythology + Ethics + Psychology (i.e. Behaviour) (ref: Jordan Peterson, Carl Jung, Joseph Campbell, Mircea Eliade)
+* Gambling, Risk & Uncertainty (ref: Nassim Taleb, Ed Thorp, Claude Shannon)
+* Mythology, Ethics & Psychology (i.e. Behaviour) (ref: Jordan Peterson, Carl Jung, Joseph Campbell, Mircea Eliade)
 
 
 ### Essay Ideas

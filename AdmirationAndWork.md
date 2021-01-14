@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Admiration + Work
+---
 
 ### An Admiration-Based Approach to Work (redone: 10/07/20)
 

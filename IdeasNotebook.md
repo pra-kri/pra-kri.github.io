@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: Ideas Notebook
+---
 
 <p class="message">
   <b>A notebook of quick ideas, thoughts, mental models, personal lessons and reminders.</b> <br>
